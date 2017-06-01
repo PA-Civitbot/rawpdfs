@@ -1,0 +1,48 @@
+post-implementation issues until January 2010, and ongoing support on the
+maintenance and operation side of SAP through June 2010. He stated Staff
+would conduct a Request for Proposal (RFP) and award a contract by July
+2010 for ongoing SAP system support services.
+
+Utilities Director, Valerie Fong spoke on post-implementation issues and the
+City’s need to address them in order to improve customer service levels.
+She spoke on short-term actions to determine where more efficiency could
+be gained. She spoke on SAP system goals such as providing customers
+with information on energy and water usage, rewarding customers for using
+utilities efficiently, preparing for changes to metering regulations and
+initiatives, and integrating smart grid technology.
+
+City Manager, James Keene acknowledged the need to anticipate and
+develop long-term goals that were not factored into the SAP system’s
+spending plan.
+
+Administrative Services Director, Lalo Perez stated the SAP system would
+generate approximately 360,000 bills annually and invoice an estimated
+$198,500,000 in revenue.       Staff planned for modifications given the
+complexity of the system, and requests by the community for additional
+functionalities. Staff recommended extending the existing contract with
+Axon Solutions Inc. due to their level of engagement on current issues and
+expertise with the SAP system.       However, a full RFP process will be
+conducted as part of a competitive process.
+
+Council Member Barton inquired why there was $50,000 set aside for
+additional and unforeseen labor from the $223,725, as defined in the
+Agenda Item.
+
+Mr. Ramberg stated $50,000 would be set aside for unforeseen issues that
+were not on the existing list of maintenance and enhancement items. It was
+a contingency fund, and the City Manager would have the authority to
+implement a change order if necessary.
+
+Council Member Barton inquired why the lack of performance from Axon
+Solutions Inc. was identified in the Staff report as a post-implementation
+problem. He inquired on legal action the City could partake in.
+
+Mr. Perez stated Axon Solutions Inc. configured the SAP system as the City
+requested and the need for system enhancements was to reduce the amount
+of screen navigations to assist customers more efficiently.
+
+Council Member Barton stated certain bills needed to be manually modified
+and felt all bills should be compatible with SAP.
+
+10/26/09                                                           105-260
+

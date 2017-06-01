@@ -1,0 +1,49 @@
+                               MINUTES
+
+Council Member Shepherd asked if she could eliminate her home wireless
+network and use the City-wide wireless service.
+
+Jim Keene, City Manager reported the wireless network provided through an
+Ethernet connection would be faster. Speed would be the main issue.
+
+Council Member Shepherd wanted to ensure everyone was discussing the
+same thing.
+
+Mr. Tanczos indicated the infrastructure was technology agnostic and could
+be used for any wireless purpose. Anyone could attach to the towers and
+transmit through the small cell network. Typically commercial wireless
+carriers connected to the towers.
+
+Council Member Shepherd asked Mr. Tanczos to explain the fiber component
+for supporting this structure.
+
+Mr. Tanczos stated the macro and small cells needed fiber backhaul to the
+end location. There was an opportunity to maximize the usage of in-place
+fiber and perhaps augment it. That would have to be determined in more
+specificity with whichever solution was chosen.
+
+Mr. Keene explained the City, under this proposal, would connect these
+towers to fiber to have the backhaul connection to the fiber ring. Staff had
+always thought it could open some possibilities for further extension of fiber
+around the City, which would then support a wireless network for Public
+Safety or smart grid applications.
+
+Council Member Shepherd inquired if this proposal would distribute wireless
+service into neighborhoods as well as into business districts.
+
+Mr. Keene responded yes. This was an opportunity to incrementally advance
+the ability to enhance wireless services across the City.
+
+Council Member Shepherd asked if approval of this proposal could cause the
+retraction of the DAS system proposal.
+
+Mr. Williams reported AT&T had indicated there may be some opportunities
+for that. At this point, he did not believe AT&T would retract its proposal.
+
+Council Member Shepherd asked if coverage improved when towers were
+taller.
+
+
+
+06/25/2012                                                              111-98
+

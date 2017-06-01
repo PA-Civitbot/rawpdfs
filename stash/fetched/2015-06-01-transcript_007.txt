@@ -1,0 +1,49 @@
+                          TRANSCRIPT
+and hover over the scores in order to display the number of respondents and
+also the margin of error. There's a layered strategy. When you look at it at
+a high level, you can avoid a lot of details. If you want more details, you
+can hover. For example, you see in 2014 we had, in this particular question,
+669 responses, because we had a much higher sample. In prior years, we
+had a lower number of responses and the margin of error is going to be
+reflective. If I click on the 2014 sort button, if I click twice, you can see the
+lowest scoring question, availability of affordable quality housing. The red
+questions that are fairly consistently red dating back to 2003. If I click it
+again, it'll sort by question order. If I click again, it'll sort in descending
+order by score. You can do that for all years the survey was administered.
+Moving to the third tab which is labeled City services, we see weighted
+average scores for City services in descending order. Users can filter the
+visualization by any combination of survey year, geographic area and/or
+neighborhood group. Color-coded bars show the percent of residents rating
+each service excellent, good, fair and poor. As you can see as I hover. The
+circles show the weighted average score. Hovering over each bar segment
+and circle will display the number of responses and the margin of error, as
+you can see here. I'm just going to do a quick example of selecting north
+Palo Alto, pressing apply.       As you see, the visualization updated and
+everything is recalculated. It's also possible to sort in descending order by
+question, again in descending order here. Moving to the fourth tab, we have
+geographic subgroups. We see weighted average scores for each question in
+each geographic area. Color coding as before. Functionality similar to what
+I showed you. We see two maps here. The one on the left shows Palo Alto
+broken down by the six neighborhood groupings. On the right, you see the
+breakdown by north and south Palo Alto. I have selected one question here,
+availability of affordable quality healthcare as an example. You can see the
+different shades corresponding to the different scores. Up top, you see the
+trend for Palo Alto overall dating back to 2006, the first year this particular
+question was available, and an ascending, increasing score up through 2014.
+Again, hovering will show you the details in each area. Moving to the fifth
+tab, demographics one. This is more of a true dashboard. The user can
+select a question, survey year, geographic area, and the graph updates to
+show the survey results overall and for each demographic attribute. The bar
+up here is the overall result for Palo Alto, and then you can see the
+breakdown for each of the demographic characteristics. Functionality is
+similar with hovering providing more details. I selected, as an example, the
+question ease of public parking. With this question, if you look at the age
+category bars, you can see higher scores that were given by age ranges 35-
+44 up through 45 to 54 years of age. We see a significantly lower score in
+the older age ranges, 55 to 64, 75 and above. This would be one example
+of how you can use this. Moving down to years lived in Palo Alto for this
+particular question, we can also see that those who lived in Palo Alto fewer
+                                                                          Page 7 of 103
+                                                                   City Council Meeting
+                                                                     Transcript: 6/1/15
+

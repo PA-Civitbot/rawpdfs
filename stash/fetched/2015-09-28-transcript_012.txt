@@ -1,0 +1,49 @@
+                          TRANSCRIPT
+objects. Think about traffic signals that talk to cars and vice versa to make
+for smoother, more efficient traffic patterns; a trash can that alerts you via
+your smartphone that it's been emptied. These things are happening now.
+The internet of things will change the nature of how we live and how our
+cities operate. The internet of things which will form the backbone of smart
+cities and even Palo Alto's in-development vision for a smart city will require
+a wireless infrastructure and some form of a wired backbone.              That
+concludes my comments. I hope these comments help to add additional
+context and a flavor of the future to our work together. Thank you very
+much. I'm now going to pass you over to the CEO of CTC, our partner who
+worked on these reports, Joanne Hovis.
+
+Joanne Hovis, CTC Technology and Energy: Thank you, Jonathan. Mayor
+Holman, Vice Mayor Schmid, Council Members, it's always a pleasure to be
+in Palo Alto. Thank you for having us here. I have a 20-minute or so
+presentation to summarize the analysis that we did and some of our
+recommendations, both with respect to fiber to the premises and with
+respect to wireless. I very much look forward to your comments and
+questions. I may proceed? Thank you. Let me start quickly with the
+agenda for how we're going to proceed. Looking first at the fiber to the
+premises analysis that we did, kind of summarizing in brief the analysis and
+the recommendations, and then looking also at the wireless options that we
+considered and our recommendations in that regard. I should start, by the
+way, by saying that we do not consider these things in any way to be
+substitutes for each other. We address them in their unique role in the
+broadband ecosystem. We'll walk you through our analysis of where we
+believe there is a viable and practical role for the City in regard to both of
+these technologies. If I may also start by saying I think this is the first time
+I've appeared in front of you; although, the company has done work for the
+City of Palo Alto in the past. By way of very quick background, we are a
+consultancy with a national footprint. We do a little bit of international work.
+We are a boutique public sector broadband consultancy located in the
+Washington, DC, area. We're 30 years old, and we have always worked in
+public sector broadband in assisting cities to deploy networks, but also to
+negotiate with private providers to maximize the public interest. We are
+strong proponents of fiber to the home as one of the things that is essential
+to any city or any community in the United States in the 21st century.
+We're also strong proponents of municipal fiber to the home and the right of
+any city to make its own decision about whether to undertake a municipal
+effort or not. I think this is important, that we note this right up front. I will
+add that I am personally the cofounder and CEO of the Coalition for Local
+Internet Choice, which advocates in Washington, and has assembled a large
+public-private partnership advocating to make sure that municipal
+
+                                                                          Page 12 of 130
+                                                                    City Council Meeting
+                                                                     Transcript: 9/28/15
+

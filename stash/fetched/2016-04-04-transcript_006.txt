@@ -1,0 +1,49 @@
+                          TRANSCRIPT
+around this, our open Geospatial Information System (GIS) or geospatial
+information system allows you to see interesting things like this slide, which
+is land-use designation. In this particular picture that you're looking at, it's
+visual, which a lot of people find quite beneficial. You can also analyze and
+download the underlying data, the longitudinal and latitudinal stuff and
+everything else that goes into combining to make up a visual like this. We
+have lots of different types of geospatial information that a very large range
+of stakeholders are interested in. We get many, many calls and emails over
+the course of a few months from different stakeholders. We had an email
+just the other day from the National Park Service wanting our geospatial
+information on our parks. All I had to do was point them to a website and
+say, "Everything you want is right there." It's really convenient and open to
+the world. We've been publishing open data sets or our data at the City
+here in a public manner for closing in now four years. We're approaching
+100 different types of data sets. It's worth taking a look to see the variety
+and know that we continue to publish data sets as they either become
+available or as departments choose to make those data sets available to
+whoever wants them. What ultimately is the benefit? On one level it's just
+about freedom of access to data that belongs to the people.              It's a
+transparency solution. Open data is certainly not a Palo Alto phenomena or
+California or American phenomena. It is a global phenomena. More and
+more governments are embracing these platforms to make available these
+important insights.     An organization called Open Data Impact sort of
+summarized the four key benefits of open data to communities. The first
+one, it improves government. An example of that is being more transparent
+increases trust in communities and more things can get done. Open data,
+as a second point, empowers citizens because now they have access to the
+same information all of us have access to, often at the same time. A more
+informed populace is a more empowered populace. The third reason is it
+creates opportunities. For example, you'll remember two years ago we had
+the Palo Alto Apps. Challenge. Out of that, almost 100 different teams in
+Palo Alto participated to create solutions for the City. In fact, one solution
+today, Adopt Me app., is a real business that employs real people in real
+jobs. The fourth one is it helps to solve public problems, because it
+empowers all sorts of decision makers with valuable information. I just want
+to give you two quick international examples. There are many, but here are
+two that I thought were interesting to illustrate the value it's having on a
+global basis. In the country of Uruguay, everybody in that country has to
+make a healthcare choice once a year. It's very difficult to do that because
+information is difficult to come by, just getting up-to-date, quality
+information on healthcare choices. Uruguay decided to use their open data
+initiative to put all the relevant health data available online in an easily
+consumable way. Now, more people are more empowered in Uruguay to
+make important healthcare decisions for their families. In Brazil which has
+                                                                          Page 6 of 107
+                                                                   City Council Meeting
+                                                                     Transcript: 4/4/16
+

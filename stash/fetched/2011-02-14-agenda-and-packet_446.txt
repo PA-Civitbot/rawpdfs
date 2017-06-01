@@ -1,0 +1,60 @@
+                                                                                                                    a
+NACWA Comments on Docket ID No. EPA-HQ-OAR-2009-0559
+November 29, 2010
+Page 33
+
+        Unique differences in the content of sewage sludge may also justify additional subcategories based on
+the “class” of SSI. For example, there are differences in the composition of sludge feed from treatment plant to
+
+
+
+
+                                                                                                                        Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+treatment plant, which can also vary within a plant depending on the time of the year. There are also
+differences if the sludge is digested prior to incineration and differences between non-digested sludges that are
+thermally conditioned or chemically conditioned. Sludge that is digested prior to incineration typically has a
+solids content that is 50 percent volatile solids or less, compared with 55-80 percent volatile solids for non-
+digested sludge. See Water Environment Federation’s (WEF’s) Manual of Practice: Wastewater Solids Incineration
+Systems (MOP-30). The low volatile content in digested sludge necessitates more auxiliary fuel to sustain
+combustion, which changes emission characteristics. Also, thermally conditioned sludge typically has a higher
+solids content (up to 48 percent solids compared with 20-30 percent solids for chemically conditioned sludge),
+which results in a higher combustion temperature. Thermally conditioned sludge would be expected to have
+lower CO emissions and higher NOx emissions due to its higher combustion temperature. These unique
+attributes justify separate subcategories for digested, thermally conditioned, and other (chemically conditioned)
+sewage sludge incinerators.
+
+       EPA should use its discretion to subcategorize by class to ensure all units have a path to compliance.
+
+               4.      Distance to Landfill Justifies a Type Subcategory
+
+        As indicated above, some POTWs are so far away from a landfill that they will have higher emissions
+from diesel exhaust during sewage sludge transport than from incineration. EPA should not create emission
+standards so stringent that they force an environmental detriment. For example, MACT standards that force
+sewage sludge to be transported to landfill or land application sites equal to or greater than 65 miles away emit
+higher quantities of the pollutants regulated under § 129 than the emissions from their incinerator. These
+units should be placed in a separate subcategory to ensure that beyond the floor MACT limits do not force
+incinerators at these POTWs to shut down resulting in transportation emissions in excess of the emissions that
+would have been reduced by the MACT rule.
+
+VII.   THE PROPOSED RULE PLACES UNJUSTIFIED BURDENS ON OPERATORS
+
+       A.      EPA Should Require Compliance Stack Testing No More Than Once Per
+               Permit Term
+
+         The Proposed Rule requires annual stack testing to demonstrate compliance with emission limits for
+particulate matter, hydrogen chloride, dioxins/furans, mercury, nitrogen oxides, sulfur dioxide, cadmium, lead,
+opacity, and fugitive emissions from ash handling. See 75 Fed. Reg. at 63303. EPA estimates that stack testing
+for all of these pollutants costs an average of $61,000 per test. See ERG Memo, Cost and Emission Reduction of the
+MACT Floor Level of Control at 5, Tbl. 6c (June 2010) (“Cost and Emission Reduction Memorandum”). NACWA
+members report that this number may be significantly higher. Factoring this additional annual cost into
+already strained municipal budgets will place an extraordinary burden on regulated entities. As EPA recognized,
+nearly all SSI units are operated by municipal entities. Municipal governments across the country have been
+struggling with the current economic climate, and many already face budget deficits in the face of declining
+revenues. Requiring testing on an annual basis would place a significant burden on the municipal entities
+subject to the SSI rule.
+
+
+
+
+                                                                                                      Packet Pg. 446
+

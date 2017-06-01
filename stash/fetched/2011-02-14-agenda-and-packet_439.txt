@@ -1,0 +1,60 @@
+                                                                                                                 a
+NACWA Comments on Docket ID No. EPA-HQ-OAR-2009-0559
+November 29, 2010
+Page 26
+
+industrial dischargers come and go. Sewage sludge constituents and concentrations vary because the discharge
+to each POTW is unique. Without the use of long-term data to support the level of emission standards, this
+
+
+
+
+                                                                                                                     Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+variability makes numeric technology-based limits impractical and infeasible and should provide EPA strong
+motivation to look to other regulatory options.
+
+         POTWs also face significant regional and seasonal variability that is not captured by EPA’s dataset.
+Initial high flow periods in the spring often scour the sewers and dislodge heavier material that has settled in
+the sewer system during low-flow periods, which often results in a spike in metals concentrations (e.g., mercury,
+cadmium, lead) in the sewage sludge. The ICR stack tests in January and February that were used for the EPA
+database would not have captured these events. In addition, northern cities that use salt for de-icing roadways
+experience significant increases in chlorides during the winter months. High chloride concentrations are
+known to improve the effectiveness of mercury control at existing wet scrubbers. See 2009 WERF Report at 2-4
+(Attachment B). Stack test results during January and February in these communities may not be replicable
+during other times of year.
+
+        EPA has the data it needs to examine sludge variability for metals. Most POTWs have been required to
+collect weekly sludge samples and test them for the Part 503 metals. In the Table 3 NEORSD has compiled the
+monthly average sewage sludge content of cadmium, lead, and mercury at two of its facilities. Even when
+averaged over an entire month, the range of average metal concentrations varies by a factor of three or more.
+
+Table 3: 2009 Monthly Average Sewage Sludge Concentrations (mg/dry kg)
+                    Cadmium                   Lead                     Mercury
+                    Southerly    Westerly     Southerly Westerly       Southerly            Westerly
+      January       7.95         13.25        62.23      97.00         0.68                 0.44
+      February      8.45         11.95        75.60      123.10        0.77                 0.41
+      March         8.90         14.46        84.94      141.20        0.69                 0.34
+      April         9.11         14.96        67.93      123.00        0.84                 0.37
+      May           10.40        12.97        87.16      145.95        0.78                 0.36
+      June          4.60         7.94         99.54      204.30        1.24                 0.77
+      July          4.46         7.92         123.15     218.55        1.24                 0.92
+      August        4.78         9.08         114.10     188.23        3.12                 0.59
+      September     5.13         8.12         103.41     183.93        2.08                 0.87
+      October       3.99         7.19         94.33      129.27        0.98                 0.63
+      November      4.14         6.22         82.78      104.81        0.91                 0.58
+      December      3.80         5.97         74.66      97.55         1.38                 0.40
+
+Data collected in January and February from these sources could not be considered representative of the sewage
+sludge during other months or seasons. NACWA has every reason to believe that other POTWs face variability
+at this level or greater and that this degree of variability applies to other constituents as well. EPA should
+consider the Part 503 data that POTWs submit to the Agency regularly to account for variability when setting
+emission limits.
+
+      In the Proposed Rule, EPA bases its MACT floor analysis solely on a limited set of emission test data.
+However, nothing in the CAA restricts EPA to emission test data when determining MACT emission rates and
+
+
+
+
+                                                                                                       Packet Pg. 439
+

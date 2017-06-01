@@ -1,0 +1,62 @@
+                                                                                                           a
+
+
+
+
+2.   Identification of sources and alternatives
+City staff identified an alternative float switch, which is a non mercury bulb and is
+produced by the same manufacturers as the mercury switches. For other applications,
+
+
+
+
+                                                                                                               Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+such as temperature or pressure switches, there are a variety of techniques for
+replacement, usually by digitizing the signal and using logic to control a switch. In
+addition the RWQCP uses a Programmable Logic Controller (PLC) system to make
+contacts when necessary while monitoring a signal. These are usually a case-by-case
+modification rather than a universal replacement. Other situations arise where the switch
+is an integral part of an existing system that does not retrofit, such as the torque alarms on
+the clarifier sweeps. Nothing short of redesigning the sweep arms can replace the
+mercury switches; these will not be replaced.
+
+Table 4-4. Inventory Results and Current Plans
+                Product                     Use at                  Plan for Seeking Alternatives
+                                          RWQCP?
+                                        Lights
+ Fluorescent                                      Yes –            Now using low mercury lights –
+                                                  common           formally initiated in 2001
+ Metal halide (high intensity discharge lamps     None found
+ w/blue-white light)
+ High pressure sodium (yellow-white lights        Yes –            In 2010, plan to evaluate potential
+ used for street lamps, outdoor security, and     common           for replacing these lamps with LED
+ some lighting in process areas)                                   lighting
+ Mercury vapor lamps                              Yes –            No current plan
+                                                  uncommon
+                                                  use (2-3 only)
+                                                Switches
+ “Silent” wall switches (prior to 1991)           None found       Will replace any overlooked upon
+                                                                   failure
+ Wall-mounted office thermostat                   Yes – 6 to 10    Will replace upon failure
+ Airflow/fan limit controls                       None found
+ Building security systems                        None found
+ Pressure control                                 None found       Will replace, upon failure, any
+                                                                   overlooked devices and replace with
+                                                                   Hg-free
+ Torque-arm alarm switches                        Yes – about      Will not replace; integral part of
+                                                  12 to 16         existing torque arm
+ Float control (used for sump pumps)              Yes              Will replace with Hg-free upon
+                                                                   failure.
+                                           Lab Reagents
+ Pre-mixed test tubes for monitoring chemical     Yes              In 2008, the laboratory switched to a
+ oxygen demand (COD)                                               mercury free COD test procedure.
+
+
+G. Mercury Program Evaluation
+The best measure of the mercury program’s overall effectiveness is the mercury
+concentrations in influent, effluent and biosolids; figures 4-9 through 4-14 present
+
+
+                                                4-14
+                                                                                                 Packet Pg. 481
+

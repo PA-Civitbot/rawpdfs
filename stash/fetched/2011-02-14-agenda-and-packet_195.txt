@@ -1,0 +1,71 @@
+                                                                                                                                     10.b
+California Avenue Lane Reduction – Traffic Analysis Report                                                                             
+
+
+Existing Link Level of Service
+Roadway links were analyzed using volume to capacity (V/C) ratios. The traffic volumes
+were measured in the field using recent traffic counts. The results of this analysis are
+
+
+
+
+                                                                                                                                            Attachment: Attachment B: Hexagon - Cal Av TIA Report (No Appendices) (1320 : California Avenue Neg Dec and CIP)
+summarized on Table 5. Under existing conditions, all of the study segments on California
+Avenue operate at Level of Service A during the weekday AM, midday, and PM peak
+hours.
+Table 5
+Existing Roadway Segment Level of Service
+                                                    Highest                Weekday
+                                                   Weekday      Count       Peak               # of
+Roadway         Segment                Direction   Count Day    Date        Hour     Volume   Lanes   Capacity   V/C Ratio   LOS
+
+California Av   El Camino Real to
+                Ash Street                EB        Friday     11/5/2010    AM        140       2      1,360       0.10       A
+                                                                           Midday     242       2      1,360       0.18       A
+                                                                            PM        190       2      1,360       0.14       A
+                                         WB         Friday     11/5/2010    AM        200       2      1,360       0.15       A
+                                                                           Midday     230       2      1,360       0.17       A
+                                                                            PM        233       2      1,360       0.17       A
+California Av   Ash Street to Birch
+                Street                    EB        Friday     11/5/2010    AM        84        2      1,360       0.06       A
+                                                                           Midday     181       2      1,360       0.13       A
+                                                                            PM        141       2      1,360       0.10       A
+                                         WB         Friday     11/5/2010    AM        176       2      1,360       0.13       A
+                                                                           Midday     244       2      1,360       0.18       A
+                                                                            PM        221       2      1,360       0.16       A
+California Av   Birch Street to Park
+                Avenue (W)                EB        Friday     11/5/2010    AM        65        2      1,360       0.05       A
+                                                                           Midday     127       2      1,360       0.09       A
+                                                                            PM        117       2      1,360       0.09       A
+                                         WB         Friday     11/5/2010    AM        113       2      1,360       0.08       A
+                                                                           Midday     152       2      1,360       0.11       A
+                                                                            PM        136       2      1,360       0.10       A
+California Av   Park Avenue (W) to
+                Park Avenue (E)           EB        Friday     11/5/2010    AM        51        2      1,360       0.04       A
+                                                                           Midday     82        2      1,360       0.06       A
+                                                                            PM        69        2      1,360       0.05       A
+                                         WB         Friday     11/5/2010    AM        97        2      1,360       0.07       A
+                                                                           Midday     170       2      1,360       0.13       A
+                                                                            PM        196       2      1,360       0.14       A
+
+
+
+
+Existing Queuing
+Queue lengths were calculated for each of the study intersections to check whether any
+excessive queues are occurring under existing conditions (see Table 6). At all of the STOP
+controlled intersections the 95th percentile queue lengths are shown to be four cars at the
+most (two cars per lane, 50 feet per lane). Queues are longest at the El Camino Real
+intersection. The 95th percentile queues on westbound California Avenue are shown to be
+up to 8 cars. The longest queues are for the through lane in the AM peak hour, the left turn
+lane for the mid-day peak hour, and the right turn for the PM peak hour. The right turn lane
+is of insufficient length to accommodate 8 cars. Therefore, some right turn cars queue in
+the through lane.
+
+
+
+
+                                                                                                            21 | Page 
+
+                                                                                                                             Packet Pg. 195
+

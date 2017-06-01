@@ -1,0 +1,49 @@
+                         TRANSCRIPT
+don't ask the respondents to say why they're responding the way they are.
+They just give us the answers. For example, the question of ease of travel
+by car, Area 4 rated it fairly high, 58 percent, compared to the other areas.
+One of the reasons we thought that might be is because Area 4 was near the
+Foothill Expressway where there's less traffic. Area 1 rated it pretty low, 41
+percent, and that's the area over by Highway 101 where there's more traffic
+getting in and out of Palo Alto during rush hour. The question of quality of
+natural environment, Area 3 rated that really high, 96 percent as excellent
+or good.     We thought that might be because there's such a natural
+environment over there with Baylands Park. Shopping opportunities, Area 6
+rated high, 88 percent, and that's where a lot of the shopping areas are, Cal.
+Ave., Downtown, Stanford Shopping Center. There's easy access to all of
+those from Area 6. Area 2, 69 percent, there were no major shopping areas
+nearby and people have to travel to other areas. These next two slides
+show similar results. I won't go into details on all of them. I wanted to
+spend a little time explaining how we did some analysis on some of that. A
+little bit more about what the results mean. One of the things that we've
+done this year that's different is we are using Tableau software, which allows
+you to interactively visualize the responses.        You can select multiple
+variables to interpret what the results of questions relevant to you might be.
+One of the things that's good about that is it allows you to see what works
+and what doesn't work for you. You can focus on the questions that are
+most important to you. Houman put this together, and he's going to give a
+short demo in just a minute. He compiled the data from all the old Citizen
+Surveys, 2003 through 2014 with about 6,000 responses. When you're in
+there, you can also look at some of the underlying supporting data, so you
+can see all the details. I'm going to turn it over to Houman briefly, so that
+he can do a little bit of a demonstration for you.
+
+Houman Boussina, Senior Performance Auditor: Houman Boussina, Senior
+Performance Auditor. The Tableau visualization is comprised currently of six
+tabs. They're going to range from minimally interactive to more interactive.
+The first one is labeled background maps and provides a static introduction
+to the survey, mainly showing the relevant geographic areas and
+neighborhoods and a link to where more comprehensive information on our
+methodology is available. Moving over to the next tab, we have trends
+dating from 2003 to 2014. On the screen above, it's a little bit cutoff.
+Hopefully on your screens you can see it better. What you can see here is a
+heat map of the survey results dating back to 2003. Values in the heat map
+represent the weighted average scores. The color scale corresponds to the
+score. The darker the green is, the more positive the response. The darker
+the red, the more negative the response. The user can quickly scroll
+through the survey questions and identify trends, high and low scores.
+Users can also sort the questions by score in ascending or descending order
+                                                                        Page 6 of 103
+                                                                 City Council Meeting
+                                                                   Transcript: 6/1/15
+

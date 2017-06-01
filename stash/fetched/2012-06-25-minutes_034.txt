@@ -1,0 +1,49 @@
+                               MINUTES
+Mr. Williams indicated Staff viewed construction of macro cells separate from
+fiber backhaul. Submissions for both would complicate the issue.
+
+Public Hearing opened at 11:21 P.M.
+
+Herb Borock stated the Council asked questions of Mr. Tanczos not as a
+consultant but as a respondent to a RFQ. He felt there was a conflict of
+interest. He recalled Crown Castle approached the City to solicit work,
+rather than the City soliciting a consultant. A small number of substations
+were appropriate for this use, and Zoning changes were needed only for
+these substations.      With regard to co-locating towers with the City's
+essential services, it was not appropriate to share those uses because of the
+need to protect essential services. Any kind of fiber system would benefit
+from using substations for locating aggregation equipment. Concerns for a
+fiber to the premises system were the amount of space for the towers, for
+the fiber and the amount of fiber to pull. A wireless smart grid would
+remove the opportunity to use a fiber connected smart grid, which would
+provide the incentive for a fiber to the premises system.
+
+Robert Smith was interested in resolving cellular issues. He recommended
+the Council work closely with providers.      There had been antagonism
+between the City and providers of all communication services. Simplifying
+the DAS applicant process would solve many problems. He could see
+advantages of the hybrid approach, but felt the community would be more
+likely to support DAS sites. He asked the Council to consider whether rent
+from cell towers was in the public interest.
+
+Jeff Hoel reported smaller cells provided more bandwidth to each person.
+Macro cells could cover many people; however, the bandwidth would be
+limited. The resistance to DAS resulted from aesthetics. Smaller cells
+required less power, and people concerned about radiation could be
+reassured. Fiber to the premises could cost less, because it could be
+constructed at one time. Carriers use of dark fiber would cost more than a
+City-wide fiber to the premises system. Equipment located within a small
+cell and a large cell should connect to the small cell to leave the big cell
+available for people not located near a small cell.
+
+Public Hearing closed at 11:30 P.M.
+
+Council Member Burt reported the consultant was advising the Council on
+the feasibility of a model while also a candidate for supplying service under
+that model. He asked Staff if they were comfortable with one provider filling
+both functions.
+
+
+
+06/25/2012                                                            111-107
+

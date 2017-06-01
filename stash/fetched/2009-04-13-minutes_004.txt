@@ -1,0 +1,50 @@
+Council Member Kishimoto inquired whether a rate tier system for water and
+electricity usage would be seen on the System’s interface.
+
+Utilities Director, Valerie Fong stated this feature would not be seen in the
+first phase. She indicated Staff was looking into a future phase of the
+System that would include a design showing rate and service usage tier
+levels and using graphs and tables.
+
+Council Member Kishimoto inquired on a uniform log-in feature that could
+include all City services that connect with the SAP System.
+
+Mr. Ramberg stated a uniform sign-in feature for all City services using SAP
+had not been researched. He indicated separate modules were distinctly
+used for the log-ins of City services, and protecting utility payment
+information was essential.
+
+Council Member Barton inquired if City announcements would be included in
+the System and on the paperless receipts.
+
+Mr. Farisato stated Staff was working on linking information onto the System
+to provide the type of information that was currently mailed to customers
+with their utility bills.
+
+Council Member Yeh inquired if new customers would be automatically added
+to the online utility newsletters.
+
+Mr. Farisato stated yes.
+
+Council Member Yeh inquired on data security of the System.
+
+Mr. Farisato stated one-time bill pay was offered for customers using credit
+cards, and credit card information would not be saved for security reasons.
+
+Council Member Yeh inquired how the City was communicating security
+measures to the City’s utility customers.
+
+Mr. Abendschein stated information on security measures would be added to
+Frequently Asked Questions of the System that would be posted onto the
+City’s website.
+
+Council Member Espinosa stated his preference would be to integrate all City
+services utilizing the SAP System into one log-in site.
+
+Mayor Drekmeier stated the City Council Meeting scheduled for Monday,
+April 27, 2009 would focus on the City’s environmental projects. He stated a
+Green Tech Expo, co-sponsored by Sustainable Silicon Valley, would be held
+outside City Hall between 3:00 p.m. and 7:00 p.m., and a Forum would be
+held in the City Council Chambers between 4:00 p.m. and 6:30 p.m.
+                                     4                             04/13/09
+

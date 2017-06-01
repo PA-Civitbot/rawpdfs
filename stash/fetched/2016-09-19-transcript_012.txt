@@ -1,0 +1,49 @@
+                          TRANSCRIPT
+bases that have been determined by the County for some other entity, how
+do we know that they apply to Palo Alto projects? We have faced this
+before, and we used a—I won't pick on any particular standard—some
+standards that don't apply to Palo Alto in the least. How do we determine
+what standard really we should be applying here for Palo Alto for a project?
+Because the markets change—this happens for LOS or for VMT too—you'll
+have a different impact today than you will five years from now, 20 years
+now, but we're approving a project today. Did that all make sense?
+
+Mr. Milam: It makes a lot of sense actually. VMT actually makes you think
+differently about your transportation network and the performance you
+expect. When you look at level of service in contrast, you just look at the
+individual intersection or roadway segment and you look at how much delay
+is being caused. When you think about VMT, you can think of it much
+deeper than that. You can think of it in terms of travel markets. When you
+think about everyone that's coming into Palo Alto, what are they coming in
+for? Those are different travel markets if they're coming here to work
+versus shop, two different markets. If they're coming here for educational
+purposes, that's a third market. When you think of travel markets, you can
+actually look at each of those and influence them differently based on again
+your land use or transportation decisions. That's one of the things that also
+big data is helping us to better understand about individual communities.
+We're doing some work, for example, at UC Davis right now, where we've
+been looking at where do all their faculty and staff travel from and then
+where do the students that live off campus come from. That was data they
+didn't really have a good source for. Now we do by tracking these mobile
+devices. As you start looking at VMT, you can start asking yourselves
+questions. Are there certain travel markets we're trying to encourage? Are
+there other travel markets we're trying to discourage?                Are the
+transportation and land use decisions we're making aligned with that?
+You're going to have a little bit more influence if you start thinking in those
+terms. As it relates to the data, the models, the tools, what happens in a lot
+of communities is they don't have the resources oftentimes to create all the
+data they want or to develop the best models, and they'll defer to the county
+or the regional agency. Not all communities do that. If this is an important
+community value, how much vehicle travel are we generating and by what
+sources, they'll typically build their own model. They'll go out and pay and
+collect their own data. That's an option that any city or county has to create
+those better tools.
+
+Council Member Holman: One just really quick one. Do communities do
+that based in large part by Business Registries or—just give me a couple or
+three examples of what they use to do that.
+
+                                                                        Page 12 of 120
+                                                                  City Council Meeting
+                                                                   Transcript: 9/19/16
+

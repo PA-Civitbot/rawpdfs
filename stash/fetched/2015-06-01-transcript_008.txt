@@ -1,0 +1,49 @@
+                          TRANSCRIPT
+years gave higher scores, and those who lived more than 20 years in Palo
+Alto as you see here. Just another example of how this can be used. You
+can go question by question. Individualization will take a moment, because
+there's a lot of data that's being parsed, but all the graphics are going to
+update. Moving to the last tab, demographics two. In this one, the user can
+filter the results by any combination of demographic attributes. The pie
+charts are going to show the demographic makeup of the results. I have
+selected the very first question, Palo Alto as a place to live. I'll select north
+Palo Alto, click apply, and it'll take a second for all the bar charts to update.
+I have previously selected males. I'll select both male and female and press
+apply again. You'll see an update once more. Now we can see both male
+and female are included. Again, hovering will show you the number of
+respondents and any other details including margin of error are going to be
+included in the little circle.      That concludes the brief presentation on
+Tableau.
+
+Ms. Richardson: We will be working with IT to put this on the open data
+website. Once it's on the website, it's published as a webpage and you don't
+need to have the Tableau reader to work with it.             You'll be able to
+manipulate the data as Houman did here. Anyone who goes on the open
+data website would be able to do that. The last piece of our project is the
+Citizen Centric report, which is a four-page foldout document, that provides
+City organization, general community information such as population,
+median price of home, that sort of information. When you open the cover,
+to the left of page 2 you'll get key performance measures that we've pulled
+out of the annual Performance Report. On the right side of that open page,
+page 3, you get some revenues and expenditures broken down by
+department.      The back page, the City Manager's report gives some
+information on the economic outlook and key accomplishments. Again, I'd
+like to thank the City Manager and his Staff for their collaboration with us on
+ways to streamline the report, and also the department directors and
+department liaisons for their support and responsiveness to our requests for
+information for producing the report. That concludes our presentation. We
+will now take any questions.
+
+Council Member Kniss: The one that really jumps out is the one about
+retirement. Tell us, how do you think that must have been interpreted? Is
+this a good place to retire if you came from someplace else? Is it a good
+place to retire if you've always lived here? So many people have taken
+advantage of Prop 13 and have substantially lower taxes and sometimes say
+that they feel like they're trapped in their own home, because the taxes are
+so inexpensive. I'm interested in knowing if you read that into this in some
+way.
+
+                                                                          Page 8 of 103
+                                                                   City Council Meeting
+                                                                     Transcript: 6/1/15
+

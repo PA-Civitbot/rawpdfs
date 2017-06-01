@@ -1,0 +1,49 @@
+                          TRANSCRIPT
+wireless options. I will go through each of these in quick summary, though I
+will say that we recommend the first three, but not the fourth and I will
+explain why. The first recommendation is that the City continue with its
+extremely successful strategy of using existing City fiber and other facilities
+to offer Wi-Fi in and around public buildings which has been done so far at
+30 City facilities at remarkably low cost and with really efficient operations.
+Expanding that strategy makes a whole lot of sense. As you can see from
+the numbers on the screen, both the capital and operating costs are very
+modest. The benefits are substantial both for City users and for public users
+who are then able to take advantage of open Wi-Fi hotspots that are
+essentially a small incremental cost on top of existing City assets that the
+City already has invested in. The second scenario that we explored and that
+we do recommend is that the City expand its wireless efforts to deploy a
+point-to-multipoint network for City users. This would not be for public use.
+This would be a secure network for critical uses by City employees,
+particularly Utilities, Public Works, Public Safety and so on, so critical use.
+In this case, once again, we have what we would consider a relatively
+modest capital expenditure, a very modest annual operating cost. The
+recommendation design and cost estimates are all based on a demonstrated
+and documented need with respect to City users. The third scenario that we
+considered and that we do recommend is that the City use Wi-Fi again to
+deploy a targeted Public Safety wireless network. This is not a Citywide
+ubiquitous Public Safety network; rather, it is a network of wireless hotspots
+in some key areas that would be useable by Public Safety first responders
+and other users. It would be in key areas where there is a demonstrated
+and documented need for this kind of service. Again, in our experience, a
+modest capital expenditure, modest operating costs given the considerable
+benefits. Finally, we look at the potential for a Citywide ubiquitous public-
+facing Wi-Fi network, that is, a network that would be deployed throughout
+the City on a comprehensive basis and would be available to the public to
+use for a fee. Essentially, the City getting into the wireless business. We
+looked at this under two different scenarios. One where the City has
+actually built a fiber to the home network which makes deploying a Wi-Fi
+layer on top of that much easier and more cost effective from a technical
+standpoint. We also looked at what it would take for the City to do Citywide
+Wi-Fi without having a fiber to the home network, and the costs are much
+higher and it's much less practical to actually achieve technically. Frankly,
+we don't recommend that you proceed with this strategy for a range of
+reasons. First, the technology is very challenging if you don't already have
+Citywide fiber to the premises, which makes it much easier to just extend
+from each fiber premise out a Wi-Fi hotspot, essentially achieving Citywide
+ubiquity. Second, this is not an easy business in which to enter. Frankly,
+it's significantly more challenging than even fiber to the home. The reason
+for that is that wireless users, people who are willing to pay for wireless or
+                                                                        Page 18 of 130
+                                                                  City Council Meeting
+                                                                   Transcript: 9/28/15
+

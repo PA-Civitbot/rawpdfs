@@ -1,0 +1,60 @@
+                                                                                                     10.b
+California Avenue Lane Reduction – Traffic Analysis Report
+
+
+Intersection Queuing
+A vehicle queuing analysis was conducted for the movements affected by the lane reduction
+on California Avenue. Vehicle queues were estimated using a Poisson probability distribution.
+
+
+
+
+                                                                                                            Attachment: Attachment B: Hexagon - Cal Av TIA Report (No Appendices) (1320 : California Avenue Neg Dec and CIP)
+The basis of the analysis is as follows: (1) the Poisson probability distribution is used to
+estimate the 95th percentile maximum number of queued vehicles for a particular movement;
+(2) the estimated maximum number of vehicles in the queue is translated into a queue length,
+assuming 25 feet per vehicle; and (3) the estimated maximum queue length is compared to
+the existing or planned available storage capacity for the movement. This analysis thus
+provides a basis for estimating future storage requirements at intersections.
+The vehicle queuing estimates and a tabulated summary of the findings are provided in
+Tables 9, 10, and 11. The analysis indicates that, at all of the unsignalized study intersections
+with the proposed lane reduction, the estimated 95th percentile vehicle queues for the
+eastbound and westbound movements on California Avenue would be 2 or 3 vehicles or less.
+These queues easily could be accommodated in the queuing space provided and would not
+significantly interfere with parking maneuvers on California Avenue.
+The proposed lane reduction would transition from one westbound lane to three lanes (one
+left, one through, and one right) approximately 100 feet before intersection of El Camino Real
+and California Avenue. Under existing conditions, this area transitions from two westbound
+lanes to three lanes. According to the queuing analysis, with the proposed lane reduction, the
+westbound 95th percentile queues would extend 200 feet from the subject intersection for the
+following movements:
+   •   westbound through movement – AM peak hour
+   •   westbound left turn movement – Midday peak hour
+   •   westbound right turn movement – PM peak hour
+
+During these periods, the 95th percentile queues for the other movements at the subject
+approach would be 100 feet or more. Thus, under the proposed configuration, queues up to
+200 feet could occur potentially blocking access to adjacent parking stalls and result in less
+efficient use of green time at the El Camino Real/California Avenue intersection.
+The project consultant explored the use of split phase at the intersection to reduce the
+vehicles queues and determine whether better signal efficiency could be achieved using
+shared lanes. Due to the heavy pedestrian crossing volume at the intersection, the level of
+service calculations showed worse efficiency with split phase operation during all peak hours.
+For this reason, it is recommended that the existing signal phasing and lane geometry be
+maintained.
+Recommendation: At California Avenue the existing two-lane to three-lane westbound
+                approach to the El Camino Real intersection may be maintained to help
+                provide adequate storage capacity for at least 200 feet from the
+                intersection. This would result in the loss of the 5 new on-street parking
+                spaces along the north side of California Avenue but still allows for the
+                maintenance of the existing 12 on-street parking spaces in the segment
+                providing for no overall parking loss. See Figure 10 for a diagram of the
+                extended queues and modified parking spaces.
+
+
+
+
+                                                                                 29 | Page 
+
+                                                                                             Packet Pg. 203
+

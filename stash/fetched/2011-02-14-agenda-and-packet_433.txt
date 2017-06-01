@@ -1,0 +1,61 @@
+                                                                                                                    a
+NACWA Comments on Docket ID No. EPA-HQ-OAR-2009-0559
+November 29, 2010
+Page 20
+
+on one day. EPA does not know if these data are representative of normal operating conditions or whether the
+metals content in the sludge was at the low end or the high end of a typical range. See Proposed Rule, 75 Fed.
+
+
+
+
+                                                                                                                        Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+Reg. at 63268 (requesting comment on whether the metals content in the sludge during the test was
+representative of low or high points in the typical mercury range). This range can vary significantly with a ten-
+fold difference between the minimum and maximum mercury values. See Attachment A of NEORSD
+Comments on Proposed Rule. Thus, EPA may have miscalculated the mercury content of sewage sludge
+because its data are not representative of typical mercury values.
+
+        EPA also makes significant incorrect assumptions about operating hours and sewage sludge feed rates
+that impact its mercury estimate. Rather than take the time to collect actual operating data through a formal
+Information Collection Request (“ICR”), EPA assumes that each incinerator operates at 75 percent of its rated
+capacity. POTWs and their incinerators are designed to accommodate significant wet weather events that can
+significantly increase the flow to the headworks of the POTW with minimal notice. As such, the typical
+operating conditions for the POTW and its incinerators are significantly below the design capacity. See Table 2.
+
+Table 2
+
+                 NEORSD          Township of         Anchorage       HRSD Boat      HRSD Army
+                 (3 plants)          Wayne                               Harbor          Base
+              EPA      2009     EPA     2009      EPA        2009   EPA      2009   EPA 2009
+              Est.     Actual   Est.    Actual    Est.       Actual Est.     Actual Est.   Actual
+
+Sludge        71,000   37,000   4,340    1,560    16,968     6,100    12,306   8,132    8,190   3,337
+incinerated
+(dry tons
+per year)
+Hours of      33,600   27,000   5,430    2,590    8,400      8,200    8,400    8,135    8,400   7,912
+operation
+per year
+
+
+
+These examples indicate that EPA has overstated the amount of dry tons of sludge incinerated per year by a
+factor of two or more. Hours of operation are also overstated in EPA’s analysis but by a lesser amount. EPA
+must take the time needed to collect the feed rate and operating hours data from all SSIs before it uses this
+information to calculate the baseline mercury emissions from SSIs. An accurate assessment of baseline
+mercury content is critical to a proper beyond the floor analysis of the cost effectiveness of additional mercury
+controls.
+
+        The anecdotal information available to NACWA indicates that EPA’s calculation significantly
+overestimates mercury emissions. NEORSD compared EPA’s mercury estimate for two of its facilities with its
+own calculation based on the actual sludge samples taken in 2009 to demonstrate compliance with Part 503
+requirements. The NEORSD calculation reveals that EPA’s mercury estimate for its Southerly and Westerly
+plants combined was nearly three times higher than the actual concentration of mercury in the sludge in 2009
+based on the Part 503 sampling. Wayne County, New Jersey performed a similar analysis using stack test data
+
+
+
+
+                                                                                                        Packet Pg. 433
+

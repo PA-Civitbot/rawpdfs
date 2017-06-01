@@ -1,0 +1,49 @@
+            DRAFT ACTION MINUTES
+part of its investigation into technology, Staff engaged the Parking
+Committee to discuss parking challenges in Palo Alto, specifically the
+Downtown area. The Parking Committee identified challenges of under-
+utilization of garages, over-parking in neighborhoods, inability to transfer
+parking permits, lack of data for garages, lack of centralized parking
+information, moving cars among color zones, and lack of parking options for
+hourly workers. From the challenge discussion, Staff developed three goals:
+improve parking controls, make parking easier, and develop solutions that
+maintained the charm of Downtown. The Parking Committee made these
+recommendations: improve branding and standardize sign installation for
+Downtown garages; enhance the City's parking website; develop a
+Downtown parking app; develop online permit sales; revise parking time
+limits; expand permit pricing options; eliminate Downtown color zones;
+introduce off-street paid parking options; and enhancement parking
+enforcement. A Parking Guidance System (PGS) was one component of
+signage and wayfinding. A few different technologies could perform this
+work. The simplest technology was loop detectors which could be installed
+within a garage. Dynamic signage would provide information regarding
+permit parking and hourly parking. The second component for solicitation
+would be Revenue and Access Control. Revenue and Access Controls had
+many forms. One system could timestamp vehicles and provide data to PGS
+technology. Revenue and Access Controls that utilized gates could be a
+deterrent to patronage of Downtown businesses. License Plate Recognition
+(LPR) was a new technology. A car could be driven into a garage with no
+gate, receive a timestamp, and pay through a pay station or an invoice in
+the mail. Another option was standalone meters at each parking space.
+Staff preferred to work with consultants to determine which strategy best
+supported the goals for Downtown garages. In the near term, Staff wanted
+to review on-street, paid parking solutions as part of an integrated
+approach. Staff requested the Council direction to proceed as soon as
+possible with a Request for Proposal (RFP) for PGS technology and thereafter
+an RFP for Revenue and Access Control technology or to issue a solicitation
+for an integrated system combining both technologies. Staff would need
+additional time to prepare and issue a solicitation for an integrated system
+combining both technologies.
+
+Eric Rosenblum indicated the slate of technology was encouraging. He was
+glad to hear that infrastructure for payments would be considered and
+installed. He suggested Staff consider different types of employees who
+parked in Downtown.
+
+Sea Reddy believed the City should provide spaces for employees in
+Downtown to park for six or seven hours, so the employees would not have
+to move their vehicles.
+                                                                        Page 11 of 24
+                                                                 City Council Meeting
+                                                             Draft Minutes: 08/18/14
+

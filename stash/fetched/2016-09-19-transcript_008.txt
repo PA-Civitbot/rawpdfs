@@ -1,0 +1,49 @@
+                          TRANSCRIPT
+this that's—we skipped right over this. Switching gears. Level of traffic
+stress is sort of an alternate method that's arisen recently. One of the main
+places that came out was San Jose State actually, which did an important
+research project, which really looked at trying to tie how people use the
+transportation system, how bicyclists in particular use the transportation
+system, to these kinds of metrics that we're talking about. What they did
+was look at these different classifications of users, from the completely
+fearless user all the way down to folks who are more enthused and confident
+or interested but have concerns, sort of a classic classification that we use in
+the type of work that we do. Try to develop facilities that really tie networks
+together. This map, which is a map of San Jose, you can kind of see where
+there are gaps in the network, where you might want to make
+improvements to help make connections. Where you have little bits of green
+that are all connected, that's a part of the network where you can get there
+at a particular level of traffic stress. Where there's red, that means that's a
+gap that you need to make your way across. It starts to really tie, again,
+that measurement of the system to the user experience directly. Something
+that we've been working on a lot recently, that we think is interesting, sort
+of extends the level of traffic stress method and starts to ask the question
+about where are you trying to go. It's great to have these connected
+networks and trying to make sure the parts of your City are connected
+together. When you think about the destinations that people are getting to,
+whether that's work or recreation or otherwise, you can start to ask the
+question how would you measure folks' ability or likelihood to bicycle or walk
+to those destinations. We've used research out of Portland State that looks
+at the relative distance that people perceive their trip to be when bicycling
+compared to the actual distance. If you drive or bicycle on higher stress
+streets, you typically perceive them to be longer. The little curved chart is
+meant to indicate the actual amount of distance that people perceive relative
+to the actual distance that they're traveling. On higher stress streets, it's
+much higher. You can build facilities that help connect people's experience
+about how they perceive that distance to their actual travel patterns. This is
+one example that comes out of the Google Bicycle Vision Plan that we
+worked on last year. What it shows you is how—there are a number of
+different metrics that we've used, that take these same data. How far out
+can you go and experience a low level of traffic stress along that route? If
+you're getting to one particular destination, you could take this type of
+analysis and understand and see where some of the gaps are. If the level of
+traffic stress was—as you would expect because it changes by distance, you
+would essentially have concentric rings. To the extent you don't have
+concentric rings around your destination, that's a place where you have a
+gap and a challenge. You can use that to help identify for a destination-
+based approach potential gaps that you might have. One way we've used
+that recently, that we think is pretty interesting, is something that we've
+                                                                          Page 8 of 120
+                                                                   City Council Meeting
+                                                                    Transcript: 9/19/16
+

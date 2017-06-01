@@ -1,0 +1,50 @@
+                         TRANSCRIPT
+symptom of the fact that we drive relatively large vehicles with pretty low
+occupancy rates. If you looked at during the peak periods how many of the
+vehicles that have five seats only have one driver or maybe even one
+passenger. We have a seat utilization problem; that's another metric. We
+started to measure that recently on freeways. Our freeways during peak
+periods might operate at close to 35 percent of their seat capacity. We have
+a very inefficient network that's largely caused by the fact we don't conserve
+trips. We don't really conserve trips because the price of travel just isn't
+high enough that people are discouraged from making them in the first
+place. You've got this combination of effects. Some are symptoms; some
+are problems. If you really want to get to the source of what causes these
+symptoms, it's the amount of travel and the length that they're going. VMT
+does become a useful metric to kind of add to that equation.
+
+Council Member DuBois: Two more questions. When I looked at this, I
+didn't really get it. We have our kind of very rural (inaudible) bike paths up
+here that are in the high stress area. It just really seems—how close are
+you to Google headquarters seems to be this map. Is that ...
+
+Mr. Louch: Yeah, that's right. Essentially it's a distance-based metric. It's
+relative to that one destination. The further away you are, the more stress
+you're going to experience on your trip.
+
+Council Member DuBois: Even if we have really good bike paths? Ideally
+you would show those as lower stress, right?
+
+Mr. Louch: Just imagine you drew concentric circles at every mile out from
+that spot and then you were to draw these things in, they'd become shorter
+if you put in bike paths. They become longer if you put in arterials, streets
+with no bike lanes essentially. That difference between what it would be like
+just with concentric circles moving outwards is really the kind of difference
+that you're talking about.
+
+Mr. Mello: Imagine a scenario where we selected a specific parcel within
+Palo Alto, and then we looked at the typical three mile biking distance
+around that parcel. We would be able to identify where barriers are within
+that three mile distance. There may be a very inexpensive project that
+would expand that biking radius to three miles and capture another 100 or
+200 households or business destinations that would then be included in that
+bike (inaudible).
+
+Council Member DuBois:       It just seems like optimizing for that one
+destination isn't as useful. Again, you might have some really nice bike
+paths that are 10 miles away. That doesn't mean they're stressful bike
+paths.
+                                                                       Page 19 of 120
+                                                                 City Council Meeting
+                                                                  Transcript: 9/19/16
+

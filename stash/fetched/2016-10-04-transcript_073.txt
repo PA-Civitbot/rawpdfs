@@ -1,0 +1,49 @@
+                          TRANSCRIPT
+Manager for Bay Area Bike Share which is a subsidiary of Motivate. We
+visited you back in April and kind of gave you a rundown on the status of our
+current pilot bike share system and had a Study Session and got some great
+comments from you on directions you wanted to see our bike sharing
+program go. Just to bring you up to speed, our pilot program is part of the
+larger Bay Area Bike Share pilot that was funded by the Air Quality
+Management District, launched back in 2013. Palo Alto, Redwood City and
+Mountain View all participated in this pilot as well as San Francisco and San
+Jose. There were 700 bikes total in the entire pilot; 37 of those bikes were
+in Palo Alto, and we had five stations. Those are still in operation today.
+Currently there's a large-scale expansion of Bay Area Bike Share under way.
+This will bring the system to 7,000 bikes, making it one of the largest
+systems in the entire world once it's expanded to 7,000 bikes. Emeryville,
+Berkeley and Oakland are joining the system. Initially the Peninsula was not
+included in that expansion. If you remember, we discussed that back in
+April. Our current system, as you know, is not performing very well. We
+think this is directly related to the small number of stations, the small
+service area, and the fact that the system uses a point-to-point smart dock-
+style of equipment, which requires a user to travel between two specific
+places. If there's not a dock located at either their origin or destination, the
+system is not useful for that user. As a result, our bikes only saw an
+average of 0.17 trips per bike per day. It's not the most poorly performing
+subsystem within the pilot, but it's pretty close. Again, we think that's
+mainly because of the structure of the system. Our goal moving forward
+would be to get the utilization up to at least 1 trip per day per bike, which is
+kind of the industry standard for a system our size. An interesting find,
+when we look at the data from our current pilot system, the most popular
+trip leg is between the two most distant stations. That tells me that we're
+not really serving the market. The biggest trip pair is from the Downtown
+Caltrain station to the station that's at University and Cowper, which is
+actually the farthest you can ride from the Downtown Caltrain bike share
+station. I think moving forward, if we have more coverage and enable
+people to make longer trips to and from Caltrain and our business districts
+and Downtown and Cal. Ave., I think we're going to see an increase in the
+number of trips per day per bike. Back in October of 2015, Metropolitan
+Transportation Commission (MTC) provided some funding to SamTrans, and
+we kicked off a study in coordination with SamTrans, Redwood City and
+Mountain View and also attended by MTC staff to look at what the post-pilot
+Peninsula bike share system should look like. I updated you on this study
+back in April and let you know that the group was starting to lean towards a
+preference for a smart bike system, SoBi being kind of the premier example
+of a smart bike system. We presented to you all the information we had
+from that study back in April. I think the Minutes are included from that
+meeting in your packet this evening. Since that meeting, the City of San
+                                                                         Page 73 of 104
+                                                                   City Council Meeting
+                                                                    Transcript: 10/4/16
+

@@ -1,0 +1,49 @@
+                          TRANSCRIPT
+variety of sources that we can use. If you think of land use projects, which
+is the most common type of project you're going to probably deal with, VMT
+is just a two variable calculation. It's the number of vehicle trips generated
+by the project multiplied by trip length, how far are they going. Where do
+we get that trip information and trip length? We have a variety of sources
+for trip generation. Some of those come to us from industry standard
+practices. Some of them come to us from travel models like the VTA model
+or the Metropolitan Transportation Commission (MTC) model. We can also
+go out and just count the number of cars going in and out of a Trader Joe's,
+for example. We have lots of ways to get the trip generation information.
+Trip length can be a little more difficult, because you'd have to keep track of
+the trip from where it started to where it's ultimately destined. We do have
+information, though. We have the California Household Travel Survey. We
+have a similar travel survey at the national level. We also have those same
+models I mentioned. They give us estimates on trip length. We also have
+something called big data now. Big data is basically tracking your mobile
+devices or keeping track of trips based on in-vehicle navigation systems.
+We can purchase that data and get an even more refined estimate of trip
+length. We can use all those different sources to come up with estimates or
+forecasts of VMT out into the future. One of the things to be aware of,
+though, is when you think about VMT and trying to set thresholds—
+thresholds really are expectations about performance. One of the challenges
+with VMT is the level of influence that a city has on VMT really comes
+through your land use decisions and your transportation network decisions.
+There's a lot of other things that happen in the economy that can change
+how much people decide to travel by vehicle. Those can overwhelm the
+local influence on VMT.         One of the things that OPR did in their
+recommendations—their threshold is actually tied to a legal term called
+baseline. Basically under CEQA, baseline is the time at which the NOP for
+the project was released, the Notice of Preparation. If we're doing a project
+today and released an Notice of Preparation (NOP) today, basically
+September of 2016 would be our baseline. They're measuring this 15
+percent reduction from a baseline condition. If we were to go out in the
+future two years and have a new project coming forward, their baseline is
+two years in the future. It kind of accounts for fluctuations in the market,
+economic activity and some of those other variables that cities and counties
+don't influence. You could also choose to just have a hard threshold. Not to
+recognize the influence that the market forces play with VMT would probably
+not be advised, because there's so much that you don't control for.
+
+Council Member Holman: A follow-up to that. I warned you I might have
+some follow-up to that. Palo Alto has this jobs/housing imbalance. We have
+all of these people that come to Palo Alto. We want people to come to Palo
+Alto but not in the means that they are currently, necessarily. If we're using
+                                                                        Page 11 of 120
+                                                                  City Council Meeting
+                                                                   Transcript: 9/19/16
+

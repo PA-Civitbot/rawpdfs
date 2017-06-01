@@ -1,0 +1,61 @@
+                                                                                                                                              a
+NACWA Comments on Docket ID No. EPA-HQ-OAR-2009-0559
+November 29, 2010
+Page 40
+
+            A.        No Numerical Emission Limit for PM 2.5
+
+
+
+
+                                                                                                                                                  Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+        NACWA supports EPA’s determination not to include an emission standard for PM2.5 due to the
+potential interferences with moisture from scrubber controls. It is reasonable for EPA to control both total and
+fine particulate by using surrogates because the use of wet scrubbers is not always compatible with OTM 27.
+Entrained water droplets that occur when stack gas moisture levels exceed vapor capacity can bias PM2.5 particle
+measurements and provide inaccurate readings of filterable PM2.5. It would be unreasonable for EPA to include
+emission limits that are not subject to accurate measurement. Furthermore, the same control devices would be
+required to control both total and final particulate. Cf. Nat’l Lime Assoc. v. EPA, 233 F.3d 625, 637 (D.C. Cir. 2000)
+(citing Dithiocarbamate Task Force v. EPA, 98 F.3d 1394, 1399 (D.C. Cir. 1996)).
+
+        Limits on filterable particulate matter and opacity provide an adequate surrogate for direct fine
+particulate matter contributing to PM2.5. There is also a demonstrated correlation between reductions in SO2
+and NOx and reductions in nitrate and sulfate contributions to PM2.5.21 Therefore, the reductions in SO2 and
+NOx resulting from these emission limits will also serve to reduce contributions to PM2.5. Given the technical
+difficulties with accurately measuring PM2.5 emissions, and the reductions in PM2.5 contributors already
+incorporated into the rule, it is reasonable for EPA to use filterable PM10 as a surrogate for PM2.5 emissions.
+
+            B.        No Beyond the Floor Controls for Non-Mercury Pollutants
+
+        NACWA supports EPA’s decision not to impose beyond the floor controls for non-mercury pollutants,
+including CO. The 100 ppmv CO limit in Part 503 is not required for all sources; it is one option for
+demonstrating compliance with the total hydrocarbon limits contained in the rule. See 40 CFR § 503.40(c)(2).
+Thus, Part 503 does not require sources to install afterburners. Any beyond the floor controls for CO imposed
+under § 129 would require MH incinerators to retrofit a regenerative thermal oxidizer or other afterburner
+device onto existing equipment. EPA estimated that installing an afterburner device would increase the cost of
+MACT compliance by over $145 million, and would have uncertain effects on emissions. See ERG Memo,
+Analysis of Beyond the Maximum Achievable Control Technology (MACT) Floor Controls for Existing SSI Units at 4-5 &
+Attachment C.2 (Aug. 2010). Furthermore, afterburners require the use of supplemental fuel, which EPA
+estimates could require annual combustion of an additional 1700 million cubic feet of natural gas. This would
+lead to emissions of an additional 84 tons of NOx, 70 tons of CO per year, and an additional amount of
+greenhouse gas emissions. See 75 Fed. Reg. at 63277. In light of these determinations, EPA was correct to
+eliminate beyond the floor emission limits from the Proposed Rule.
+
+            C.        Flexible Compliance Options
+
+                      1.        Use of Continuous Emission Monitors in Place of Parametric Monitoring and
+                                Annual Testing
+
+       NACWA supports flexible compliance options allowing, but not mandating, CEMS for demonstrating
+compliance. NACWA also supports allowing sources to propose site-specific operation and maintenance plans
+with procedures for addressing missing CEMS data. Providing small entities with a choice of compliance
+options is particularly important, as it will allow each POTW to independently assess which compliance option
+
+21
+     Russell R. Dickerson et al., PM2.5 Maryland State Implementation Plan Weight of Evidence Report 4-40 to 6-40 (Jan. 30, 2008)
+
+
+
+
+                                                                                                                                    Packet Pg. 453
+

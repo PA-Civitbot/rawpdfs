@@ -1,0 +1,49 @@
+                          TRANSCRIPT
+required for transit, pedestrian and bicycle modes, there's actually no
+threshold set. The analysis is simply required; there's no impact triggered.
+Per the 2014 guidelines update, TIAs now have to evaluate whether added
+project traffic would create delays for buses on local streets. They also need
+to evaluate pedestrian and bicycle conditions using a quality of service
+metric. Hugh, later in this presentation, will get into one of those metrics.
+Finally, the 2014 guidelines update encourages a much broader approach to
+understanding a project's trip generation than has typically been the case in
+Santa Clara County. Traditionally, most TIAs have used rates published by
+the Institute of Transportation Engineers, but these rates are often taken
+from really standalone suburban developments that are not typical for what
+gets developed here in Palo Alto. For a mixed-use project like you see here,
+the trip generation should take into account cross-over between the
+residential upstairs and the retail downstairs. City of Palo Alto Staff have
+also required that TIAs use trip generation rates based on local traffic counts
+rather than simply applying IT trip rates, where they might not be
+appropriate. The 2014 guidelines update has also added a new approach to
+accounting for trip reductions that would result from a project's TDM
+program or from Transportation Demand Management (TDM) policies that
+have been put in place at the local level, which you see here in Palo Alto. I'll
+hand it over to Ron Milam next to talk about how impacts are evaluated
+under CEQA.
+
+Ron Milam, Fehr & Peers: Thanks, Sarah. A lot of what Sarah just described
+to you, especially the part about vehicle level of service, is about to change.
+That change is something that we in the industry are referring to as an
+evolutionary change in practice. The reason for that is that we've introduced
+a new law, SB 743(743)—the Legislature passed this back in 2013—that
+basically says vehicle level of service can no longer be used as the sole basis
+for identifying a transportation impact for CEQA purposes. Instead, we're
+going to use a new metric, and that metric was handed over to the
+Governor's Office of Planning and Research to select. They selected vehicle
+miles traveled, VMT, as that metric. They were also directed to provide us
+guidance on how to calculate it, the methodology and also how to set
+thresholds. That doesn't take away the discretion that the City has in
+setting thresholds, but OPR is going to be providing guidance on that topic.
+The reason we consider this an evolutionary change—if you look at the last
+decade of CEQA changes, there's only been a couple of big ones. One of
+those was Senate Bill (SB) 97, and this came on the heels of Assembly Bill
+(AB) 32. That's when the State basically said greenhouse gas reduction is
+an important objective of the State. SB 97 is basically when the Legislature
+basically expected us to start analyzing greenhouse gases in CEQA. They
+basically gave us our first metric. Fast forward to 743, and the Legislature is
+actually becoming even more proactive. They've not only given us a new
+                                                                          Page 4 of 120
+                                                                   City Council Meeting
+                                                                    Transcript: 9/19/16
+

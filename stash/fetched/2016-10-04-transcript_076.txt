@@ -1,0 +1,49 @@
+                         TRANSCRIPT
+intersection as a hub. I know Topeka, Kansas, for a certain time actually
+designated their entire downtown as a hub, so you could grab a bike
+anywhere in Topeka, ride downtown, lock it up to any bike rack, and it's
+considered returned. You don't have to worry about locating a rack if you're
+going downtown. As soon as you get there, you just lock it up to the first
+available location. This is an example of some of the data you can pull using
+the SoBi system. You can calculate greenhouse gas reductions; you can
+analyze travel patterns; you can look at the performance of the different
+hubs. We'll be able to look at the number of trips per day per bike. This is
+an example of number of trips. You can split it up by type of membership.
+If we wanted to know where daily membership riders were going, maybe we
+find out that people are coming to Palo Alto station and then touring
+Stanford on a day pass. We would actually be able to look at what types of
+trips and where they're going based on the membership. We could look at
+where the annual membership riders are going. All this data will help us
+better focus our marketing efforts and work with Motivate and target specific
+populations and demographics and help improve the performance of the
+system and get it up to that pne trip per day per bike minimum that we're
+looking to get to. This is an example of a map showing all the trip density
+overlaid on a city map. I think this is Hamilton, Ontario. We'll be able to
+use some of this data to help plan our bike network as well. We'll see where
+there's gaps, where we may see a certain roadway segment that a lot of
+cyclists are using, and we don't have any infrastructure on that segment.
+We could then in turn focus our investments on that roadway segment. This
+is the current fare structure for Bay Area Bike Share. We would not have
+the ability to set the fare structure. This would be operated as part of the
+regional system under contract with MTC. Motivate and MTC have already
+negotiated the fare structure for that. A 24-hour, one day membership is
+$9. A three day membership is $22. A one year membership is $88. When
+you have a membership, you can take an unlimited number of 30-minute
+rides anywhere in the system. This is intended again to be kind of a last-
+mile/first-mile connection. A bike share system is not intended to be a bike
+rental system, where you rent the bike for a day or two or days at a time.
+These are used for short, 30-minute or less, trips. Smart bike-specific fees
+that Motivate has included are, as I mentioned earlier, the $3 out-of-hub
+fee—this would be if you lock a bike up outside of a designated hub—and a
+$1 return credit. The annual pass will be increasing from $88 to $144 with
+the expansion of the system in 2017. This is very important. Motivate is
+working to ensure that the system is interoperable with the Clipper Card in
+the future. In the interim, you'll be able to use your Clipper Card as kind of
+your ID for bike share. It'll be tied to your bike share account, but you'll
+only have to carry one card for transit and for bike share. In the long term,
+we're hoping that with Clipper 2.0 you could actually have one account that
+would pull transit funds, bike share and other modes of transportation. This
+                                                                       Page 76 of 104
+                                                                 City Council Meeting
+                                                                  Transcript: 10/4/16
+

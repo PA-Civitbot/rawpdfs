@@ -1,0 +1,60 @@
+                                                                                                                      a
+NACWA Comments on Docket ID No. EPA-HQ-OAR-2009-0559
+November 29, 2010
+Page 36
+
+the same emission standards for all operating conditions. EPA states that Sierra Club “requires EPA to apply
+MACT emission standards on a continuous basis, thereby precluding exemptions applied for malfunctions or
+
+
+
+
+                                                                                                                          Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+other singular events.” 75 Fed. Reg. at 63282 (emphasis added). EPA concludes: “Therefore, consistent with
+Sierra Club v. EPA, EPA is proposing that the standards in this rule [i.e., a single set of standards developed for
+steady-state operating conditions] apply at all times.” Id.
+
+        While it is true that a blanket exemption from any standard may be inconsistent with the Sierra Club
+holding, the opinion does not prohibit EPA from applying different, even non-numerical, standards during SSM
+events from those standards that apply during steady-state operations. The court only rejected EPA’s decision
+not to impose any emission standard whatsoever during SSM periods. See 551 F.3d at 1027-28. In fact, Sierra
+Club acknowledged that the definition of emission standard in § 302(k) indicates that any one standard need
+not apply at all times. The court noted that the Part 63 General Provisions at issue in Sierra Club were not a
+design, equipment, work practice, or operational standard under § 112(h) and expressly did not decide whether
+EPA could promulgate a work practice or engineering standard under CAA § 112(h) (much less under the
+analogous § 111(h)) instead of the exemption EPA sought to defend. See 551 F.3d at 1028. Far from supporting
+EPA’s effort to ignore SSM periods, Sierra Club actually highlights the legal weakness of EPA’s proposed SSM
+approach. Therefore, EPA cannot use Sierra Club to justify not setting different standards for SSM events.
+
+        A.      EPA’s Rationale for its SSM Approach is Inconsistent with the CAA and Factually Unsound
+
+        Beyond not being supported by Sierra Club, NACWA believes EPA’s SSM approach is contrary to the
+requirement under § 129(a)(2) that emission standards be achievable in practice by the best performing units.
+EPA deals with the complex issue of setting standards for SSM with a bare statement that emissions from
+supplemental fuels during startup “are expected to generally be lower than from burning solid wastes” –
+presumably meaning sewage sludge – and that emissions during shutdowns “are also generally lower than
+emissions during normal operations because the materials in the incinerator would be almost fully combusted
+before shutdown occurs.” 75 Fed. Reg. at 63282-83. Finally, EPA claims that its variability analysis has
+adequately addressed “any minor variability that may potentially occur during startup or shutdown.” 75 Fed.
+Reg. at 63283.
+
+         For the same reasons discussed in Section IV of these comments, EPA’s variability analysis cannot
+justify the use of the same emission standards for SSM periods. That analysis includes only limited stack test
+data from the nine ICR POTWs and none of those data include SSM periods. Thus, the data used in the
+variability analysis are not representative of SSM events, and statistical analysis alone cannot correct this
+fundamental flaw.
+
+         Aside from the shortcoming that there is no information supporting EPA’s view that SSIs can comply
+with the proposed standards during SSM events, there is reason to believe that emissions of some pollutants
+can be expected to be higher during startups and shutdowns. For example, emissions of CO and PM can be
+expected to be elevated during startup when oxygen levels are higher due to lower combustion temperatures,
+resulting in higher pollutant concentrations when corrected to 7 percent oxygen. Similarly, absolute pollutant
+levels tend to increase during startup and shutdown due to incomplete combustion that is unavoidable at lower
+temperatures. The influence of unstable combustion may be more pronounced during shutdowns as the
+incinerator combusts the remaining sewage sludge for 30 minutes or more. EPA should also account for
+
+
+
+
+                                                                                                          Packet Pg. 449
+

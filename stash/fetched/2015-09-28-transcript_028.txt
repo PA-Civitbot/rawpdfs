@@ -1,0 +1,48 @@
+                         TRANSCRIPT
+Ms. Hovis: They don't have the same capital costs that you do. The cable
+and phone companies have networks that were built many years ago, in
+terms of their capital costs.
+
+Council Member Scharff: What about Google?
+
+Ms. Hovis:     Google is a very different animal than anything we've
+encountered in the past. I think I probably don't have to tell you that it's a
+relatively opaque company, so they're not sharing their business model with
+us. We do not know—I don't think anybody outside that company knows
+how Google plans to fully monetize this investment. We know that they did
+not go into the fiber business because they wanted to be an internet service
+provider and compete with Comcast and AT&T for market share. They went
+into the fiber business as a policy matter, because they wanted to make sure
+that the next generation of the internet was deployed over fiber to the home
+throughout the United States. They started this as a demonstration project.
+They said very explicitly that they were taking what they'd been advocating
+for in Washington and doing a series of demonstration projects in order to
+show that it was viable to build fiber to the home. They have since
+expanded quite extensively. Our read is that they're planning to continue
+expanding.      The traditional way of making money in communications
+infrastructure which is by selling voice services, video services and data
+services, is just one way that Google is making money. We can all guess at
+some of the others, but we probably can't guess at many of them. They're
+in a unique position relative to anyone. One of the leaders of Google Fiber
+has said publicly, "We have no problem with access to capital." They don't
+have financing costs. There are all kinds of benefits that Google has that not
+only can't be replicated by the City of Palo Alto, but can't be replicated by
+anyone.
+
+Mr. Asp: I can just maybe add one. If you look at the operating costs,
+where we talked about about 85 percent of the total operating costs, if you
+were looking at it from a Palo Alto-ran utility, would be on your vendor
+maintenance contracts, labor costs and direct internet access costs. A lot of
+those costs, especially like the vendor maintenance contracts and the direct
+internet costs, that's a cost where it's virtually zero for somebody like
+Google. When you add the kind of customer service and some of those
+support costs, they're also not going to see that, because they already have
+a lot of that embedded costs, sunk costs, that they can already leverage.
+It's a huge thing on the operating costs.
+
+Council Member Scharff: On the big picture, we have roughly $20 million in
+the Fiber Fund, right. How would we leverage that best? To me, that seems
+                                                                       Page 28 of 130
+                                                                 City Council Meeting
+                                                                  Transcript: 9/28/15
+

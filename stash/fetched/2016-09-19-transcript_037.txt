@@ -1,0 +1,49 @@
+                          TRANSCRIPT
+Mr. Milam: If I could just add. There are better models available to forecast
+travel time in the future. Josh is right. They do require you to actually
+model, though, individual intersections because those are the bottlenecks or
+constraints in the network. Not a lot of cities have those kind of models
+built. We've built one, for example, in Pasadena where their street system is
+relatively built out and the kind of development they have is infill. It
+basically moves traffic around and creates delays. The freeway also has an
+effect. Those models do require more data and a lot more investment in the
+tools than a lot of communities have been willing to spend. The question for
+the community is really how much do you value being able to manage your
+traffic, because it does require a whole different set of tools than a
+conventional TIA typically requires.
+
+Vice Mayor Scharff: Thank you.
+
+Mayor Burt: Council Member Filseth.
+
+Council Member Filseth: Thanks very much. Mindful of time, I'll try to be
+quick here. First of all, thank you very much for coming and conducting this
+with us tonight. This has been very interesting. I think it makes perfect
+sense for CEQA to drop LOS as a metric. LOS and VMT are two very
+different things. LOS is more of a quality of life thing, and VMT is (inaudible)
+anyway more about emissions and greenhouse gases. CEQA is supposed to
+be environmental, and VMT is an environmental thing. LOS really kind of is
+not, other than as some people pointed out the second order effect of people
+idling at intersections and stuff. I do think from a practical perspective the
+Vice Mayor has kind of an interesting point about you can sue under CEQA,
+and you may not be able to under other kind of things. With respect to the
+quality of life issue, everybody knows traffic's a problem. The thing about
+LOS—it's really trip time. If we can get to better measurements of trip time,
+that's a step forward too. For the moment, what we've got is LOS. That's
+really how the community measures the problem. They say, "It takes me
+this long to get from California Avenue to Meadow on El Camino." That's
+how the community defines the problem. There's a bunch of dialog in the
+Minutes and floating around the ecosystem of people saying we're moving
+away from LOS, we're not going to need that anymore, and so forth. The
+risk there is if we drop LOS as sort of a key metric, we're kind of moving
+away from the community because that's how the community sees it.
+There's been some discussion here tonight and also in the Minutes of
+meetings and stuff like that, that there ought to be some correlation
+between vehicle miles traveled, if you do it the right way, and LOS. I hope
+that’s true. If it is true, then we're going to see it in LOS. I think we need
+to keep LOS, and I think everybody here agrees with that. I do agree with
+Council Member DuBois that we ought to look at thresholds as well. The
+                                                                         Page 37 of 120
+                                                                   City Council Meeting
+                                                                    Transcript: 9/19/16
+

@@ -1,0 +1,59 @@
+                                                                                                     a
+
+
+
+
+control equipment. It is clear that Palo Alto would lose a critical roadway within the plant
+to install the needed air pollution control equipment. This space constraint is severe and
+will make it extremely difficult to receive chemical deliveries, modify existing
+infrastructure, and install future wastewater treatment technologies.
+
+
+
+
+                                                                                                         Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+Additionally, the mercury concentration in the flue gas streams of SSIs is typically very
+low as compared to other incinerators such as municipal solid waste incinerators. At low
+concentrations of mercury in the flue gas, the adsorption process could become mass
+transfer limited and reduce the removal efficiency. This would require injection of larger
+quantities of carbon to remove a relatively small quantity of mercury. EPA has erred in
+not factoring in these variables, which will greatly increase operating costs, into the
+beyond-the-floor mercury calculations.
+
+The beyond-the-floor mercury reduction of 88 percent for activated carbon injection in
+multiple hearth systems is arbitrary. While it may be true that data gathered from other
+combustion processes like coal-fired boilers indicate a mercury control efficiency range
+of 85-95 percent with activated carbon injection and subsequent particulate removal, the
+information in the record does not support a conclusion that MH SSIs can achieve
+significant mercury control to meet the beyond-the-floor limit. Combustion of coal
+results in flue gas containing relatively stable constant mercury concentrations. In
+contrast, SSIs combust biosolids with widely variable mercury concentrations, and
+mercury flue gas concentrations from SSIs are therefore quite variable. To illustrate this
+point, Figure 1 provides Palo Alto’s monthly sludge cake mercury concentration data and
+triplicate flue gas mercury concentration data since 2001. In setting the MACT floor
+standards for mercury and other constituents, EPA used the Upper Prediction Limit
+(UPL) statistical method to account for variability in the data set. EPA’s selection of 88
+percent as a constant mercury reduction achievable using activated carbon injection fails
+to account for variability in the performance of activated carbon injection and the other
+air pollution equipment that will be needed in conjunction with activated carbon
+injection. Variability in the performance of the activated carbon injection process,
+coupled with varying mercury concentrations in flue gas upstream of activated carbon
+injection, may result in removal less than 88 percent and flue gas concentrations that
+exceed the proposed beyond-the-floor mercury standard.
+
+EPA should not adopt a stringent mercury standard for MH SSIs based on untested
+assumptions that activated carbon injection technology can be successfully transferred to
+MH SSIs. Activated carbon injection has not yet been demonstrated to be a sustainable
+success in its single fluidized bed SSI application. As described above, activated carbon
+injection on MH SSIs has not been demonstrated and would require multiple new air
+pollution control components beyond the activated carbon injection itself. Given the
+multiple system components that would be required and the variability of the mercury
+concentrations in SSI flue gas, EPA should not assume that a constant 88 percent
+mercury removal is achievable by this technology.
+
+
+
+
+                                       Page 4 of 20
+                                                                                           Packet Pg. 397
+

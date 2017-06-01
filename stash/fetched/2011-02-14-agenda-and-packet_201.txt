@@ -1,0 +1,67 @@
+                                                                                                                  10.b
+California Avenue Lane Reduction – Traffic Analysis Report
+
+
+Intersection Level of Service
+The results of the intersection level of service analysis under project conditions are
+summarized in Table 7. The results indicate that, with the proposed reduction in travel lanes,
+
+
+
+
+                                                                                                                         Attachment: Attachment B: Hexagon - Cal Av TIA Report (No Appendices) (1320 : California Avenue Neg Dec and CIP)
+all of the study intersections would continue to operate at acceptable levels of service with
+LOS C or better. The stop sign intersections would operate at LOS A or B. While some
+intersection delays would increase slightly, each of the study intersections would continue to
+operate well within capacity. Thus, the proposed project would not result in any adverse LOS
+impacts to intersections on California Avenue. The level of service calculation sheets are
+included in Appendix B.
+Table 7
+Project Intersection Level of Service
+
+                                                             Existing             Project
+ Study                                             Peak     Ave.        Ave.       Incr. In    Incr. In
+Number Intersection                                Hour     Delay LOS   Delay LOS Crit. Delay Crit. V/C
+
+   1    El Camino Real and California Avenue        AM      24.7   C    24.7    C      0.0      0.000
+                                                   Midday   28.8   C    28.8    C      0.0      0.000
+                                                    PM      30.5   C    30.5    C      0.0      0.000
+   2    Ash Street and California Avenue            AM       8.2   A     8.5    A      0.4      0.121
+                                                   Midday    9.1   A     9.9    A      0.8      0.187
+                                                    PM       8.4   A     8.9    A      0.5      0.142
+   3    Birch Street and California Avenue          AM      11.1   B    11.2    B      0.0      0.000
+                                                   Midday   10.9   B    11.3    B      0.3      0.002
+                                                    PM       9.8   A     9.9    A      0.1      0.001
+   4    Park Boulevard (W) and California Avenue    AM       8.2   A     8.2    A      0.0      0.000
+                                                   Midday    8.4   A     8.6    A      0.1      0.084
+                                                    PM       8.4   A     8.4    A      0.0      0.040
+   5    Park Boulevard (E) and California Avenue    AM       7.2   A     7.2    A      0.0      0.000
+                                                   Midday    7.3   A     7.3    A      0.0      0.000
+                                                    PM       7.4   A     7.4    A      0.0      0.000
+   6    Birch Street and Cambridge Avenue           AM       8.2   A     8.2    A      0.0      0.000
+                                                   Midday    8.3   A     8.3    A      0.0      0.000
+                                                    PM       8.3   A     8.3    A      0.0      0.000
+   7    Birch Street and Sherman Avenue             AM       9.6   A     9.6    A      0.0      0.000
+                                                   Midday    8.9   A     8.9    A      0.0      0.000
+                                                    PM       8.8   A     8.8    A      0.0      0.000
+
+
+
+Roadway Segment Level of Service
+Roadway links were analyzed using volume to capacity (V/C) ratios. With the proposed lane
+reduction, the volume of traffic on California Avenue would remain unchanged, but the
+capacity of each direction would be reduced from 1,360 vehicles per hour to 560 vehicles per
+hour. According to the publication Parking by Weant and Levinson, lane groups with 2 lanes
+experience a 15% reduction in capacity when on-street parking is provided and parking
+turnover is heavy (approximately 40 parking maneuvers per hour). For one lane streets, on-
+street parking, and heavy parking turnover, a 30% decrease in capacity is expected. The
+additional reduction in capacity occurs for one lane roadways because vehicles backing out of
+spaces block the entire traveled way. With the two lane configuration, through traffic can
+maneuver around vehicles backing out of spaces.
+
+
+
+                                                                                         27 | Page 
+
+                                                                                                          Packet Pg. 201
+

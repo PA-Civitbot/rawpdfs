@@ -1,0 +1,51 @@
+                          TRANSCRIPT
+optimized and you make it electronic, you make a less optimized electronic
+process. I think as we more and more embrace this, we have to refine that,
+and we have to identify the bugs. We do provide training to users, and the
+vendor provides training.     Lastly, I think your question was are bugs
+identified and fixed. For example, right now there is a little bug in one part
+of it. We alert the vendor to that. We tell them it's a priority. They will
+resolve it soon. The last point, though, about this is the product is made by
+a company called PublicStuff. It was recently acquired by Accela who do our
+permitting software. It is what's called multi-tenancy which means if one
+city wants a benefit that they adopt; every city sees the benefit of that
+feature. The system we use is used by several hundred cities in the United
+States, so we benefit from any bugs that are discovered and fixed for
+everybody. We benefit from any new features. Any one of us can also
+recommend features too. It has that function within the app.
+
+Council Member Berman: Thanks.
+
+Mayor Burt: Council Member DuBois.
+
+Council Member DuBois: Thank you. A lot of good stuff. I know we're using
+Open Government for some of our stuff. Where do they fit in? Maybe you
+could talk a little bit about some of the tools you're using on open data
+(crosstalk).
+
+Mr. Reichental: Open City Hall or Open Gov. in Redwood City, which one?
+
+Mr. Keene: Open Gov., right?
+
+Council Member DuBois: Open Gov., yeah.
+
+Mr. Reichental: We have the unique distinction of having co-created that
+solution that is used by over 500 cities today. It started in Lalo's office with
+me and Lalo and two enterprising students from Stanford. Today it's a big
+success story. We use it. It's on our finance website.
+
+Council Member DuBois: It's just financial data like the other numeric data.
+We just use other tools?
+
+Mr. Reichental: Open Gov. today is solely focused on actuals and budgeted
+numbers.    However, they will have to tell market place (inaudible)
+themselves, but they certainly have ambitions beyond that.
+
+Council Member DuBois: Are we using open source platforms for some of
+the other tabular data that we're reporting?
+
+
+                                                                         Page 11 of 107
+                                                                   City Council Meeting
+                                                                     Transcript: 4/4/16
+

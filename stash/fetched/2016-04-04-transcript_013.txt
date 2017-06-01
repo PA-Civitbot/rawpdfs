@@ -1,0 +1,50 @@
+                          TRANSCRIPT
+public record request for that information." That's just one example of the
+arena in which we're just trying to put things out in advance.
+
+Council Member DuBois: It's hugely powerful. We're saving time. We're
+saving money. This is a huge win. I think figuring out now kind of what
+people are using and what they like the most is kind of the next phase
+probably. I was really glad to see the Business Registry data up there. I do
+want to file a bug report. I was trying to sort on square footage, and it
+seems like it's sorting right justified instead of left justified. Like, 998
+square feet comes up before 99,000 square feet. I don't know. It's very
+odd right now.
+
+Mr. Reichental: We'll take a look at that. What I would recommend is to
+download it as a ...
+
+Council Member DuBois: Export it to Excel or something.
+
+Mr. Reichental: Export it, yeah. That's your best bet.
+
+Council Member DuBois: It's great to have that option. Again, on the open
+data side of things, I think just trying to start to get some feedback on it.
+Your users will tell you if there's any problems. On the digital services side,
+I'm curious what your backlog looks like and how you prioritize what you're
+going to work on next.
+
+Mr. Reichental: It actually takes more of the form—I'll actually have an
+answer to that in a moment; I just thought of one. When we adopt a new
+solution at the City, we have two architectural messages we send out. One
+is we're Cloud first, and then we (inaudible) by exception, and mobile first
+which means the solution has to have a mobile capability. Where that has
+been possible, we do that. Whatever is on the roadmap of projects over the
+next 12-24 months, we will adopt the mobile capability within that. I think
+probably if I was to quantify the most popular or the most often requested
+app. it's to be able to do time and expenses on an app. We have every
+intention of doing that as part of the Enterprise Resource Planning (ERP)
+project.
+
+Council Member DuBois: That's an internal, Staff app. I guess. Do you have
+a backlog for public-facing apps.?
+
+Mr. Reichental: We don't actually.      We don't.    We'd welcome requests
+through the website.
+
+Council Member DuBois: The thing about both these areas, the apps. and
+the data, just to kind of have the sense—as I said earlier, I think you have a
+                                                                        Page 13 of 107
+                                                                  City Council Meeting
+                                                                    Transcript: 4/4/16
+

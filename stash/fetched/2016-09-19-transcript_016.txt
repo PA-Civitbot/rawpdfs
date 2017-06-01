@@ -1,0 +1,50 @@
+                           TRANSCRIPT
+Council Member DuBois: I was just curious about that one. I think the
+report mentioned the increased use of cell phone GPS data and that's going
+to help with VMT measurement. It seems like you could track miles with the
+GPS. You could also track time to travel. There was some discussion about
+the accuracy of the model. With this new data source, do we expect the
+accuracy to actually improve?
+
+Mr. Milam: As data increases over time, you expect the accuracy to
+definitely get better. One of the things we can do with the data, though—we
+do a sample-sized check and verify are we getting a representative size or
+sample such that we can draw conclusions from it. That's one of the things
+we actually look at when we purchase the data or even before we purchase
+the data. It's interesting; we're doing that now for VMT purposes. For a
+long time, most traditional traffic studies will collect traffic counts on a single
+day for an intersection level of service calculation. It's also a sample trying
+to represent maybe a typical year. Realistically you'd need multiple days of
+traffic counts to know whether or not you have a representative sample. As
+we look at VMT under this new lens, a lot of questions that maybe should
+have been asked even about the methodology for level of service are
+starting to get asked, which is a good thing because some we're better
+prepared to answer than others. The ones that still need a little bit of work
+will be areas where we focus our time and energy.
+
+Mr. Mello: If I could just add. We have started to use big data in some of
+our analyses. For example, the MTC has a library of all the INRIX, which is
+the GPS data from people's Garmin devices. MTC has purchased the
+regional INRIX data for the last couple of years. We're able to use that to
+actually look at what travel times are along certain corridors. I could see a
+future where we maybe get away from level of service and we start talking
+about the actual travel times along a segment of roadway or a corridor, and
+we're able to look at that at different time periods during the day and see
+how specific projects influence that travel time.
+
+Council Member DuBois: With big data, you won't even need the sample.
+You could just look at all the data. I saw in here also kind of a new
+requirement to consider transit delay impacts as well as trip reduction
+impacts. I wonder if there's been much discussion about how those could
+interact. It seems like they could impact each other. If you had a TDM that
+relied on transit, but your transit's overloaded, are you fighting against each
+other? Has that been discussed?
+
+Mr. Milam: That has been discussed. In OPR's technical guidance, they've
+tried to walk a very fine line between adding demand to transit generally not
+being an impact. That's under the presumption there's capacity available.
+
+                                                                           Page 16 of 120
+                                                                     City Council Meeting
+                                                                      Transcript: 9/19/16
+

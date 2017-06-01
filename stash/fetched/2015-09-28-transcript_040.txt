@@ -1,0 +1,48 @@
+                         TRANSCRIPT
+Mayor Holman:    To be fair, if you have another question, you should also
+ask it.
+
+Council Member Burt: I'll go with one more. One of the questions is—that
+I'm not expecting you to have an answer for here—but on the basis of what
+we've really been discussing about broadband Wi-Fi on the horizon with 5G
+systems, I haven't seen the number broken out nor is it really a viable
+option for us to be thinking of another scenario which is essentially fiber to
+the curb. Rather than having to take it into the household, we basically
+have a lower cost of Wi-Fi to the street. Does that work? Is that on the
+horizon as a viable technical alternative? If so, is it a different cost
+scenario?
+
+Mr. Asp: I think in that one, we didn't look at that model in particular.
+There's a couple of challenges when you start doing that. When you start
+talking about going up to the next AC and some of the other new standards,
+you're going up. That's a 5 gig standard. You have different types of
+penetration of how well it goes from an outdoor coverage to the indoors.
+Some of those. You also have to, when you bring fiber to the curb and then
+have an access point, and then trying to get indoor coverage, then you have
+looking at the devices. If you took a look at the Wi-Fi module in this, is
+whether it's going to get the penetration or do you have to have an external
+bridge that connects your devices. It's a little bit—there's some complexities
+(crosstalk).
+
+Council Member Burt: Those are some of the technical issues I was alluding
+too. I'm saying I appreciate that there are those technical issues and that
+they would have to be really broken down and see whether this is an
+alternative. I'm simply saying that it seems that based on what we heard
+tonight, this is something that we'd want to look at more deeply.
+
+Council Member Berman: Thank you guys very much. Thanks for the
+report, the presentation today and a lot of the good answers and thorough
+answers you guys have had to our questions. There are a lot of points that I
+agree with and could extrapolate on. Given the length of conversation we've
+already had, I just have a quick question maybe for Staff more than the
+consultant. We've talked a lot about how lucky we have to have such a
+remarkably strong Utilities Advisory Commission. It's one that we rely on a
+lot. The UAC, albeit by a small margin, voted to recommend a bit of a
+different Option 1 where—I guess the way it's written in the Staff Report,
+the UAC requested that Staff evaluate a City-owned FTTP network to all Palo
+Alto households and businesses as a publicly funded public benefit. Instead,
+Staff's recommending an evaluation of the strengths and weaknesses of
+                                                                       Page 40 of 130
+                                                                 City Council Meeting
+                                                                  Transcript: 9/28/15
+

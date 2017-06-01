@@ -1,0 +1,45 @@
+                 Table 2: Summary of costs for Palo Alto associated with going beyond-the-floor for mercury control.
+                                                                                      Baseline Emissions and Incremental Emission Reductions
+                                                        Cost
+                                                                                                            (tons/year)
+
+                      Palo Alto Multiple Hearth                       TAC
+                                                        TCI ($)                              EPA Estimate                  Palo Alto Estimate a
+                            Incinerators                              ($/year)
+
+                                                                                                   Incremental
+                                                                                         Hg            Cost-          Hg         Incremental Cost-
+                                                                                       (tons)     effectiveness     (tons)      effectiveness ($/ton)
+                                                                                                      ($/ton)
+
+                  Baseline Emissions
+                                                        -             -               0.0316            -          0.00504                -
+                  MACT Floor Total Cost and
+                  Emission Reductions                                                    0              -             -                  -
+                              Fabric Filter             $6,877,542    $1,593,646         -              -          0.00444         $358,929,279
+                  Additional
+                  Costs and   Afterburner Retrofit      $2,513,280      $714,328         -              -             -                  -
+                  Emission    Packed Bed
+                  Reductions Scrubber                   $3,720,948        $777,212       -              -              -                  -
+                  by Control  Activated Carbon
+                              Injection                     $80,626       $343,366    0.0278      $12,351,295      0.00444          $77,334,685
+
+                                                               Total cost per ton                 $12,351,295                      $436,263,964
+
+
+                 a.
+                   Palo Alto’s estimate uses baseline emissions from actual stack testing and includes the EPA cost estimates for fabric filter and activated carbon
+                 injection.
+Packet Pg. 404
+
+
+
+
+                                                                                     Page 11 of 20
+
+
+
+
+                                                                                                                                                                       a
+                         Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+

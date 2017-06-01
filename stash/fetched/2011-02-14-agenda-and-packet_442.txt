@@ -1,0 +1,60 @@
+                                                                                                               a
+NACWA Comments on Docket ID No. EPA-HQ-OAR-2009-0559
+November 29, 2010
+Page 29
+
+the stack tests, quality assure the data and submit it for EPA consideration. NACWA has requested, and EPA
+has rejected, an extension of time for the comment period on the Proposed Rule. EPA should not now blame
+
+
+
+
+                                                                                                                   Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+POTWs for not generating sufficient data during the comment period.
+
+       F.      EPA Should Not Adjust the Upper Predictive Limit to Compensate for its Lack of Data.
+
+        EPA seeks comment on whether to use the 99 percent UPL or a modified 95 percent UPL. EPA should not
+use a 95 percent UPL to compensate for its lack of data. This essentially presumes that sources represented by
+the database would be expected to be out of compliance 5 percent of the time. This is contrary to the CAA
+requirement that MACT limits must be met at all times and under all reasonably foreseeable conditions. See
+Sierra Club v. EPA, 551 F.3d 1019 (D.C. Cir. 2008). EPA should use a 99 percent UPL to set enforceable limits as
+has been done in other recent rulemakings. Adjusting the percent basis for the UPL to get to a target emission
+limit that is more palatable to the Agency would turn the MACT process on its head and be vulnerable to legal
+challenge.
+
+       G.      MACT Floor Methodology Must Reflect an Achieved Emission Limit
+
+        The proposed MACT standards for SSIs are based on pollutant-by-pollutant analyses that rely on a
+different set of best-performing sources for each separate § 129 pollutant. See 75 Fed. Reg. at 63270 (“The
+MACT floor analysis was then conducted using all the emissions information for each pollutant in each
+subcategory.”). EPA cannot demonstrate that any of these units is capable of meeting all of the proposed
+emission limits. The Metropolitan Council Environmental Services’ Metropolitan Treatment Plant, which is
+the best performing source for some pollutants, cannot reliably meet all of the limits under all operating
+conditions because EPA failed to consider the true operational variability of POTWs. The result is a set of
+standards that reflect hypothetical performance of a set of sources that simultaneously achieve the greatest
+emission reductions for each and every § 129 pollutant without regard to whether any such SSI actually exists
+or whether the resulting standards are in fact achievable by any SSI. This approach is untenable and contrary to
+the language of § 129.
+
+         CAA § 129 unambiguously directs EPA to set standards based on the overall performance of incineration
+units. Section 129 specifies that emissions standards must be established based on the performance of “units”
+in the category or subcategory and that EPA’s discretion in setting standards for such units is limited to
+distinguishing among classes, types, and sizes of units. These provisions make clear that standards must be
+based on actual units and cannot be the product of pollutant-by-pollutant parsing that results in a set of
+composite standards that do not reflect the overall performance of any actual unit. Congress provided express
+limits on EPA’s authority to parse units and sources for purposes of setting standards under § 129 and that
+express authority does not allow EPA to “distinguish” units and sources by individual pollutant as is proposed
+in this rule. See Sierra Club, 551 F.3d at 1028.
+
+       Section 129 MACT standards present very real problems in this regard because the statute requires
+maximum achievable limits for both nitrogen oxides and carbon monoxide. For combustion sources, carbon
+monoxide is controlled by increasing excess oxygen and combustion temperature and nitrogen oxides are
+controlled by decreasing excess oxygen and combustion temperature. A unit that is over-controlling its
+combustion unit for NOx would be expected to increase CO. Similarly, a unit that is focused on CO reduction
+
+
+
+
+                                                                                                    Packet Pg. 442
+

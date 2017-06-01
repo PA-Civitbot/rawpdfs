@@ -1,0 +1,59 @@
+                                                                                                                   a
+NACWA Comments on Docket ID No. EPA-HQ-OAR-2009-0559
+November 29, 2010
+Page 37
+
+situations where higher emissions occur during the time it takes to bring control equipment from startup to
+steady-state operations.
+
+
+
+
+                                                                                                                       Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+        In the case of malfunctions, NACWA disagrees with EPA’s newly articulated view that malfunctions are
+not distinct operating conditions from steady-state operations. SSI operators must treat malfunctions as very
+distinct events from steady-state operations, depending on the severity of the malfunction requiring anything
+from shutdown of the unit to emergency fire response actions. Depending on the nature and severity of the
+malfunction event, emissions often are not capable of being captured and routed to a stack for control and/or
+measurement and, when they are, test methods do not adequately account for the often short-term and
+unstable characteristics of the malfunction event.
+
+         EPA acknowledges that even the best performing SSIs are subject to any number of potential
+malfunctions and that the factual complexity of differing processes and of the severity, frequency and duration
+of malfunctions makes standard setting difficult. So it appears EPA’s “determination” that malfunctions are
+not distinct operating conditions is simply an unjustified decision to ignore the impact that the inherent
+limitations of combustion and pollution control technologies have on the ability of SSIs to achieve the
+proposed standards. Compounding this error, EPA declines to use emissions during malfunction periods in its
+MACT floor analysis for normal operating conditions and fails entirely to address its authority under §111(h)
+to set alternative work practice and engineering standards. EPA’s only explanation for this decision is its
+suggestion that applying the MACT floor concept of “best performing” to a source experiencing a malfunction
+“presents significant difficulties.” 75 Fed. Reg. at 63283. This argument has no basis in the CAA, which
+requires EPA to distinguish among types and classes of sources in order to set achievable emission standards
+and which allows EPA to use a variety of alternative work practice standards when setting an emission standard
+is too difficult. EPA’s thin semantic argument leads it to ignore the fact that there are work practices employed
+by the best performing SSIs that represent the best practices for minimizing emissions during a malfunction.
+These practices may include monitoring combustion parameters to identify a malfunction and stopping the
+charging of materials to an incinerator. While the measures that represent these best practices will depend on
+facility-specific issues, such as incinerator design, pollution control train, and other factors, they are
+nonetheless the “best technological system of continuous emission reduction … adequately demonstrated.”
+
+        NACWA believes the reality of the technological challenges, and the enormous potential cost that
+would be necessary to monitor SSIs during SSM, give EPA the basis to prescribe alternative design, equipment,
+work practice or operational standards for SSM. Therefore, NACWA asks EPA to reconsider its SSM approach
+and to allow for alternative work practice standards for SSM events in the form of a facility-specific SSM plan.
+EPA should consider a flexible compliance option that allows the source to elect to comply with the MACT
+floor emission standards for normal operating conditions or with the requirements of the SSM plan for the
+SSM event.
+
+       B.      EPA’s “Affirmative Defense” Rests on Unsound Legal Footing and Cannot Make Up for a
+               Failure to Set Achievable Standards for SSM Periods
+
+       Recognizing that SSIs experiencing malfunctions will not always be able to comply with the proposed
+emission standards, EPA offers an “affirmative defense” that shifts the burden to the POTW to prove that a
+lengthy list of criteria are met and actions are taken by the source in order to avoid enforcement for civil
+
+
+
+
+                                                                                                      Packet Pg. 450
+

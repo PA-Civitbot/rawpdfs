@@ -1,0 +1,60 @@
+                                                                                                                   a
+NACWA Comments on Docket ID No. EPA-HQ-OAR-2009-0559
+November 29, 2010
+Page 21
+
+and found that EPA’s mercury estimate was nearly three times the estimate based on site-specific stack test data.
+Other NACWA members have reached similar conclusions, calling into serious question the reliability of EPA’s
+
+
+
+
+                                                                                                                       Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+baseline mercury emissions estimates.
+
+        Given these significant errors in the baseline mercury estimate, EPA must revisit its decision that
+beyond-the-floor mercury controls are cost effective. Cost effectiveness can only be reliably assessed after an
+accurate baseline is established. EPA assumed at least three times more mercury is being emitted from sewage
+sludge incineration than has been measured in the sewage sludge. This cannot be right. Moreover, with local
+and national efforts underway to reduce mercury significantly from dentist offices across the country, the
+mercury in sewage sludge will be even further below EPA’s estimate by the time a rule is promulgated and
+effective. The actual mercury in sewage sludge after upstream pollution prevention efforts does not justify the
+significant cost that this Proposed Rule would impose on public entities.
+
+       C.      EPA Does Not Have Sufficient Data on the Effectiveness of Mercury Control
+
+        EPA’s mercury control assumptions are also flawed. EPA assumes incorrectly that activated carbon
+injection (“ACI”) can work without significant changes to the existing particulate control devices. This
+theoretical assumption does not work in practice for POTWs. Most of the existing SSIs use wet scrubber
+systems for particulate control. The exhaust temperature before the scrubber is typically 1200-1600 degrees
+Fahrenheit, which is too hot for injecting activated carbon or for adsorption to occur. Also, a contact chamber
+is necessary to provide adequate residence time for the mercury to adsorb onto the activated carbon. Some
+POTWs lack the space for these exhaust train changes. Even if the ductwork could be reconfigured to allow the
+exhaust temperature to cool and to accommodate a contact chamber, the wet scrubber particulate control
+device will not consistently remove mercury. This is because the scrubber water is typically sent back to the
+headworks of the POTW for cleaning, thereby recycling any of the mercury that is captured by ACI back
+through the process that generates sewage sludge. This increases the likelihood of elevated mercury in the
+POTW effluent and it concentrates mercury in the sludge. EPA has not performed a life cycle analysis to
+evaluate the potential for the mercury to be released from the activated carbon in a form that is more difficult
+to keep out of the environment.
+
+       Furthermore, when EPA corrects the flawed baseline analysis for mercury, the amount of mercury in the
+exhaust gas will be significantly reduced. At lower levels of mercury, ACI becomes less efficient at adsorbing
+and removing mercury resulting in mercury reductions significantly less than EPA’s estimated 85-95 percent
+control efficiency. By contrast, other options for mercury control, including upstream pollution prevention
+measures at dentist offices and elsewhere, are expected to be far more effective at reducing mercury emissions
+from SSIs at far less cost per pound of mercury removed.
+
+        ACI is not a proven technology on MHIs. NACWA has been unable to locate any MH units utilizing the
+ACI technology advocated by EPA in the Propose Rule. The only active mercury controls known to NACWA are
+installed on FBIs:
+
+   1. Metropolitan Council Environmental Services (St. Paul, MN) installed an ACI system that consists of a
+      carbon contact chamber followed by a fabric filer. Heat exchangers and a boiler upstream of the carbon
+      injection point lowers the exhaust gas temperature to 350 degrees Fahrenheit, and
+
+
+
+
+                                                                                                     Packet Pg. 434
+

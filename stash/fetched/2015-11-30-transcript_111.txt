@@ -1,0 +1,50 @@
+                         TRANSCRIPT
+cathedral ceiling. It all comes down to good design can solve just about any
+kind of a problem. Lastly, please restore our full SSO as recommended by
+the Planning. Thank you very much.
+
+Mayor Holman: Thank you. You'll have three minutes, should you want it,
+after the other speakers speak. We have 17 speakers. If I can suggest that
+each of you have two minutes. If it helps any of you, because it is late and
+we appreciate your staying. If it helps anyone whether you are pro or con,
+you can always ask people who are supporting your position to stand, if that
+helps.
+
+David Hanzel: I'm David Hanzel. I'm not in Greer Park North, but I live on
+Loma Verde and was supporting the SSO there, which you'll get later. While
+collecting signatures for our SSO, I kept getting the question what happens
+to property values with SSOs. This being a data-driven policy group, we
+heard this earlier tonight. I thought that ought to be a really simple
+question to ask. Fortunately, Zillow has that information. There's links
+here. You can go to Zillow's website and download or use the API to collect
+information. What I have here is median home values starting from 1996.
+They have 18 defined neighborhoods in Palo Alto, California. Some of them
+don't start until '97, so I'll use that as a time-zero date. As you can see,
+they all follow the same general trend. Obviously some neighborhoods are
+more expensive than others. If we normalize them to January 1st, 1997,
+seven years after I got here, you can see a very common shape. Pretty
+much all of the neighborhoods are appreciating just about the same. Quite
+to our surprise, most of the appreciation was in the last five years. This
+doesn't address the question at all about single-story overlays. Another
+feature that Zillow provides is you can actually get a map—that's on the left
+on this slide—of the outlines of how they defined neighborhoods. On the
+right is the City of Palo Alto map which shows the area covered by single-
+story overlays. This part I did not do quantitatively. I looked at it, and this
+is Green Meadow. I looked in the area bounded by the definition in Zillow
+and said that looks like about 60 percent. It's actually significantly higher,
+but that will do because I'm going to divide all 18 neighborhoods into three
+groups. Twelve of the neighborhoods have no single-story overlays. Great
+control. Three have between—sorry, I didn't start.
+
+Mayor Holman: We didn't start the clock until you started. If you want to
+just wrap up.
+
+Mr. Hanzel: Yes, I can wrap up in 30 seconds. As you can see here, the red
+ones are those that have 30 to 60 percent single-story overlays. The greens
+are 5 to 10 percent overlays. The red and greens are near the top. For a
+quantitative metric, it's here. I don't believe you can say that having a
+
+                                                                          Page 111 of 132
+                                                             City Council Special Meeting
+                                                                     Transcript 11/30/15
+

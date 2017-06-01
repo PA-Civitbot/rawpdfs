@@ -1,0 +1,49 @@
+                           TRANSCRIPT
+customers will begin to demand it. As the yet to be determined needs arise,
+we will see the incumbents, and we're seeing new players such as Google
+Fiber, exploring, announcing and upgrading their systems. Two and a half
+years ago there was no visible activity in play to bring fiber and/or ultra high
+speed internet access to Palo Alto. Two and a half years later everything is
+different. AT&T are underway to bring their GigaPower, 1 gigabit fiber
+service to Palo Alto. This is happening; they've announced it, and they're
+starting to submit permits for this process. Initially they will bring gigabit
+fiber to a few thousand homes and, dependent on market demand, to a
+large part of our City. AT&T hopes to start providing access as early as
+2016. Comcast has announced immediate plans for a 2 gigabit internet
+service and has also communicated a longer term plan to deploy 10 gigabit
+using existing cabling. Effectively they're going to roll out 2 gigabit and 10
+gigabit without having to install any fiber cable. They will use existing
+technology, just upgrading the endpoints. While we don't know yet if
+Comcast is coming to Palo Alto, they have indicated that the Bay Area is in
+their sites. Finally, we do anticipate that Google will make a decision on
+their gigabit service for Palo Alto within just a few short months. From the
+looks of things, the community of Palo Alto will have at least three national
+providers competing in our City to provide 1 gigabit and more download
+speeds to anyone who wants it. I want to spend a few moments just
+defining what I believe is the future of internet access. As we now meet, the
+majority of Americans who access the internet do it wirelessly with a mobile
+device. 51 percent use a mobile device; only 42 percent use a wired
+computer today. This transition to wireless mobile will accelerate in the
+months ahead. The future of internet access is wireless from a mobile
+device. Less people are watching TV; more people are watching their little
+screens. In addition, surprisingly the web isn't even the primary use for
+mobile internet access anymore. Over 85 percent of internet access on a
+mobile device is via an app and not via the web. The internet as we know it
+is radically evolving, and it's doing it quickly. Most exciting in this industry is
+the emergence of the next generation of cellular technology. Currently,
+we're at the fourth generation of, or called 4G for that, cellular. Under
+perfect conditions, you might get 12 megabits of download speeds. 5G or
+fifth generation, which is in the late development stage, is projected to
+provide 1 gigabit and under perfect circumstances, which don't always
+happen, up to 10 gigabits of download speeds. We may see some limited
+deployments of 5G as soon as 2017, but broader deployment is likely to
+begin in 2020 which is only four years and a few months away. I do
+acknowledge that this does require some form of limited wired backbone,
+but it does seem that the future will have a wireless focus. Lastly, you're
+hearing about the internet of things and the future role it may have in
+building smart cities. While the internet has been about connecting people,
+the internet of things is about connecting people and objects and objects to
+                                                                           Page 11 of 130
+                                                                     City Council Meeting
+                                                                      Transcript: 9/28/15
+

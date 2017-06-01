@@ -1,0 +1,60 @@
+                                                                                                                   a
+NACWA Comments on Docket ID No. EPA-HQ-OAR-2009-0559
+November 29, 2010
+Page 41
+
+is most economical for that facility. NACWA also supports EPA’s determination that parametric monitoring
+and annual testing can be eliminated for those using CEMS. EPA has well-developed guidelines regarding the
+
+
+
+
+                                                                                                                       Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+use of CEMS, and they are relied on by industry and EPA alike to provide accurate emission information.
+Requiring annual testing and parametric monitoring on top of CEMS would be duplicative and unnecessary.
+
+               2.      Use of Sewage Sludge Content Monitoring
+
+        EPA requested comment on whether facilities should be allowed to demonstrate compliance by
+monitoring the content of sewage sludge entering the SSI unit. See 75 Fed. Reg. at 63281. NACWA strongly
+encourages EPA to adopt content monitoring of sewage sludge as an alternative to annual testing or
+continuous emission monitoring for all pollutants for which a correlation can be established between
+emissions and sludge content. EPA’s Office of Water regulates the average daily sludge content of cadmium,
+lead and mercury to ensure that SSI emissions stay below the health-based standards set under Part 503. See 40
+CFR § 503.43. Part 503 requires a stack test to set the control efficiency of the control device for each metal.
+POTWs monitor the sludge feed and the moisture content and use this data to calculate the average daily
+sludge feed rate in dry tons per day. POTWs also calculate a monthly average concentration of each pollutant
+based on all the sludge samples taken in a month. EPA should offer this approach to demonstrating
+compliance as an alternative to the PM surrogate limit in the Proposed Rule. The Part 503 sampling procedure
+is something NACWA members are familiar with and it will decrease the burden associated with complying
+with this new rule. Sludge sampling is a cost-effective way for units already regulated under Part 503 to
+demonstrate compliance with mercury emission limits, and is significantly less burdensome than installing and
+maintaining CEMS or performing annual stack tests.
+
+        NACWA also supports using content monitoring for other pollutants (SO2, NOx, HCl) for which a
+correlation can be established between the content of the sewage sludge and the incinerator emissions. For
+instance, SO2 stack testing with concurrent sulfur content monitoring can be used to establish a correlation
+between sludge concentration and emission rate. After that correlation is reliably established, stack testing
+would no longer be necessary to demonstrate compliance. The POTW could demonstrate compliance by
+monitoring the sulfur content and, if a control device is used, by monitoring an operating parameter that
+ensures proper control device operation. NACWA strongly encourages EPA to include a sewage sludge content-
+monitoring option in the final rule.
+
+       D.      Use of Prior Performance Tests for Initial Compliance Demonstration
+
+       NACWA supports allowing initial compliance demonstrations to be based on earlier performance tests
+conducted prior to the rule if they represent current operating conditions and used the appropriate test method.
+EPA should not impose an arbitrary two-year cut-off period for the initial performance test. Any test that meets
+the above criteria should be accepted, including all emissions testing conducted for the ICR.
+
+       E.      Less Frequent Testing Based on Test Results
+
+         NACWA supports less frequent emission testing when test results demonstrate that a source’s emissions
+are less than 75 percent of the applicable emissions limits. However, as explained in Part VII.A, supra, the initial
+testing frequency should not exceed one test per permit term. The content of sewage sludge is already regulated
+
+
+
+
+                                                                                                        Packet Pg. 454
+

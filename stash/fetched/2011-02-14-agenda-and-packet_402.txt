@@ -1,0 +1,45 @@
+                                                                                                        a
+
+
+
+
+D. Activated Carbon Injection / Wet Scrubber Will Not Achieve Substantial Mercury
+   Reductions to the Environment
+
+
+
+
+                                                                                                            Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+In the preamble, EPA states:
+
+       …it is important to note that activated carbon injection cannot be applied alone.
+       It requires particulate control devices to remove the carbon that is injected to
+       adsorb the Hg. Based on our available data, all of these units have some type of
+       PM control device in place so they would not need to install new PM control
+       equipment. (75 FR 63277)
+We are deeply concerned with EPA’s incorrect assumption that MH SSIs would not need
+to install new particulate matter control equipment if they already had a wet scrubber in
+place. Wet scrubbers return the mercury to the water stream and fail to prevent release to
+the environment. Mercury readily cycles through ecosystems from water to air. As
+shown in Figure 3 below, 98.2 percent of Palo Alto’s mercury mass loading is emitted to
+the atmosphere via the incinerator stack and 1.7 percent is discharged to San Francisco
+Bay via the plant’s effluent. Palo Alto’s lowest mercury discharge limit for the San
+Francisco Bay discharge is 11 ng/L and our average effluent concentration is 2.5 ng/L. If
+activated carbon was injected and the particles were collected through the wet scrubber
+we would soon be in violation of our NPDES discharge permit. EPA’s statement that PM
+control is not required is not accurate; at a minimum, it is necessary to install fabric filter
+after a carbon injection system. Activated carbon injection in conjunction with wet
+scrubbers simply will not work.
+
+
+
+
+Figure 3: Mercury mass balance for Palo Alto based on August 2010 flue gas, ash, and effluent
+testing
+
+
+
+
+                                        Page 9 of 20
+                                                                                              Packet Pg. 402
+

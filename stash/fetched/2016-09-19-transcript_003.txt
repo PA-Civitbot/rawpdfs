@@ -1,0 +1,49 @@
+                          TRANSCRIPT
+constructed. Cumulative conditions, which you see here, have existing
+traffic, the approved project traffic and then expected growth.            That
+expected growth can be forecast either from specific developments that are
+anticipated but not yet approved or it can be forecasted using a travel
+demand model, for example the City of Palo Alto's travel demand model.
+How do we define a transportation impact?            VTA defines impacts for
+congestion management program facilities, for major intersections and
+freeways. Those impact thresholds are defined in terms of auto level of
+service which, as you know, is a measure of delay at intersections or
+congestion on freeway segments. Auto level of service is graded between
+LOS A, which is free-flowing traffic, and LOS F, which is major delays at a
+traffic jam. VTA publishes LOS analysis guidelines—you see the cover
+here—to make sure that LOS is analyzed consistently throughout Santa
+Clara County. For congestion management program facilities, Level of
+Service E is the standard, and an impact is identified when project traffic
+decreases level of service from LOS E to LOS F or if the intersection is
+already operating at Level of Service F, if traffic would add four or more
+seconds of delay. Historically local jurisdictions have used VTA thresholds to
+identify impacts to local intersections. In some cases, cities have adapted
+those thresholds to their own conditions. Here in Palo Alto, for local streets
+level of service is actually set a bit higher than for congestion management
+program intersections. Palo Alto set the threshold at Level of Service D, but
+it has the same threshold for identifying an impact if the level of service is
+below the standards that the City sets. Additionally Palo Alto identifies a few
+other ways to understand impacts from new development. That really looks
+at a bigger picture than just traffic delay. If there are queuing impacts, if
+traffic is spilling back from one intersection to another, if project traffic
+would impede the operation of transit, make things unpleasant for
+pedestrians or bicycles or create cut-through traffic through neighborhood
+streets, that would all trigger an impact as well. Palo Alto's level of service
+standards are pretty consistent with its neighbors in Santa Clara County,
+Mountain View and Los Altos. However, its neighbor to the neighbor, Menlo
+Park, has more stringent standards for local streets. For collectors and
+residential streets, Menlo Park has an impact threshold set at LOS C rather
+than LOS D. Additionally, adding 2-3 seconds of delay to an intersection,
+even if it doesn't drop the level of service below LOS C, would trigger an
+impact. If intersections are operating below the threshold in Menlo Park,
+less traffic is required to trigger an impact. In Menlo Park, instead of
+requiring four seconds of delay to trigger an impact at an intersection that's
+operating below the threshold, only 0.8 seconds of added delay are required.
+That means that in Menlo Park if an intersection is operating below the
+standard, just a few trips during the peak hour can trigger an impact. In
+addition to looking at level of service, VTA does require some expanded
+requirements for looking at other modes. Note that while this analysis is
+                                                                         Page 3 of 120
+                                                                  City Council Meeting
+                                                                   Transcript: 9/19/16
+

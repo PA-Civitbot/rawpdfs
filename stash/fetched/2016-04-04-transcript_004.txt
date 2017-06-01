@@ -1,0 +1,50 @@
+                         TRANSCRIPT
+their participation in Palo Alto Green. Congratulations. Thank you all, and
+congratulations to everyone. Please keep up the good work.
+
+Study Session
+
+3.   Open Data Presentation.
+
+Mayor Burt: Our next item is our Open Data System Study Session, to be
+led by Mr. Reichental. Welcome.
+
+Jonathan Reichental, Chief Information Officer:           Now for something
+completely different. Good evening, Mayor Burt, Vice Mayor Scharff and
+Council Members. I'm Jonathan Reichental, your Chief Information Officer.
+Tonight I want to talk to you about two technology (tech.) topics that impact
+our community in a very positive way. I want to talk about open data, what
+that is, and talk about some of the City applications (apps.). That's my goal
+tonight. My presentation's only about 20 minutes or less, and then I'd love
+to get your comments and feedback.            I just want to also thank my
+Information Technology (IT) managers tonight who have shown up in force
+over there. If you'd just show us where you are. It's very nice to see them
+this evening. Thanks for coming. What I wanted to do was start with a
+picture of Boston in January 2010. In January 2010, it snowed an awful lot
+in Boston. It was called snowmageddon because of that. One of the things
+that happens during snow is there are more fires than usual. Intuitively,
+people are making fires in their homes, and they set their houses on fire.
+When the fire services come, they want to be able to find the fire hydrants
+as quickly as possible. Unfortunately, when there's a lot of snow, it's very
+difficult to find the fire hydrants because they're covered in snow. The fire
+service knows approximately where they are, and they go and dig around
+the fire hydrants and they finally get them. When your house is on fire, time
+is of the essence. The question is how do you solve a problem like that? A
+software engineer, no less, decided to travel up to Boston in the summer of
+2010 with a completely different idea about how you might make it easier
+for fire service personnel to find fire hydrants during the snow. The idea he
+came up with was to make the fire hydrant adoptable. You would use an
+app. to adopt your fire hydrant in your community. During the year, you
+would make sure it was maintained. When it snowed, you would dig around
+it; thus, when there was a fire, it would be available. The question is did it
+work. It was amazing success. The following year there was a lot of snow
+again, and people who adopted the fire hydrants dug around them, and it
+was more available for the fire service. The question is what does that really
+illustrate? A couple of things. It says, first of all, that we have different
+ways to solve civic problems today. It also says that we can use technology
+in completely new ways. It means we can use apps. that run on tablets and
+
+                                                                        Page 4 of 107
+                                                                 City Council Meeting
+                                                                   Transcript: 4/4/16
+

@@ -1,0 +1,75 @@
+                                                                                                                       10.b
+California Avenue Lane Reduction – Traffic Analysis Report                                                               
+
+
+Level of Service Standards and Analysis Methodologies
+Traffic conditions at the study intersections were evaluated using level of service (LOS).
+Level of Service is a qualitative description of operating conditions ranging from LOS A, or
+
+
+
+
+                                                                                                                              Attachment: Attachment B: Hexagon - Cal Av TIA Report (No Appendices) (1320 : California Avenue Neg Dec and CIP)
+free-flow conditions with little or no delay, to LOS F, or jammed conditions with excessive
+delays. The various analysis methods are described below. The City of Palo Alto level of
+service standard for intersections is LOS D or better.
+Signalized Intersections
+Level of service at signalized intersections in the City of Palo Alto is based on the 2000
+Highway Capacity Manual (2000 HCM) method. The software called TRAFFIX is used to
+apply this 2000 HCM operations method for evaluation of conditions at signalized
+intersections. The 2000 HCM method evaluates signalized intersection operations on the
+basis of average control delay time for all vehicles at the intersection. Control delay is the
+amount of delay that is attributed to the particular traffic control device at the intersection,
+and includes initial deceleration delay, queue move-up time, stopped delay, and final
+acceleration delay. The correlation between average delay and level of service is shown in
+Table 1.
+
+
+Table 1
+Signalized Intersection LOS based on Delay
+
+                                                                                                  Average Control
+ Level of
+                                               Description                                        Delay Per Vehicle
+ Service
+                                                                                                        (sec.)
+
+            Signal progression is extremely favorable. Most vehicles arrive during the green
+    A       phase and do not stop at all. Short cycle lengths may also contribute to the very        10.0 or less
+            low vehicle delay.
+
+            Operations characterized by good signal progression and/or short cycle lengths.
+    B       More vehicles stop than with LOS A, causing higher levels of average vehicle             10.1 to 20.0
+            delay.
+
+            Higher delays may result from fair signal progression and/or longer cycle
+            lengths. Individual cycle failures may begin to appear at this level. The number of
+    C                                                                                                20.1 to 35.0
+            vehicles stopping is significant, though may still pass through the intersection
+            without stopping.
+
+            The influence of congestion becomes more noticeable. Longer delays may result
+            from some combination of unfavorable signal progression, long cycle lenghts, or
+    D                                                                                                35.1 to 55.0
+            high volume-to-capacity (V/C) ratios. Many vehicles stop and individual cycle
+            failures are noticeable.
+
+            This is considered to be the limit of acceptable delay. These high delay values
+    E       generally indicate poor signal progression, long cycle lengths, and high volume-         55.1 to 80.0
+            to-capacity (V/C) ratios. Individual cycle failures occur frequently.
+
+            This level of delay is considered unacceptable by most drivers. This condition
+            often occurs with oversaturation, that is, when arrival flow rates exceed the
+    F                                                                                             greater than 80.0
+            capacity of the intersection. Poor progression and long cycle lengths may also
+            be major contributing causes of such delay levels.
+
+Source: Transportation Research Board, 2000 Highway Capacity Manual (Washington, D.C., 2000) p10-16.
+
+
+
+
+                                                                                                   9 | Page 
+
+                                                                                                               Packet Pg. 183
+

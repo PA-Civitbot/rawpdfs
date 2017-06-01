@@ -1,0 +1,60 @@
+                                                                                                                    a
+NACWA Comments on Docket ID No. EPA-HQ-OAR-2009-0559
+November 29, 2010
+Page 28
+
+
+               It is not clear from the data available to EPA whether the sludge burned during
+
+
+
+
+                                                                                                                        Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+               the emissions tests (that were used to establish the MACT floor) represent typical
+               sludge composition/concentrations or are closer to minimum or maximum
+               levels.
+
+75 Fed. Reg. at 63268. This is an essential missing step in determining how to use the data to set an emission
+limit. If the sludge burned during an emissions test was not at or near the maximum constituent concentration
+level (e.g., due to seasonal variability), a new source emission limit based on this data could not be achieved over
+the full range of expected normal operating conditions confronted by the best performing source. At a
+minimum, EPA must consider all available data (including Part 503 data) for the best performing source and
+use that to establish a variability factor applied to the stack test data. EPA’s request for metals data during the
+stack test is insufficient to account for the full intra-source variability. Moreover, variability for the compounds
+not regulated by Part 503 must be accounted for as well before setting the new source limit.
+
+       E.      EPA’s Misunderstanding of the Variability of Sewage Sludge Leads to Erroneous MACT Floors
+               for Existing Sources
+
+         EPA also mistakenly presumes that snapshot stack test data is sufficient to set limits for existing sources
+because sludge concentration variability is insignificant. As indicated above, EPA did not collect enough data
+to set existing source limits based on actual data. As such, EPA can only set emission limits by extrapolating
+based on the presumption that the data it has is representative of the top performing 12 percent of the source
+subcategories. The fact that these data were not randomly selected undermines the statistical credibility of this
+exercise. But even if the data were randomly selected from the full source category, the stack test data is
+inadequately representative as the basis for a lawful MACT floor calculation.
+
+        EPA cannot use statistics to make up for its lack of representative data because each step compounds
+the problem. EPA uses its flawed predicted data set to determine the top 12 percent of existing sources in each
+source category, and to determine the average emission rate, the intra-source variability, and the upper
+prediction limit (“UPL”) for the subcategory. The sources that are statistically fabricated to fill the data gaps
+lack the variability of the actual sources that round out the top 12 percent. EPA’s method creates a more
+stringent emission limit than would be justified under a proper assessment of the top 12 percent of existing
+sources. As such, the proposed emission limits constitute unlawful beyond-the-floor MACT standards that
+have been developed without considering the required criteria in the CAA, including cost.
+
+        EPA’s request for additional stack test data to bolster its inadequate database is an inappropriate
+burden at this stage of the rulemaking. EPA has primary responsibility for gathering the data. It is a
+circumvention of the PRA and OMB’s review to intentionally limit the scope of an ICR to nine entities and then
+ask NACWA and its members to provide additional stack test data during the 45-day public comment period.
+EPA’s data analysis is an important part of generating the regulatory options. Waiting until the public
+comment period to gather new data undermines NACWA’s ability to comment on the proposed options for
+regulation. EPA is rushing to the finish line with inadequate data and hoping that the public comments will
+contribute enough data to justify its proposed path. Even if NACWA and its members were able to secure the
+resources to conduct additional stack testing to supplement the record, EPA offers insufficient time to conduct
+
+
+
+
+                                                                                                        Packet Pg. 441
+

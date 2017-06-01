@@ -1,0 +1,55 @@
+                                                                                                    a
+
+
+
+
+RWQCP data on influent and effluent mercury concentrations and mercury
+concentrations in sludge cake prior to incineration.
+The dental amalgam program has proven very effective in reducing mercury loadings to
+
+
+
+
+                                                                                                        Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+the Plant and to the environment; the average effluent concentration for 2006 through
+2009 declined 49 percent compared to the average effluent concentration for 2001
+through 2004 (Table 4-5). These reductions are believed to result primarily from the
+dental amalgam program, not from other residential and commercial programs addressing
+mercury, because they occurred after the takeback programs for thermometers,
+thermostats, and fluorescent lamps had been in place for a number of years.
+Table 4-5. Summary of the average mercury concentration before and after the
+installation of amalgam separators for influent, sludge cake and effluent
+                          Average Mercury Concentration
+                                                                    Percent Reduction
+    Location           2001-2004                2006-2009             (pre- vs. post-
+                     (pre-amalgam             (post-amalgam             separators)
+                       separators)              separators)
+    Influent            0.31 µg/L                  0.20 µg/L                   37%
+ Sludge Cake            397 µg/kg                  248 µg/kg                   37%
+   Effluent            0.006 µg/L                  0.003 µg/L                  49%
+
+
+As shown in Figures 4-6 and 4-7, influent mercury concentrations have decreased
+significantly since 2004. Influent samples are collected on a weekly basis. Since the
+ordinance required installation of amalgam separators by March 31, 2005, data from 2001
+through 2004 are used as the “pre-separator” baseline. The average influent concentration
+for 2006 through 2009 was 37 percent lower than the average influent concentration for
+2001 through 2004.
+With respect to influent data gathering, there is a data gap that must be acknowledged.
+Mercury amalgam particles are very dense, and are more likely to travel along the bottom
+of sewer pipes than to be suspended throughout the water column. Due to the
+configuration of the RWQCP influent sampling location, it is believed that some mercury
+amalgam particles would not be captured in the influent samples. These amalgam
+particles would not enter the RWQCP’s primary treatment process, but would be trapped
+in the “grit” channel at the headworks of the RWQCP. Because the grit is highly
+irregular, it is not feasible to conduct accurate, representative sampling. The grit is
+disposed of at a landfill, and its pollutant content has never been included in the various
+mass balances that have been conducted. Therefore, we recognize that undetected
+decreases in the mercury content of that material may have occurred.
+
+
+
+
+                                           4-15
+                                                                                          Packet Pg. 482
+

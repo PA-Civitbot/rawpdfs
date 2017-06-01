@@ -1,0 +1,46 @@
+              CITY OF PALO ALTO CITY COUNCIL
+                TRANSCRIPT
+                                                              Special Meeting
+                                                            February 29, 2016
+The City Council of the City of Palo Alto met on this date in the Council
+Chambers at 6:05 P.M.
+
+Present:    Berman arrived at 7:12 P.M., Burt, DuBois, Filseth, Holman,
+            Kniss, Scharff, Schmid, Wolbach
+
+Absent:
+
+Study Session
+
+1.    Finance Committee Recommends the City Council Review the
+      Assessment Results of the Enterprise Resource Planning System (ERP)
+      Needs; Review Recommendation to Plan for the Acquisition of a new
+      Integrated    Government-Oriented        ERP System  and   Separate
+      Provisioning of Utilities Billing Systems.
+
+Mayor Burt: Council Member Schmid, your light is on. Was that deliberate?
+Our first item is a Study Session. The Finance Committee has recommended
+that the City Council review the assessment results of the Enterprise
+Resource Planning System, or ERP, needs and to review recommendation to
+the plan for the acquisition of a new integrated government-oriented ERP
+system and separate provisioning of utilities billing systems. Mr. Reichental,
+welcome.
+
+Jonathan Reichental, Information Technology Department Director: Thank
+you very much. Great intro. I'm Jonathan Reichental, the City's Chief
+Information Officer. Thank you, Mayor Burt and Vice Mayor Scharff and
+Council Members. As you know for I always say, it's a great honor to have
+this opportunity in my life to be able to do the type of work, so thank you for
+that. Tonight, I’m happy to present to you some details on work that's been
+ongoing for a couple of years now to help us make a series of decisions
+around the future of some of our core software technology here at the City.
+What I plan to do is to discuss just briefly what ERP is of the City, talk about
+what we've done to determine how we got to today, what the next steps
+might look like, and include some timeline. Before I start, I just want to
+recognize a couple of people in the audience. I wanted to recognize Sudhir,
+who's our Head of IT Enterprise Systems. He's going to stand up and shake
+
+
+
+                                                                        Page 1 of 66
+

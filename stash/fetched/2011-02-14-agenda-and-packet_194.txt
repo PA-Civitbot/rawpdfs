@@ -1,0 +1,61 @@
+                                                                                               10.b
+California Avenue Lane Reduction – Traffic Analysis Report                                       
+
+
+Existing Transit Service
+
+Existing transit service in the study area is provided by Caltrain, the Santa Clara Valley
+Transportation Agency (VTA), and the Stanford Marguerite shuttle. The California Avenue
+Caltrain station is located at the terminus of California Avenue, which provides access to
+
+
+
+
+                                                                                                      Attachment: Attachment B: Hexagon - Cal Av TIA Report (No Appendices) (1320 : California Avenue Neg Dec and CIP)
+the park-and-ride lot. There are two bus lines that operate on California Avenue: VTA
+Route 89, which provides access from the Caltrain station to the Stanford industrial park,
+and Marguerite Shuttle Route C, which provides access from Caltrain to the Stanford
+University campus. In addition, there are seven VTA bus lines that operate on El Camino
+Real and stop near California Avenue.
+
+Existing Intersection Levels of Service
+Intersection level of service calculations show that the study intersections all operate at
+LOS C or better during peak hours (see Table 4). These levels of service are indicative of
+acceptable operations with little congestion. The STOP controlled intersections all operate
+at LOS A or B. The signalized intersection of California Avenue and El Camino Real
+operates at LOS C.
+Table 4
+Existing Intersection Levels of Service
+
+  Study                                              Peak      Count     Ave.
+ Number Intersection                                 Hour      Date      Delay       LOS
+
+    1     El Camino Real and California Avenue        AM      11/10/10   24.7         C
+                                                     Midday   11/10/10   28.8         C
+                                                      PM      11/10/10   30.5         C
+    2     Ash Street and California Avenue            AM      11/09/10   8.2          A
+                                                     Midday   11/09/10   9.1          A
+                                                      PM      11/09/10   8.4          A
+    3     Birch Street and California Avenue          AM      11/10/10   11.1         B
+                                                     Midday   11/10/10   10.9         B
+                                                      PM      11/10/10   9.8          A
+    4     Park Boulevard (W) and California Avenue    AM      11/10/10   8.2          A
+                                                     Midday   11/10/10   8.4          A
+                                                      PM      11/10/10   8.4          A
+    5     Park Boulevard (E) and California Avenue    AM      11/04/10   7.2          A
+                                                     Midday   11/04/10   7.3          A
+                                                      PM      11/04/10   7.4          A
+    6     Birch Street and Cambridge Avenue           AM      11/03/10   8.2          A
+                                                     Midday   11/03/10   8.3          A
+                                                      PM      11/03/10   8.3          A
+    7     Birch Street and Sherman Avenue             AM      11/04/10   9.6          A
+                                                     Midday   11/04/10   8.9          A
+                                                      PM      11/04/10   8.8          A
+
+
+
+
+                                                                            20 | Page 
+
+                                                                                       Packet Pg. 194
+

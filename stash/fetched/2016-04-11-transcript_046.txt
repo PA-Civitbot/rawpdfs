@@ -1,0 +1,49 @@
+                          TRANSCRIPT
+a very basic system, it's not very accurate, and it still requires manual
+calibration and counts. Staff would still have to go in and count parking
+occupancy, because this system does not have any way of giving that very
+accurately. The second type of system is a level parking guidance system
+that's kind of the middle of the road option. This gives parking occupancy
+by level or zone, so it could go Level 1, Level 2, Level 3 or it could break it
+down into smaller zones if necessary. By giving the different levels that
+parking is available, it does help to reduce emissions slightly because people
+are not circling around a garage looking for that elusive ten spaces that's
+available. They know that they can go to Level 3 and find a space
+somewhere. However, it does not direct patrons to exactly where that space
+is. If they know that there are ten spaces on Level 3, they go up to Level 3,
+but they don't have any idea where those spaces are available. There is still
+some circling that happens. As a result of not knowing exactly where the
+open spaces are, the garage might be perceived as full before it is actually
+fully occupied. This system also is not 100 percent accurate, and it does
+require manual counts. This type of system is currently in place at the
+Winchester garage at Santana Row, if you're familiar with that garage, and
+at the Fifth and Mission garage in San Francisco. The final type of system is
+the single space parking guidance system. This builds onto the level count
+system by indicating exactly where parking spaces are available through the
+use of LED indicator lights that are mounted above each parking stall. Those
+indicator lights change colors either based on occupancy or based on space
+type. It could be a certain color for permit parking; it could be a certain
+color for hourly parking. This system is conducive to differentiating between
+hourly and permit parking, giving us counts of how many hourly spaces
+versus permit spaces are available. It can also indicate spaces that are
+handicapped, spaces that are for valet, or spaces that are reserved for some
+other use. It's a dynamic system, very flexible, that can be maintained
+offsite. We could in the future control what spaces or what color or what use
+essentially. If we're seeing that the permit spaces are full, but there are
+plenty of hourly spaces available, we could convert some hourly spaces to
+permit by changing the color of the light. That's a very, very dynamic and
+nimble system. By having the lights over each stall, people can look down
+an aisle and see where there's a green light and go directly to that open
+space, making this the greenest option. It reduces the emissions the most
+of any parking guidance system available. This system is currently in place
+at Valley Fair in San Jose. Any of these systems would require a hardwire
+connection to the Downtown network. Any of these systems, there are
+different ways to sense the vehicles, because any of these systems would
+require sensing the vehicles obviously. The first option for vehicle sensing is
+a loop. That's where cuts are made in the concrete, a loop is installed. It's
+a very basic option, least expensive. It's also the least smart, if you will,
+and the least reliable because the maintenance is very difficult. You need to
+                                                                         Page 46 of 78
+                                                                  City Council Meeting
+                                                                   Transcript: 4/11/16
+

@@ -1,0 +1,49 @@
+                          TRANSCRIPT
+metric, VMT, but they've taken one away, the vehicle level of service that
+Sarah was just talking about. They've provided direction to OPR to start
+influencing the methodology and the threshold setting. That's quite a bit
+different than what we've done in the past where a lot of the methodology
+questions, all the threshold questions were usually left up to the individual
+lead agency, cities and counties for example. It's important when we think
+about a new law like this to take a close look at the legislative intent and try
+to understand what the Legislature was doing. They really fundamentally, if
+you look at Objective Number 2 up here on the screen, wanted to change
+the way we approach transportation impact analysis. Instead of focusing on
+congestion relief, meaning reducing delays and increasing speeds, it's much
+more about balancing multiple objectives. Three very important ones here:
+to encourage infill development; promotion of active transportation, that's
+walking, bicycling; and then also the reduction of greenhouse gases. Now,
+passing this law, they did not intend for other aspects of transportation
+analysis to change that are used in safety analysis or air quality. When you
+look at those other sections, if you change the transportation analysis, it can
+have a ripple effect. You can actually end up influencing the way we
+currently practice those other topics. We'll get into some of those details if
+you have questions about that. Here's the Twitter version, if you will, of
+what is basically an eight hour class on this topic. We tried to boil it down
+to just the highlights. If you don't remember anything else from the
+presentation, remember the pictures on this slide. If you think about the
+way we practice transportation impact analysis today, the photo in the upper
+right-hand corner is basically what happens. Development occurs. It
+generates new demand in the form of vehicle trips. We typically expand
+intersections and roadways to accommodate that demand. All the impacts
+and all the mitigation are on the external network away from the project.
+The development community is pretty used to this practice. They're used to
+paying impact fees or paying for the intersection to be expanded, but 743
+changes that. Basically it eliminates the use of vehicle level of service and
+delay. It's introducing a brand new metric. You can think of VMT as
+basically an efficiency metric, especially if it's expressed as something like
+VMT per capita. You can compare two projects or two different areas and
+understand how much vehicle travel is required. By adding VMT, we're
+changing the dialog, if you will, in how we evaluate projects. Instead of
+worrying about their impact on that external network, we're going to focus
+more on the project itself. Why does it generate VMT? How much VMT does
+it generate? Can we change the project in some fundamental way that it'll
+generate less VMT? That's the real important thing here in terms of the
+mitigation focus. We're going to actually try and identify ways you might be
+able to change the project design or add programs like a TDM program,
+Transportation Demand Management, to further reduce its vehicle trips.
+This new focus is something that everyone's going to have to get used to.
+                                                                          Page 5 of 120
+                                                                   City Council Meeting
+                                                                    Transcript: 9/19/16
+

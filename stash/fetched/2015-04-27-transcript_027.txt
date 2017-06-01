@@ -1,0 +1,49 @@
+                         TRANSCRIPT
+written. If you really weed through the detailed policies and programs in the
+Comp Plan, there is quite a bit of guidance on how to resolve those things.
+We've had a lot of discussion about parking. Residential neighborhoods
+should be protected from the impact of commercial parking.               That's
+prioritization and guidance, but you've got to go really low level into the
+details of the plan in order to weed that stuff out. That's one of my concerns
+about the work that's been done in this. This is a starting point we need to
+work on. Some of that has gotten lost in some of the proposals in here. We
+need to make sure that doesn't go away. Another piece of this that I want
+to propose, and I'll try to keep this in a few minutes instead of 20 or
+something like that. Another aspect of this that will help us address what do
+we do when this conflicts with that is an essential idea of how much. Let's
+say we want to have more shuttle services in town. What priority should
+that have? It makes a big difference whether we're talking about that much
+or that much. All those are going to have tradeoffs. We're going to have to
+trade off something here for something there. The Comp Plan per se doesn't
+give us a lot of guidance on how to do that. It would be really helpful to
+have a quantitative view of those kinds of tradeoffs. If we take X much of
+this, what do we have to give up in terms of Y much of that? In particular, it
+would be desirable to be able to project as part of policy discussions, to at
+least analyze and talk about how will City growth in the long term affect
+future demand for City services. This is my stack of paper here. I've been
+working on a model to do that. I've passed out a first pass. It's very
+simple. It's an approach. I apologize for dragging people through a gear
+head thing here, but I think this can help. I've parameterized it to let people
+try different growth rates and see the impact on initially three City services:
+park space, commute traffic and water use. I will talk about schools in a
+little while. I want to do this to support discussion. It doesn't replace
+[Environmental Impact Reports] EIR or [California Environmental Quality
+Act] CEQA or things that are much more accurate.              It's a high-level
+discussion. Let me briefly comment on how this works, and it'll be in the
+public domain. It's intended to be distributed electronically. PASZ [Palo
+Altans for Sensible Zoning] would like to put it on their website. This is
+divided into two sections: growth drivers and major City services. The two
+main growth drivers I looked at were jobs growth, ultimately which comes
+from the Business Registry I hope, and housing growth which in the long
+term has been very low but recently has been 1 percent or more a year. If
+you look at the spreadsheet attached, or the first page, the 2015 numbers
+are actuals. Currently we have about 90,000 jobs in Palo Alto, give or take
+some, and about 27,000 housing units. I tried to get the best numbers I
+could. Most of these are from City documents, draft existing condition
+reports, some from [Association of Bay Area Governments] ABAG. If jobs
+grow 1 percent a year, then in 30 years we'll have 120,000 jobs. If housing
+units grow at the same rate, then in 30 years we'll have 36,000 housing
+                                                                          Page 27 of 60
+                                                                   City Council Meeting
+                                                                Trasncript: 04/27/2015
+

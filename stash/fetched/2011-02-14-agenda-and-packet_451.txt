@@ -1,0 +1,58 @@
+                                                                                                                     a
+NACWA Comments on Docket ID No. EPA-HQ-OAR-2009-0559
+November 29, 2010
+Page 38
+
+penalties. It is unclear where EPA finds the legal authority in the CAA to shift the burden to the regulated
+community of proving (or disproving) essential elements of an alleged violation. The statute is silent as to the
+
+
+
+
+                                                                                                                         Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+issue and “the ordinary default rule [is] that plaintiffs bear the risk of failing to prove their claims.” Shaeffer v.
+Weast, 546 U.S. 49 (2005), quoting McCormick on Evidence § 337, at 412 (“The burdens of pleading and proof
+with regard to most facts have and should be assigned to the plaintiff who generally seeks to change the present
+state of affairs and who therefore naturally should be expected to bear the risk of failure or proof or
+persuasion”); C. Mueller & L. Kirkpatrick, Evidence § 3.1, p. 104 (3d ed. 2003) (“Perhaps the broadest and most
+accepted idea is that the person who seeks court action should justify the request, which means that the
+plaintiffs bear the burdens on the elements in their claims”). While the Supreme Court has recognized
+exceptions such as affirmative defenses, courts retain the authority to establish such rules unless Congress acts
+to delegate that authority.
+
+       EPA also does not justify why an affirmative defense would not apply to startup and shutdown events,
+and would be limited only to “civil penalties,” excluding other remedies such as claims for injunctive relief. The
+proposed regulations also contain elements that are vague and not reasonably connected to whether a source
+should be penalized for a malfunction event. The following lists some of the most extreme examples:
+
+        •   The condition requiring “all possible steps” to minimize the impact of the excess emissions is
+            unreasonable in terms of its potential operational and economic impact and therefore essentially
+            impossible to satisfy.
+
+        •   The requirement that emissions control systems be “kept in operation if at all possible” and that any
+            bypass be permitted only if “unavoidable to prevent loss of life, severe personal injury, or severe
+            property damage” are both unwise and unreasonable. It is often the best operating practice to shut
+            down an emission control device rather than have the equipment risk serious damage. And the
+            latter requirement suggests that EPA is tacitly encouraging sources to weigh worker safety practices
+            (albeit not those that risk “severe” injury) against the risk of enforcement under the CAA.
+
+        •   Some elements of the affirmative defense are impossibly vague, such as whether “proper design”
+            would have prevented a malfunction.
+
+        •   The requirement to prepare a written root cause analysis “to determine, correct, and eliminate the
+            primary causes of the malfunction” is unreasonably stringent and would result in some categories
+            of malfunctions potentially never satisfying the proposed affirmative defense. For example, the only
+            method a source has to “correct and eliminate” a malfunction caused by a power failure from the
+            grid is to install redundant power generating facilities. The technological and economic impacts of
+            “super engineering” facilities in the way envisioned by EPA are unreasonable and disconnected from
+            the authority EPA has to set standards under the CAA.
+
+       Due to the legal uncertainty and unreasonably stringent restrictions on the proposed “affirmative
+defense,” in a future rulemaking NACWA urges EPA to reconsider the need for separate SSM standards and to
+propose alternative work practice and engineering standards for SSIs.
+
+
+
+
+                                                                                                          Packet Pg. 451
+

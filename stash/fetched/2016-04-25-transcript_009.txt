@@ -1,0 +1,49 @@
+                         TRANSCRIPT
+can come to Palo Alto, and they can use our system with their membership.
+They don't have to sign up for yet another layer of transportation
+memberships or fares. Regardless of the technology that we select, we need
+to move towards better integration with transit. There is an initiative on the
+horizon by MTC to create what's called Clipper 2.0, and that could be a
+couple of years out. Clipper 2.0 could feasibly integrate bike share into the
+regional fare payment system. Someone who has a Clipper card that's
+stocked up with $20 could just walk up to the bike share system and not
+have to go through the whole process of signing up for a membership and
+just easily check out a bike and jump on and use it like they would any other
+transit system. As currently structured, the Social Bicycles (SoBi) bicycle
+technology actually offers a little bit better integration with the Clipper
+system. You can tie your Clipper card to your membership. When you sign
+up for a SoBi membership, you can take any Radio Frequency Identification
+(RFID) card and you can enter the number on the back of the RFID card,
+and your bike share membership will be tied to that card. If you remember
+I showed you the SoBi bikes. They have the black box on the back of the
+bike. There's actually an RFID chip reader in that box too. In lieu of
+entering your account number and a pin, you can just walk up and scan the
+RFID card that you had already connected to your account previously.
+However, you cannot use your Clipper card fare balance to pay for bike
+shares.    It won't actually use the backend payment processing that's
+attached to Clipper. You would still have to have a separate account with
+SoBi, but you could use the same card. That option doesn't exist at all with
+the Motivate system. You have to have an entirely different membership.
+That concludes my presentation. Thank you.
+
+Mayor Burt: Thank you. Colleagues, questions and comments? As a Study
+Session, we'll be taking no initiatives. Vice Mayor Scharff.
+
+Vice Mayor Scharff: Thanks. Thanks for the presentation; it was really
+great. A couple of things. Do we know at all what Mountain View or
+Redwood City are going to do?
+
+Mr. Mello: Yes. I actually talked to them this week, my counterparts there.
+They're kind of in a similar stage we are. They're thinking about their
+options. I know Redwood City, the City Manager is looking at it. Mountain
+View, they're going to their Council shortly. They're in a similar place to we
+are. They haven't seen the performance that they expected out of the Bay
+Area Bike Share pilot. Redwood City has talked about whether they even
+want to continue any type of bike share program given their low usage. I
+think they're both open to pursuing an alternative solution. They're kind of
+waiting to see what we do as well. What's come out of the planning effort
+with SamTrans is kind of a mutual agreement that we need something that's
+                                                                          Page 9 of 67
+                                                                 City Council Meeting
+                                                                  Transcript: 4/25/16
+

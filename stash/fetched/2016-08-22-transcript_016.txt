@@ -1,0 +1,49 @@
+                          TRANSCRIPT
+essentially illustrates how Net Energy Metering works. You have a typical
+customer load, a lot more consumption in the morning and the evening. You
+have solar generation represented by the yellow line, which typically comes
+in the afternoon. You essentially end up with, from the utility's point of
+view, something that looks like this, where the customer is a consumer in
+the morning and a consumer in the evening and a producer at night. In the
+morning under Net Energy Metering as it is now, the meter moves forward.
+The meter moves backward during the day and at night will typically move
+forward. If you have a large enough solar system, what this can mean is
+that a customer can eliminate their entire bill. This means that certain
+services that the utility provides, such as maintaining the connection to the
+utility, providing billing services and providing a variety of other
+maintenance and operational services, don't get paid for. These have to be
+paid for by the customer's neighbors. Essentially that's why it's an incentive
+program subject to eventual sunset. Net Energy Metering has been going
+for a while. I think there's an open question out there about why don't we
+just continue it. We've had Net Energy Metering up until now as required by
+State law. Our most recent cost of service study demonstrated that solar
+net metering customers in Palo Alto only pay for about 90 percent of the
+cost to actually serve them. As I mentioned earlier, we're subject to very
+strict requirements that essentially say that our rates must be set up so that
+each customer is charged exactly what it costs to serve them. That presents
+a real difficulty in trying to continue Net Energy Metering beyond the State-
+mandated cap. What we're proposing to transition to instead is a two-part
+rate with an hourly netting period. This is sort of a confusing statement, but
+let me try and break it down into something a little simpler. Essentially any
+energy that the customer consumes—that's that section in the morning and
+the evening that we were looking at—they pay for that energy at the retail
+rate that every other customer pays for energy at. When a customer
+generates solar energy and they use it onsite, they're not paying for
+anything. They're paying just for the cost of their solar system. They have
+no relationship with the utility for that energy. To the extent that they're
+generating more energy than they use onsite and sending some back to the
+utility, we pay for that at a rate that is equal to the value solar provides to
+the utility and all the customers. That's roughly 7 1/2 cents. I'll talk a little
+more about that in a moment. This illustration shows those three different
+areas, those three different types of compensation. I can go into this a little
+bit more if you'd like me to. For now, I think the key thing to look at here is
+these evening areas and morning areas. This is where the customer is
+consuming, and they're paying at the retail rate. This section here is energy
+that's being generated and used onsite. This section here is surplus energy
+that's being generated, and then we will compensate the customer at 7 1/2
+cents per kilowatt hour. This is how that 7 1/2 cents per kilowatt hour was
+calculated. This is a methodology that we've developed over time. It
+                                                                         Page 16 of 105
+                                                                   City Council Meeting
+                                                                   Transcript: 08/22/16
+

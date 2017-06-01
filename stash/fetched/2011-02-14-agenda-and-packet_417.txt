@@ -1,0 +1,58 @@
+                                                                                                                       a
+NACWA Comments on Docket ID No. EPA-HQ-OAR-2009-0559
+November 29, 2010
+Page 4
+
+        offices demonstrate that mercury reduction can be achieved far more reliably and cost effectively
+        upstream of the POTW than by installing add-on control devices at the incinerator.
+
+
+
+
+                                                                                                                           Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+6. EPA’s decision to limit data collection to stack tests at nine facilities undercuts proper MACT floor
+determinations for the SSI subcategories.
+
+        EPA decided to circumvent the Paperwork Reduction Act (“PRA”) and the Office of
+        Management and Budget (“OMB”) review and comment period by limiting its request for
+        information to nine of the 118 POTWs operating SSIs. EPA then applied statistical methods to
+        extrapolate from this limited data set as if it were a random sample of data representative of SSIs
+        as a whole. The data are not random because the nine POTWs from which the data are drawn
+        were selected based on the type of pollution control equipment employed, without considering
+        sludge characteristics and other factors that affect SSI emissions. The data also are not
+        representative because the tests were snap shots that do not reflect seasonal, regional, or
+        inherent variability in the domestic sewage treated by POTWs. EPA should use other available
+        data to understand the variability and to incorporate that variability into the MACT floor
+        determinations.
+
+7. EPA should use all of its available discretion to mitigate the impact of a rulemaking on public entities already
+financially over-burdened and resource constrained.
+
+        POTWs are facing significant costs to upgrade the infrastructure necessary to clean the nation’s
+        domestic wastewater to meet federal standards. Resources are not available for public entities to
+        realistically meet all existing and proposed federal mandates. EPA must ensure that every dollar
+        of implementation cost is absolutely necessary and required. Stack testing should be done every
+        five years, not every year. New monitors should not be required when existing sludge sampling
+        can be used to track compliance. Public entities should be entrusted to develop an operation
+        and maintenance plan for their control devices that utilizes existing data to the maximum extent
+        possible to minimize costs. Stack tests are not a reliable basis for setting operating parameter
+        ranges that vary with the sludge characteristics.
+
+8. EPA should use subcategories to set achievable standards and to further relieve the compliance burden on
+POTWs.
+
+        EPA has broad discretion to subcategorize SSIs to make the limits more achievable. EPA uses
+        just two subcategories (fluidized bed (“FB”) incinerators (“FBIs”) and multiple hearth (“MH”)
+        incinerators (“MHIs”)) for existing sources and a single subcategory for new sources. EPA
+        inappropriately assumes that no new MHIs will be constructed or modified. By requiring all
+        new sources to meet FBI standards, EPA is precluding upgrades to MHIs that could improve
+        efficiency and performance for some pollutants. EPA should also create subcategories for
+        limited use units, small units, and isolated units that are so far from a usable landfill that
+        emissions of hazardous air pollutants (“HAP”) from incineration are less than HAP emissions
+        from transporting sludge to landfill.
+
+
+
+
+                                                                                                             Packet Pg. 417
+

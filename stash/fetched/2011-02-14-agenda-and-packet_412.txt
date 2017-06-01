@@ -1,0 +1,61 @@
+                                                                                                      a
+
+
+
+
+       This is a requirement that is impossible to continuously meet, since the moisture
+       content of the sewage sludge varies. The variability of the moisture content does
+       not impact air emissions, and is therefore not an important factor on which to
+       place limitations.
+
+
+
+
+                                                                                                          Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+   2. Minimum Scrubber Pressure Drops, Scrubber Flow Rates, Scrubber Liquor pH,
+      and Combustion Temperatures.
+
+       EPA is proposing that the minimum pressure drop across each wet scrubber, the
+       minimum scrubber liquor flow rate, the minimum scrubber liquor pH, and the
+       minimum combustion temperature (or the minimum afterburner temperature)
+       shall be calculated at 90% of the value determined during the most recent air
+       emissions test.
+
+       These minimums will be impossible to continuously meet and contradict the
+       operating parameters contained in 40 CFR Part 60, Subpart O and 40 CFR Part
+       503.
+
+   3. Maximum Feed Rate
+
+       EPA is proposing that the maximum dry sludge feed rate shall be calculated at
+       110 percent of the average dry feed rate during the most recent performance test.
+
+       EPA must determine at which feed rate each SSI needs to be operated during the
+       test. If the test feed rate is at the SSI’s normal feed rate, then the proposed
+       maximum feed rate will be exceeded on a regular basis. The only way that this
+       operational standard will not be exceeded is if the test feed rate is at or near the
+       maximum permitted capacity.
+
+As a result, Palo Alto requests that the proposed operating parameter section of the rule
+be revised.
+
+N. The CEMS Averaging Times Should Remain as 24-Hour Block Averages
+
+EPA requested comments on changing the averaging times for all CEMS and CASS from
+24-hour block averages to 12-hour rolling averages to be consistent with the averaging
+times of the PS tests. Palo Alto strongly recommends that EPA retain the current 24-hour
+block averages because 24-hour block averages are more accommodating of the
+significant variability in the sludge cake feed to SSIs. Additionally, 40CFR503
+requirements for SSIs require 24-hour averages. Changing the averaging period to 12
+hours under this rule would increase the administrative burden on SSI operators by
+requiring calculation and reporting in two different formats.
+
+In conclusion, EPA has not demonstrated that the proposed beyond-the-floor
+requirements for mercury are achievable. Nor has EPA correctly identified the costs and
+benefits of these controls. Most importantly, EPA has not fairly considered the most cost
+efficient and more environmentally sound options for source control. Clearly it is source
+
+
+                                      Page 19 of 20
+                                                                                            Packet Pg. 412
+

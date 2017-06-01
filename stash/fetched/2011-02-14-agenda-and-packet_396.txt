@@ -1,0 +1,62 @@
+                                                                                                     a
+
+
+
+
+   we believe activated carbon injection is applicable to both types of SSI combustors
+   and do not know of any technical reason that activated carbon injection could not be
+   applied to reduce Hg emissions at MH units. We are requesting comment and
+   additional information on the feasibility of using this technology on MH units. (75 FR
+
+
+
+
+                                                                                                         Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+   63277)
+
+The St. Paul Metro Wastewater Treatment Plant (WWTP) is the only Publicly Owned
+Treatment Works (POTW) in the United States that injects activated carbon into its
+exhaust gas system. St. Paul Metro WWTP’s SSI is a fluidized bed incinerator, not a
+multiple hearth incinerator, and has experienced significant problems with its activated
+carbon injection system. The carbon is injected into a carbon contact chamber that is
+followed by a fabric filter. Incinerator exhaust gases entering the contact chamber are
+first cooled to roughly 350 F by passing through two heat exchangers and a boiler. Since
+start-up in 2005, the St. Paul Metro WWTP has experienced numerous abrasion and
+corrosion problems with its carbon system and fabric filter.
+
+A review of EPA’s Memorandum Estimation of Baseline Emissions Rates from Existing
+Sewage Sludge Incinerators indicates that there are no MH SSIs that use fabric filters.
+EPA’s contention that none of the existing MH systems will need to install new
+particulate matter control equipment to meet the beyond the MACT floor mercury limit is
+not supported by the information in the record. Section D of this letter details the reasons
+why existing wet scrubbers that provide particulate control cannot be used in conjunction
+with activated carbon injection for mercury control. Palo Alto concurs with the EPA that
+activated carbon injection cannot be applied alone to control mercury emissions.
+Activated carbon injection requires particulate control devices to remove the carbon that
+is injected to adsorb the mercury. In addition to the lack of suitable particulate controls,
+there are several other factors that are critical for activated carbon injection to work.
+These include:
+
+          Residence time
+          Flow rates
+          Operating temperatures
+          Fuel/flue gas analysis
+          Mercury levels and mercury speciation in the flue gas
+
+The above process parameters will require, at minimum, a fabric filter, duct work
+changes, and a carbon reactor to provide the needed residence time. Fabric filters are very
+large and would require additional building space that most facilities do not have. In
+addition, exhaust gases from a multiple hearth incinerator are commonly in the range of
+1000-1500 F, which is too high for adsorption to occur. An exhaust gas conditioner will
+be required to bring the temperature to 300-400 F. Palo Alto’s engineering consultant
+has contacted several activated carbon injection system vendors and has confirmed that
+these vendors have had no experience with activated carbon injection in multiple hearth
+systems for mercury control.
+
+At the Palo Alto RWQCP, a small site is available for any new facilities that may be
+required; however it is likely that the space is not adequate for all the new air pollution
+
+
+                                       Page 3 of 20
+                                                                                           Packet Pg. 396
+

@@ -1,0 +1,49 @@
+                          TRANSCRIPT
+sense of what the market will look like.         For those potential private
+investors, it would be helpful for them potentially to know what the market
+will look like. If Google does choose to build in Palo Alto, we'll see a
+competitive response by Comcast and AT&T.            Blair Levin, who is the
+architect of the National Broadband Plan, likes to say that in 100 percent of
+the communities where Google has announced it's going to build, both the
+cable and phone companies have announced a competitive response and
+have started investing. We know that there will be shifts in the competitive
+landscape here if Google decides to come here. For the potential private
+sector entities who might wish to partner with the City, that's going to be
+important information too. You could put out an RFI now and ask them what
+might a partnership look like under either scenario, if Google builds in Palo
+Alto or if it doesn't. An RFI is simply a way of very efficiently collecting
+information and trying to make sure that as many entities as possible
+respond to the City's query and request for information. I think you could
+go either way and it would be a very sensible strategy.
+
+Council Member Burt: Thank you for the report, and for everybody who's
+been involved in this. I found a lot of valuable information there. Several of
+my questions are intended to flesh out what additional information or factors
+maybe should be included in the decision-making process. One thing is that
+you had pointed out the $20 million or so that we have in our capital fund
+that is dedicated toward limited uses in telecom.          You didn't, to my
+knowledge, refer to the monetary value of our dark fiber ring and what
+portion of that would be leveraged if we were to build out whatever we may
+build out. Have you looked at the monetary value of that in replacement
+cost for how we might use it in a fiber to the premise purpose?
+
+Mr. Asp: Yes, we looked at that. One of the things, if you look at a full City
+build out in trying to get to more of a ubiquitous build-out, the value of the
+existing backbone fiber, the dark fiber that you have, is fairly limited. It's a
+very small percentage of the overall cost. It doesn't have sufficient strand
+count to support it, and various factors on that. There was limited value
+from that aspect on a full City build-out. If you were going to look at doing,
+kind of starting off and do kind of some targeted neighborhoods, that would
+have some significant value on doing kind of more of a targeted type of
+deployment. Then that backbone would become more of a substantial
+percentage of the total value.
+
+Council Member Burt: I didn't see any of those numbers though.
+
+
+
+
+                                                                         Page 37 of 130
+                                                                   City Council Meeting
+                                                                    Transcript: 9/28/15
+

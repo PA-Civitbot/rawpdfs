@@ -1,0 +1,48 @@
+                             MINUTES
+improving existing infrastructure; installing ubiquitous telecom conduit; and
+using building codes and community development plans to drive fiber
+expansion. The impetus for community broadband was underperforming
+networks and services from the incumbent ISPs. Cities were typically
+building fiber networks for commercial and institutional needs and, in some
+communities, residential Fiber to the Premise using a variety of business
+models. There was not a cookie-cutter approach for community broadband.
+The needs of every community were unique in terms of deploying fiber and
+complementary wireless networks. The primary challenges were existing
+provider responses to new competition and unclear customer demand in
+addition to uncertainty about the anticipated take rates for gigabyte
+broadband. Take rates were the amount of customers that would take a
+service. Another significant trend was the exponential growth and demand
+for mobile broadband. The response to this demand was Wi-Fi expansion
+and more wireless communication facilities from wireless carriers. Another
+emerging trend was the commercial carrier path from 4G LTE to 5G. At this
+point 5G was just a concept.
+
+Mr. Reichental stated the proposed work had never been done in the depth
+and breadth proposed.        Wi-Fi was once considered secondary and
+substandard with regard to accessing the internet; however, gigabyte Wi-Fi
+was emerging. The promise of 5G wireless was projected to be up to a
+gigabyte. The technology landscape was entirely different from what it was
+a few years ago.
+
+Mr. Fleming explained that net neutrality was a principle for which the FCC
+was considering proposing rules that would prevent practices by ISPs that
+could be harmful to consumers or discourage competition by limiting the
+openness of the internet. The Chairman of the FCC planned to propose
+utility-like regulations with common carrier rules for internet broadband
+companies. A recent U.S. Senate bill contained similar conditions but would
+prevent the FCC from treating broadband providers like a regulated utility.
+A recent study found 87 percent of respondents had never heard of gigabyte
+before the survey; 54 percent did not know a gigabyte was faster than a
+megabyte; 70 percent said a $70 price point for a gigabyte was too high; an
+overwhelming majority of consumers would select gigabyte service from a
+competing, incumbent ISP over a municipal or an electric utility; and 64
+percent preferred to pay slightly less per month for their current speed than
+pay slightly more for a faster connection. Currently 89 communities were
+served by publicly owned Fiber to the Premise networks, 74 communities
+were served by publicly owned cable networks, and 35 communities had
+access to gigabyte data rates from a community-owned network. Nineteen
+states had legal hurdles or outright bans on community broadband. There
+was no prohibition against municipal broadband in the State of California.
+
+02/02/2015                                                            116- 438
+

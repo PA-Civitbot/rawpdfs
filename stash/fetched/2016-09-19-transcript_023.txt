@@ -1,0 +1,50 @@
+                          TRANSCRIPT
+Mr. Milam: You have to decide your methodology and you have to decide
+your threshold, what level of VMT change from baseline or current conditions
+would constitute an impact. A good example is to think about a Trader
+Joe's. Let's say a Trader Joe's wanted to locate Downtown. If you looked at
+a Trader Joe's and measured all the trips going to a Trader Joe's and the trip
+lengths, it's going to generate new VMT. You can measure that. However, if
+there was no grocery store like a Trader Joe's Downtown and people were
+having to drive further away to the nearest grocery store, the VMT effect for
+the neighborhood or for the Downtown community could actually be less,
+especially if you measure on a VMT per capita basis. Those kinds of nuances
+in your analysis methodology are going to make a difference. Those are
+choices that cities and counties will need to make. Then, you'll have to
+decide what amount of change constitutes a significant impact.
+
+Vice Mayor Scharff: Is each city going to get to decide what constitutes a
+significant impact under CEQA if you don't want to check the box?
+
+Mr. Milam: CEQA already allows lead agencies, cities and counties, to have
+a lot of discretion in setting their thresholds as long as there's not a Federal
+or State law that governs the environmental topic. We already have some
+cities and counties that have adopted thresholds. Pasadena, San Francisco,
+Yolo County, Sacramento County all have slightly different thresholds. San
+Francisco basically accepted the OPR recommendations on their face. Other
+places have done a little bit more analysis to figure out what's appropriate
+for their community.
+
+Vice Mayor Scharff: I understand at Trader Joe's. Let's take either an office
+or condos Downtown or within a half mile of transit. If you build an office
+building for instance, how would you analyze that? Who knows where the
+employees are coming? Do you have models that say on average 40
+percent, 50 percent is the mode share Downtown or, if it's rented to a tech
+company, it's 70/30 in terms of the mode share? Do we use historical mode
+shares? How do you say—you could say so many people are likely to live
+close by and so it'll have less traffic impacts. I'm just trying to figure out
+how you'd analyze that and how you'd analyze a residential project, which
+you could argue has less traffic.
+
+Mr. Milam: All of the above would basically apply. Just like they do today,
+when you do a level of service calculation, especially if you're doing it for the
+cumulative condition, 2040, your models have to take into account as many
+of those variables as they can. Our models are simplifications of reality.
+Oftentimes, a number of those variables are just frankly not included. The
+same limitations that models have today they'll continue to have for VMT
+purposes. Those are all legitimate questions you could ask. If you express
+
+                                                                         Page 23 of 120
+                                                                   City Council Meeting
+                                                                    Transcript: 9/19/16
+

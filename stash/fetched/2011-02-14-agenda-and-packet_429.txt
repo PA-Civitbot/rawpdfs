@@ -1,0 +1,62 @@
+                                                                                                                                          a
+NACWA Comments on Docket ID No. EPA-HQ-OAR-2009-0559
+November 29, 2010
+Page 16
+
+Business Regulatory Fairness Act (“SBREFA”) provide for small governments. EPA’s rushed analysis, however,
+has a significant flaw as discussed below.
+
+
+
+
+                                                                                                                                              Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+       EPA also relied on this flawed small entity analysis as a central component of its UMRA cost-benefits
+assessment. See 75 Fed. Reg. at 63293 (claiming no Section 203 UMRA obligation because “EPA’s analysis
+shows that for the more likely scenario that small governmental entities switch to landfilling, none of the ratios
+was greater than 1 percent.”) Due to the central flaw discussed below, EPA must also revisit its UMRA analysis.
+
+         B.       EPA Misunderstood that Sewage Sludge is Wet When Fed to an Incinerator
+
+        EPA’s rush to propose this rule provided insufficient time for the Agency to gain the fundamental
+understanding of sewage sludge necessary to this rulemaking. EPA presumes incorrectly that the material fed
+into an SSI is dry and does not contain moisture. In fact, sewage sludge is typically only 20-30 percent solids
+and 70-80 percent moisture. While SSIs are rated based on the number of dry tons per day they can combust,
+the sewage sludge being fed into the incinerator is not dry. When sewage enters the POTW headworks it is over
+99 percent water. POTW processes increase the solids content to about 4 percent before it is “dewatered.” The
+dewatering process increases solids content to 20-30 percent before it is fed into the incinerator. The
+incinerator drives off the rest of the moisture and it combusts the volatile solids. Thus, an SSI rated at 100 dry
+tons per day will feed 400-500 tons per day of dewatered sewage sludge into the incinerator to combust that 100
+dry tons of sewage sludge. EPA incorrectly presumed that the 100 dry ton/day SSI would feed and combust 100
+tons of sewage sludge per day.
+
+         C.       EPA’s Error Undercuts its Small Entities Analysis
+
+        EPA’s fundamental misconception about the nature of sewage sludge affects many aspects of the
+Proposed Rule. For instance, EPA’s cost analysis for the landfill alternative is based on dry tons of sludge,
+which underestimates the amount of sludge being sent to a landfill by a factor of three to five. The landfill
+alternative requires as many as five times more truck loads,15 five times more landfill tipping fees, and five times
+as much on-site storage and loading capacity. EPA assumed that onsite storage capacity would require a
+cement pad with a railing, instead of the more costly tankage necessary to contain sludge that is 70-80 percent
+water. EPA also failed to consider the cost and limitations associated with landfills rejecting wet sludge due to
+capacity restrictions and moisture limitations. POTWs will have to transport sludge farther in search of landfill
+capacity willing and able to take wet sewage sludge. NACWA is confident that when EPA corrects its cost
+analysis for small entities, the landfill alternative will not be cost-effective for many if not all of the small
+entities. As an example, the City of Edmonds, a small government entity located in Washington State, has
+reported to NACWA that it has no intention of trucking its sewage sludge to a landfill, the closest of which is
+270 road miles away. EPA should abandon the landfill alternative presumption that it used to shortcut small
+government relief under RFA and UMRA. Instead, EPA should consider the full cost of its proposed control
+technology on small entities and engage in the appropriate RFA/UMRA processes to evaluate ways to mitigate
+the burden of this rule on these small entities.
+
+
+
+15
+   EPA also overestimates the amount of sludge a single truck can hold. As an example, EPA estimated that 34 tons of sewage sludge can
+be hauled in each truck, when in reality only 15-20 tons can be hauled per truck based on the 80,000 pound total truck weight limit for
+roadways in Ohio. This alone doubles the cost that EPA assumed to be associated with trucking sewage sludge to landfill.
+
+
+
+
+                                                                                                                          Packet Pg. 429
+

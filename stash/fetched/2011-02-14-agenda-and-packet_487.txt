@@ -1,0 +1,59 @@
+                                                                                                       a
+
+
+
+
+Cost of Hg Diversion Through Dental Office Source Control
+
+           For:    Brad Eggleston
+                   Palo Alto RWQCP
+
+
+
+
+                                                                                                           Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+   Prepared by:    Thomas Barron, PE
+
+  Reviewed by:     Karin North
+
+          Date:    November 16, 2010
+
+
+
+Summary
+
+The Palo Alto RWQCP source control program for dental offices has been active
+for the past decade. This cooperative effort with the local dental community has
+been successful in diverting an estimated 5.1 kg/yr from being discharged into
+the sanitary sewer system. For the entire service area the program is estimated
+to have an annual cost in the range of $100,000, which consists mostly of
+expenses for maintaining amalgam separator units. This range in annual costs is
+equivalent to $18 million per ton of mercury diverted from the sewer system.
+
+
+Estimate Calculations
+
+Step 1 - Number of Dental Offices
+
+The RWQCP has 135 dental practices in its service area that perform amalgam
+placement or removal procedures. These practices are served by 116 vacuum
+systems that each have an amalgam separator installed.
+
+                   RWQCP Dental Practices & Amalgam Separators
+
+
+                          Dental offices in the service area that perform amalgam
+             135
+                          procedures
+                          Less practices that use a shared vacuum system and amalgam
+             -19
+                          separator provided by another office, or by the landlord
+
+             116          Net number of amalgam separators
+
+
+
+
+Technical Memorandum                          1                                     2010-11-16
+                                                                                             Packet Pg. 487
+

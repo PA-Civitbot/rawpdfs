@@ -1,0 +1,46 @@
+Gayle Likens, Transportation Management Specialist: I would like to give a
+brief overview of the City’s Travel Demand Forecasting Model and how it
+relates to this particular project and the Traffic Impact Analysis for the
+project.
+
+The City’s model was originally developed in about 2003, and it was for the
+Citywide Traffic Impact Fee Nexus Study and has been used in the ensuing
+years for the traffic impact studies that have been done for all of the
+development projects.
+
+Starting in 2007 the model was updated to project traffic through 2015, and
+additionally 2025, which previously we had not had any traffic projections
+for that far into the future. Including the local traffic and the known projects
+using the Regional Land Use Data Projections from ABAG and the model was
+also updated to be consistent with the VTA’s Congestion Management
+Program Travel Demand Model. So in 2007 originally this update was for
+both the combined projects, the Medical Center and Shopping Center
+Projects. Because we did have the future traffic growth numbers for the
+projects themselves, we backed out the ABAG projections for 2025 and 2015
+from the background data.
+
+Then in 2009, because the Shopping Center Project was withdrawn we had
+to readjust the model to put the ABAG projections for the Shopping Center
+back into the background growth projections for the City and in the model.
+At the same time the model also showed that we had some roadways that
+were over capacity so we did some adjustments to the model.               We
+constrained some of our major roadways, there were 11 locations that were
+constrained, to bring the traffic on those roadways back to the capacity of
+the roadways and not exceed the capacity. Even so there were some
+adjustments that we had to make beyond that to fine-tune the model. That
+including looking at shifting some of the traffic on these roadways that were
+showing greater than capacity in numbers to the freeways and also to do
+some modifications that included peak spreading to result in more accurate
+and realistic forecasts for the travel patterns.
+
+We reviewed this approach to the traffic model with the VTA because we do
+need to have a model that is consistent with our regional planning agencies.
+They agreed that with our approach being a conservative approach to
+modeling, and they felt it was appropriate. So that is a brief background on
+the model itself, which was used in the development of the Traffic Impact
+Analysis. Thank you.
+
+
+
+                                       8                              07/12/10
+

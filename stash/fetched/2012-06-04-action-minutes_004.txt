@@ -1,0 +1,49 @@
+AGENDA CHANGES, ADDITIONS, AND DELETIONS
+
+15a. (Former Agenda Item No. 5) Approval of a Contract with VOX Network
+     Solutions for Implementation Services Relating to Installation of Avaya
+     Telecommunications System.
+
+15b. (Former Agenda Item No. 6) Approval of Purchase Order for Acquisition
+      of Hewlett Packard Company Network Switching Equipment.
+
+15c. (Former Agenda Item No. 7) Approval of a Contract with Radovich
+     Crop. Dba Cal Coast Telecom for the Re-Cabling of City Facilities in
+     Preparation for a Unified Communications System.
+
+MOTION: Council Member Espinosa moved, seconded by Council Member
+Klein to approve:
+
+Agenda Item No. 15a: to authorize the City Manager or his designee to
+execute contract C12144216 with Vox Network Solutions Inc, a Delaware
+Corporation for a total contract price not to exceed $760,506.87 for the
+following items:
+    1. Purchase and implement an Avaya Voice Over Internet Protocol (VoIP)
+       phone system.
+    2. Purchase five years of maintenance and support services for that VOIP
+       system.
+    3. Select and execute one or more of the options listed in the contract.
+    4. Negotiate and execute one or more change orders to the contract not
+       exceeding 10% of the contract price for additional but unforeseen
+       work which may develop during the term of this contract, the total
+       value of which shall not exceed $836,558.00.
+
+Agenda Item No. 15b: to approve the Purchase Order with Decotech
+Systems, Inc., a California Corporation for the purchase of Hewlett Packard
+Company network switching equipment and authorize the City Manager or
+his designee to execute Purchase Order 4512001030 for the purchase of the
+equipment in the amount of $598,867.
+
+Agenda Item No. 15c: to approve, and authorize the City Manager or his
+designee to execute, contract C12144295 with Radovich Corp. dba Cal Coast
+Telecom for a total contract price not to exceed $452,007 for the following
+items:
+      1. Install 1059 workstation location cabling, providing all necessary
+         materials, and terminate, label, and test each of those locations
+      2. Install all necessary backbone cabling, providing all necessary
+         materials, and terminate, label, and test each of those locations
+      3. Provide and install all necessary racks in designated equipment
+         rooms
+
+                                     4                          06/04/2012
+

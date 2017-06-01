@@ -1,0 +1,50 @@
+                         TRANSCRIPT
+Mr. Reichental: Beyond Open Budget? For example, with the Open GIS
+platform, which is many, many geospatial information data sets, we created
+that. The software is free. It's based on Google's fusion tables and Google's
+mapping technology. It's sort of a mash-up of the two. It's free as in the
+software is free. I don't know if it's open source. We would be delighted to
+share it with anybody.
+
+Council Member DuBois: You actually started this initiative for the City.
+How long have we been doing this? Three or four years?
+
+Mr. Reichental: The open data specifically?
+
+Council Member DuBois: Yeah.
+
+Mr. Reichental: It's coming on about—by the time we kicked it off and made
+it real, it's about probably four years, almost four years.
+
+Council Member DuBois: A lot of good progress. I think it'd be useful you
+come, I guess, once a year, every so often, to Council, to see maybe usage
+stats. Are you guys tracking what's getting used and what kind of feedback
+we're getting from users?
+
+Mr. Reichental: We do on a few, not on everything, not on all 60 different
+experiences. Palo Alto 311 which is sort of a flagship product for the City is
+one we track very closely. We definitely can track and produce data on
+downloads of apps. that we manage. We have that. We also track and
+manage the open data usage. I think the data point I had up on the slide
+was, since we went live, there's been 17,000 visits to our open data
+platform.
+
+Council Member DuBois: I think it would totally help you. If we could even
+start to track—I don't know if we've seen decreases in public record requests
+once data goes live. I think we're actually avoiding costs and providing
+services. It'd be great to try to show some of that over time. I was looking
+at some of the open data website pages. It'd be great to see a feedback link
+there. When people do run into any issues, you can get the feedback.
+
+Mr. Keene: Could I just jump in on that to amplify your comment, Council
+Member, about just trying to be proactive on putting out information, so we
+don't have to necessarily respond to public record requests? It was a couple
+of years ago when—this isn't our data to assemble. We actually have to do
+it if we get a public records request. We just said, "As it relates to all
+employee pay information, to every employee and every aspect of their
+annual pay, let's just put that on our open data, on our website, to be
+available each year when we do this, and not sit around and wait for the
+                                                                       Page 12 of 107
+                                                                 City Council Meeting
+                                                                   Transcript: 4/4/16
+

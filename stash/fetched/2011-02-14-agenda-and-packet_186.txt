@@ -1,0 +1,30 @@
+                                                                                                10.b
+California Avenue Lane Reduction – Traffic Analysis Report                                        
+
+
+The basis of the analysis is as follows: (1) the Poisson probability distribution is used to
+estimate the 95th percentile maximum number of queued vehicles per signal cycle for a
+particular movement; (2) the estimated maximum number of vehicles in the queue is
+translated into a queue length, assuming 25 feet per vehicle; and (3) the estimated
+
+
+
+
+                                                                                                       Attachment: Attachment B: Hexagon - Cal Av TIA Report (No Appendices) (1320 : California Avenue Neg Dec and CIP)
+maximum queue length is compared to the existing or planned available storage capacity
+for the movement.
+
+Report Organization
+The remainder of this report is divided into four chapters. Chapter 2 describes the existing
+transportation system including the roadway network, transit service, and existing bicycle
+and pedestrian facilities. Chapter 3 describes the impact of the proposed project on the
+transportation system. Chapter 4 presents the conclusions and recommendations of the
+transportation analysis.
+
+
+
+
+                                                                             12 | Page 
+
+                                                                                        Packet Pg. 186
+

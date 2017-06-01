@@ -1,0 +1,49 @@
+                          TRANSCRIPT
+Council Member Wolbach: Thank you for the excellent work and the great
+presentation. A couple of questions. We had an Open Data Proclamation
+back in 2014. Have we really adopted an Open Data Policy since then? I've
+heard that Los Angeles (LA) has a pretty good one. I know San Jose is
+voting on one tomorrow, really emphasizing this common value of open by
+default. I just wanted to check whether that's something we've explored,
+whether it's something we ought to explore. Then I've got one more
+question after that.
+
+Mr. Reichental: At this time, we are not pursuing a policy. Extensive dialog
+with the City Attorney and City Manager, we thought a Proclamation was
+appropriate, and we could adopt the qualities of open data across our
+organization without having to make it compulsory or have repercussions if
+you didn't do certain things. At the time, I recall—I agreed with this—part of
+it was just the maturity of where we were at in our evolution here. I don't
+think it's unreasonable that in some future date, not too far, that we would
+want to mature this into a charter or a policy that had a bit more oomph to
+it, but currently not.
+
+Council Member Wolbach: I'd definitely be interested in exploring that. No
+terrible rush. The fact that our neighbor San Jose is doing that this week,
+just interesting timing. That got me thinking that's something we ought to
+explore as appropriate. The other question I had relates to campaign
+finance data. This is an area where the City of Palo Alto already has
+available campaign finance data for ourselves and for candidates running for
+local office. It's already available through the City website as a whole. Its
+format is not, to use your phrase, machine consumable. You can't set up an
+Application Programming Interface (API) key to just pull off the data as it
+gets updated, as I understand. You can get it in PDF form which is a
+nightmare to work with. You can also get some of it—I think it's a Comma
+Separated Values (CSV) file. It's not part of our open data portal. I was
+wondering if you've had any discussions with the City Clerk's Office about
+putting it up on our—transitioning it over to our portal homepage maybe
+under the government tab or somewhere else on the open data portal. Any
+thoughts about campaign finance data being made available? Part of my
+impetus for this is I've heard that the open disclosure team with code for
+San Jose is working on collecting data on campaign finance around the
+region. Making sure that that's available, that that's available to the public,
+I think, is important to the public. I just wanted to know if there's been any
+discussion among City Staff about that.
+
+Mr. Reichental: I love that; terrific suggestion. I will personally commit to
+meeting with Beth, our City Clerk, in the next couple of days. We have a
+fairly easy process for taking data and uploading it. Assuming there's no
+                                                                        Page 18 of 107
+                                                                  City Council Meeting
+                                                                    Transcript: 4/4/16
+

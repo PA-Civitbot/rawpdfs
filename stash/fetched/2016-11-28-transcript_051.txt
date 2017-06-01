@@ -1,0 +1,49 @@
+                          TRANSCRIPT
+You mentioned that you're also interested in comments and feedback in
+addition to just the Motion. As I read the document, basically it looked to
+me like a good quantitative definition of the problem and a table of contents.
+The key is where do we go next as we fill in those chapters in the table. As I
+looked at it, I think prioritization is going to be really important here. This
+could be a big project just to finish the document, let alone actually go do
+the implementation. I think it's one of those things where it's all good, but
+we're going to run out of Staff time and consulting resources before we run
+out of good things to do. Given that, how do we narrow it down? The
+numbers. I understand the exercise of throwing down some numbers, even
+if we don't know how we'll make them. I agree with that as a first cut, but I
+think some of these are really speculative and some of them may even
+conflict with each other. I'm not sure we're ready to make a lot of decisions
+based on those. What I did find really compelling was the pie chart. I
+concur with a couple of the speakers. I guess it was Bruce and Brad who
+urged focus initially anyway on transportation and gas. I think that makes
+sense for a couple of reasons. One, it's where we're going to find the
+biggest impacts as we learn. The other is I worry about the ever-expanding
+Staff time as we start putting real programs and plans and non-recurring
+engineering into this and figuring out what actually the numbers really are
+instead of our guesses. I'll come back to that. On transportation and gas, I
+think the EV-ization makes sense. I was sort of looking at this, and the
+more incentives you can provide to get people to do that—get rid of crickets.
+No, we don't want to do that.
+
+Mr. Keene: It's just part of the natural environment section.
+
+Council Member Filseth: If you're going to charge for parking, maybe EVs
+are exempt, for example, that kind of stuff. All the detail programs. I
+wasn't going to, but I will comment briefly on Council Member Schmid's
+discussion of jobs/housing ratio. That only works if the housing goes to
+people who work in Palo Alto. If you get people who work in San Francisco,
+then not only have you not reduced Vehicle Miles Traveled (VMT), you've
+actually increased it. If we're going to do regional commute engineering,
+I'm not sure that jobs/housing ratio is the right metric. I think we really
+need to look at commute trips in and out of the City. On the gas thing, if 63
+percent really is commercial and industrial, then I think that's a good focus.
+I was very interested in the zero net energy discussion. I thought that was
+kind of interesting if we're going to do this. It also implies all electric, which
+is interesting too.     Council Member Holman's comments on embedded
+energy, I agree with as well. We're trying to get to 150,000 metric tons of
+CO2 by 2030. If you look at the 1.3-million-square-foot Facebook project
+that's going up next door, it's 75 pounds a square foot. That's going to add
+50,000 metric tons. That's a third of where we're—one project. I think we
+                                                                          Page 51 of 114
+                                                                    City Council Meeting
+                                                                    Transcript: 11/28/16
+

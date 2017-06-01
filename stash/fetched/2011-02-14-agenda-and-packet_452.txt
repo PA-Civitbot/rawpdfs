@@ -1,0 +1,60 @@
+                                                                                                                                          a
+NACWA Comments on Docket ID No. EPA-HQ-OAR-2009-0559
+November 29, 2010
+Page 39
+
+IX.      AVERAGING TIMES FOR EMISSION LIMITS AND OPERATING LIMITS SHOULD BE EXPANDED
+         TO A CCOMMODATE THE S IGNIFICANT V ARIABILITY OF S EWAGE S LUDGE
+
+
+
+
+                                                                                                                                              Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+        EPA requested comment on whether the averaging time using continuous emission monitoring systems
+(CEMS) should be reduced from 24 hours to 12 hours. See 75 Fed. Reg. at 63281. NACWA asks that EPA use
+broad averaging times (e.g., 30 days or longer) for CEMS, sludge concentration data, and operating parameters
+to accommodate the significant and unpredictable variability in the influent that must be processed by POTWs.
+Spikes in compound concentrations are unavoidable in a sewer system and they are unlikely to be captured in
+the data that EPA has gathered for its MACT database. High concentrations of mercury may be released when
+segments of the sewer are periodically cleaned downstream of a dentist office where mercury-containing
+amalgams have been discharged into the sewer. The sewer system can also be the discharge point for ‘spring-
+cleaning’ activities, spills, and other periodic discharges that typically arrive at the POTW without warning.
+The POTW does not have the luxury of refusing material discharged in most instances. It must do its best to
+respond by cleaning the wastewater before it is discharged to a local water body, which redirects these
+compounds in higher concentrations to the sewage sludge.
+
+        Longer averaging times help mitigate the effect of spikes on compliance demonstrations. NEORSD’s
+Part 503 data from weekly sludge samples taken from 2003 to 2009 reveal that the maximum concentration of
+lead and mercury were over five times higher than the median concentrations. See NEORSD Comments on the
+Proposed Rule. Spikes of this magnitude are typical for POTWs and they justify broad averaging periods. It
+takes a significant number of normal data points to bring the median back from a 5-times spike.20 While the
+emission standards in the Proposed Rule apply during these spikes, these periodic elevated concentrations are
+not reflected in EPA’s database. EPA should help mitigate the burden of its lack of data by maximizing the
+averaging times for demonstrating compliance.
+
+         EPA should not dictate the averaging times for operating parameters. Facilities should have the
+flexibility to develop an operations and maintenance plan for their control devices and emission reduction
+methods. EPA improperly directs that the operating parameter range be limited to the range established during
+a single performance test. If a stack test confirms that emissions are 50 percent of the emissions limit, the
+operating parameters derived from that test would be ensuring that emissions remain controlled to 50 percent
+of the emissions limit during future operations. This more stringent limit is unlawful. It is set at a level that is
+unquestionably lower than the MACT floor, yet EPA has not conducted any of the analysis necessary to justify a
+more stringent, beyond-the-floor MACT limit. The operating parameter range should reflect the full range of
+operating conditions that correlate with emissions up to the emissions limitation. The POTW should be able
+to develop a continuous compliance plan based on the stack test data and all other available information
+regarding the correlation of operating parameters to control device performance. This ensures that the
+operating parameters actually correlate to performance at the emission limit and not at the rate captured
+during the stack test.
+
+X.       NACWA SUPPORTS EPA’S APPROACH ON THE FOLLOWING A REAS FOR WHICH EPA
+         REQUESTED COMMENT
+
+20
+ Assuming for illustration purposes that the median concentration is 10 and the limitation is 15, a spike that is five times the median
+concentration would require eight weeks of normal sample results to bring the average back to the limit.
+
+
+
+
+                                                                                                                            Packet Pg. 452
+

@@ -1,0 +1,50 @@
+                         TRANSCRIPT
+Mr. Reichental: They do have utility. In fact, we use the utility module
+today with SAP. I do have colleagues from Utilities here tonight. I don't
+know if they're willing to talk to what the current SAP solution is like or
+whether they'd talk ...
+
+Council Member DuBois: Both the consultant recommendation and Staff
+recommendation is that we move to something else on utility billing.
+
+Mr. Reichental: We would expect SAP to respond to the market solicitation
+we would do. Once it looks like we're going out to marketplace to look for a
+new Enterprise Resource Planning (ERP), our expectation is that SAP would
+want to be a participant in that process. We would expect them to respond.
+
+Council Member DuBois: I didn't really see much discussion about their
+current offering. Have they fixed a lot of the issues? If we were on the
+current version, does it address a lot of the issues we're seeing?
+
+Mr. Reichental: What I would say regarding specifically that question, the
+technology they use today is really entirely different than the technology we
+use. They have a new stack called SAP Hana, which is completely new
+architecture and technology. We had Sudhir, our Enterprise Manager,
+attend the SAP global conference recently for the purposes of evaluating.
+He has worked at SAP and with SAP for many, many years. He remarked on
+the distinction between where we're at today and where SAP are today.
+Very distinctive and modernization of their technology relative to where it
+was. Now, whether it fixes some of our shortcomings today, I think we'll
+look at that deeply. SAP have a stronger offering specifically for government
+than they did in the past. In fact, they have a government cloud offering.
+We would be very interested to take a deep look at that as well as the other
+providers.
+
+Council Member DuBois: Kind of tied to that new product, do they have
+more modern pricing? This idea of large upgrades and maintenance seems a
+very legacy pricing model. Do they have more of a cloud ASP pricing model?
+
+Mr. Reichental: They do. In fact that was one of the things I asked Sudhir
+to take a look at as well. They have several different pricing models. They
+continue to have the build-it-on-site version. Now, what's very popular is
+the subscription model.
+
+Council Member DuBois: The price in here for the upgrade was to stay in
+kind of the host it yourself. Could it be actually cheaper if they bid and we
+use their cloud service?
+
+
+                                                                         Page 6 of 66
+                                                                City Council Meeting
+                                                                 Transcript: 2/29/16
+

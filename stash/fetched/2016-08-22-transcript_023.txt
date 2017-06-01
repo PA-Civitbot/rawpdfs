@@ -1,0 +1,50 @@
+                         TRANSCRIPT
+Mr. Abendschein: We could look at both those aspects. I think the way
+we'd want to do it is return and amend the successor program so that we
+could get started on implementation but then clean up.
+
+Council Member Berman:          In your presentation—thank you for your
+presentation. It's always difficult giving a presentation that somebody else
+made. You talked about how Palo Alto got to its NEM cap. I guess the State
+legislation was kind of vague in how different municipally owned utilities
+derive that cap. What analysis did we use to get to that cap? Are there
+options? I had a meeting with—I won't hog the ball too much, but I had a
+meeting with Staff last week where it's my understanding that there might
+be a different equation that we would use, that gives us a little more, that
+would increase the cap a little bit and maybe give us a little more time as we
+make the transition and maybe analyze other improvements that could be
+made.
+
+Mr. Abendschein: The cap that we have now, we brought it to you for
+adoption—I think it was last year. It was based on a formula we'd been
+using internally that was based on what's called coincident peak load, which
+is the actual measureable load where we take energy off the California (Cal.)
+ISO grid. That's a clear measureable standard. We used the peak from
+2006, which was when Senate Bill (SB) 1 was adopted, and it represented
+the highest level of the peak in the last ten years or so. There are two other
+ways that you could look at defining peak. One is the way the investor-
+owned utilities do, that they're mandated to do by the California Public
+Utilities Commission. That is to take the peak load of every individual
+customer throughout their service area and add it up. That generates a
+much higher cap, but it also requires analytical capabilities that we don't
+have.
+
+Council Member Berman: Smart meters.
+
+Mr. Abendschein: Smart metering, yeah. A middle ground is the peak load
+of every customer class, so residents, commercial customers. It's not as
+clear cut, but it is something we're able to estimate. We chose a very
+clearly measureable standard. Customer class, non-coincident peak load is
+something that we can estimate.
+
+Council Member Berman: You think that if we were to use that analysis that
+would increase the cap a minimal amount?
+
+Mr. Abendschein: Yeah, maybe by around five percent or so.
+
+Council Member Berman: The last question I have for now is there's been a
+lot of debate—this is more a legal question than a technical question.
+                                                                       Page 23 of 105
+                                                                 City Council Meeting
+                                                                 Transcript: 08/22/16
+

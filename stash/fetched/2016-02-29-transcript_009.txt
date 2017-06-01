@@ -1,0 +1,50 @@
+                         TRANSCRIPT
+measuring all the responses, putting together the panels that are going to
+look at all the tools. The next piece that makes the number a little different
+is we're going to be doing some very detailed work on looking at the next
+generation of utility software both for customer billing, the customer
+experience when they go online and work with us or they call in and get
+help. In addition, we will for the first time need technology or services that
+support our electrical smart grid strategy. Not only is there the elicitation
+requirements, the development of RFPs, the selection of processes, the
+identification of solutions, there's this assessment of managed services too,
+and there's the new Utilities piece. I think it is a good price for the volume
+of work that we're going to engage in. Again my Utilities colleagues are here
+if you have specific questions on their part which is a sizable piece.
+
+Council Member DuBois: I misspoke. I said 250. I guess it's 359, right?
+
+Mr. Reichental: At 350, 70,000 is contingency. It's late 200, but hopefully
+we don't have to (crosstalk).
+
+Council Member DuBois: This is mission critical software, but I'd love to see
+us do it for less if we can. Thank you.
+
+Mr. Reichental: Good questions.
+
+Mayor Burt: Council Member Holman.
+
+Council Member Holman: Yes, just a couple of questions. First off, I would
+concur with the question by Council Member DuBois about the cost of it. It
+does seem like a lot of money. Any opportunities to shave that, I'm sure will
+be forthcoming. A couple or three questions. I didn't really see them
+addressed in the minutes. One was while we're looking at a new system,
+are we also looking at new internal architecture and systems? Sometimes,
+like with the result of audits or some inquiries that Council Members would
+make, it seemed like one of the problems with SAP was the Staff wasn't
+being trained on SAP. We weren't taking advantage of systems that were
+really going to help the City make decisions. Is that also going to be
+addressed while you're doing this search for what the next best is or are you
+also going to be looking at the Staff training and the Staff internal
+programs?
+
+Mr. Reichental: That's a super question. Two sort of thoughts that come to
+my mind as I think about it. One is we fully document end-to-end processes
+as a City. It does give us a chance to get better at that and actually
+question whether we should be doing it the way we're doing it. I think that
+also helps us answer the question whether somebody else can do it better
+than us. That's the managed services piece. The second way I would think
+                                                                          Page 9 of 66
+                                                                 City Council Meeting
+                                                                  Transcript: 2/29/16
+

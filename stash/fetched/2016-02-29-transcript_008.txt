@@ -1,0 +1,50 @@
+                           TRANSCRIPT
+Manager recognize that. If we took advantage of mobile tech and some of
+the easy, simple ways to do that, that would just have enormous utility for
+us.
+
+Council Member DuBois: That's a good example. It sounds like it would be
+a negotiation. If we're going to use a third-party expense reporting solution,
+even though it's built into ERP, we don't want to pay for it, so give us a
+lower price.
+
+Mr. Reichental: Exactly.
+
+Council Member Dubois: I guess one thing hopefully is part of the RFP is
+really focusing on data connectivity. If you have all these different systems,
+if there's a way to make sure you have one copy of data, we don't have
+different versions of the same data in different systems or you're rekeying
+data, seems like that's going to be the trick of tying together a bunch of
+third-party things.
+
+Mr. Reichental: It is. Thank you for raising that. You're talking about a
+concept that used to be known as data warehousing, where you take data
+from disparate systems and you try to put them in a place that you can just
+report off of, and you've got one single source of truth. Today it's called
+business intelligence, the same sort of thing.         We have a business
+intelligence solution at the City today, but it was very narrowly architected.
+We're in the process of improving that and upgrading it such that as we get
+disparate services we will dump the data from the systems into our BI
+systems, and it'll become a single source of truth that we can then report
+against. That's how you solve that problem, but you've got to architect it
+right.
+
+Council Member DuBois: I like the ASP focus. I think a lot of benefits there.
+I think in one of the reports I read it listed a downside as well. If the
+internet goes down, then we can't access this stuff. I think it's a good
+tradeoff. My two cents. Obviously I think we should demand a very high
+level SLA like any large business would. The other thing, it sounds like it'd
+be great to see a speedy transition. Sounds like we'll be running two
+systems for a while, and it's going to be expensive running this archaic SAP
+system in parallel. My last question. On Consent, we're being asked for
+$250,000 to define our needs and start to evaluate vendors. How does that
+amount compare for a purchase of this type? It seems like a lot.
+
+Mr. Reichental: I believe it's the right price, but it includes a lot. It's
+building the entire needs of all the different departments I talked about in a
+document that's usable. That's hard work, eliciting our existing processes,
+documenting those. It's going out to market with several RFPs. It's
+                                                                          Page 8 of 66
+                                                                 City Council Meeting
+                                                                  Transcript: 2/29/16
+

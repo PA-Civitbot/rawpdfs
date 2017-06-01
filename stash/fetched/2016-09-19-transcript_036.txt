@@ -1,0 +1,50 @@
+                          TRANSCRIPT
+we do approve a project, there's unlikely to be a successful CEQA challenge
+based on either parking or level of service or congestion. I think what would
+be really interesting is we could just as a Council focus on LOS. It seemed
+that there might be better metrics for congestion, which is really what
+people—which I think Tom hit on it quite a bit. I agree it's how long does it
+take me to get from A to B. I was wondering how easy it'll be for us to
+develop how do we get from A to B when we look at new development and
+when we look at projects that come before us and whether or not we could
+build those in as opposed to level of service frankly. We could have
+mitigations. Frankly, that could create all projects. I think it was Hillary
+who said that. It could be a hook to get TDM programs for all new projects
+basically and provide that nexus, which would be a real positive step
+forward. Do you have any reaction to that in terms of better than LOS or is
+LOS really what we're stuck with if we want to try and still deal with
+congestion issues?
+
+Mr. Mello: I think we have the tools to look at historical travel times along a
+specific corridor by time of day, day of the week. Many of the modeling
+tools that we use would still tend to look at intersection operations in order
+to determine the travel time along a corridor. You'd probably just be looking
+at a collection of intersections and looking at the level of service and the
+amount of delay. I don't quite know that the tools are there yet to predict
+travel times for a corridor as a whole without getting down to the
+intersection level and doing exactly what we do today. Perhaps, looking at it
+as more of a collection of intersections and maybe looking at a more—the
+VMT tools will give us maybe a better handle on where trips are originating
+from and traveling to and help us with our trip distribution calculations that
+we use in TIAs. I don't know that we're necessarily there yet as a science to
+predict, to get to the level that we need to get to.
+
+Vice Mayor Scharff: Even with all the big data you were talking about, being
+able to buy from Waze and being able to model it, looking at what actually
+happened?
+
+Mr. Mello: I think we're close. I would like to see us get to a place where
+we have a dashboard, if you will, that shows the real time performance of
+our transportation network, and we buy some of the data we need to look at
+how our roadways are performing in real time ...
+
+Vice Mayor Scharff: Can we have it next year?
+
+Mr. Mello: ... and not have to do this historical audit that we typically do
+when we're doing these kind of analyses.
+
+
+                                                                        Page 36 of 120
+                                                                  City Council Meeting
+                                                                   Transcript: 9/19/16
+

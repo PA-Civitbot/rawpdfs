@@ -1,0 +1,59 @@
+                                                                                                                   a
+NACWA Comments on Docket ID No. EPA-HQ-OAR-2009-0559
+November 29, 2010
+Page 30
+
+in the combustion zone would be expected to increase NOx emissions. If EPA chooses a top performer for NOx
+and a different top performer for CO, the emission limits may well be unachievable for any source. While
+
+
+
+
+                                                                                                                       Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+afterburners may be added for post-combustion CO control, these units burn fuel that results in a
+corresponding increase in emissions of NOx and CO. The better alternative is to set limits based on the best
+performers for both pollutants simultaneously.
+
+VI.    EPA’ S TWO PROPOSED SUBCATEGORIES ARE INADEQUATE TO ACCOUNT FOR
+       OPERATIONAL DIFFERENCES A MONG TYPES AND CLASSES OF SSIS
+
+       A.      MACT Subcategories for Existing Sources Should Also Apply to New Sources
+
+        In the Proposed Rule, EPA correctly determined that MHIs and FBIs are distinct types of combustion
+units that justify separate subcategories. See 75 Fed. Reg. at 63268. FB incinerators have higher turbulences
+that increase combustion efficiencies and reduce particulate emissions, and many have internal afterburning
+zones that increase residence time to reduce carbon monoxide, hydrocarbon, and particulate emissions. MH
+incinerators do not share these characteristics. All of these differences result in lower emissions from FB
+incinerators that cannot be duplicated by MH incinerators.
+
+        Based on these distinctions, EPA created distinct MH incinerator and FB incinerator subcategories.
+However, EPA only recognized this distinction in setting emission limits for existing units. EPA abandoned
+these subcategories for new units by basing emission limits for all new incinerators, whether FB or MH design,
+on emission limits achieved by the best performing FB incinerator. EPA concluded that no new MH
+incinerators have been built recently and none are expected to be built in the future, and that therefore all newly
+built units would be FB design. EPA cannot make this determination for POTWs. In fact, EPA is essentially
+setting a beyond-the-floor MACT limit for MHIs without considering any of the criteria that the statute
+requires. The new source limits in the proposed rule must reflect the best performing similar source for the
+multiple hearth design.
+
+         EPA also seems to ignore the “modification” trigger for the new source standards. EPA’s proposed
+definition of “modification” could make existing MH units subject to the new source FB-based standards. EPA
+would impose the new standards on units for which the “cumulative cost of the changes over the life of the unit
+exceeds 50 percent of the original cost of building and installing the SSI unit.” First, EPA must make clear in
+the final SSI rule that the cumulative costs to be considered are only those costs incurred since the effective date
+of the final SSI rule. This is the approach taken in the Municipal Waste Combustor § 129 rule at 40 CFR §
+60.51b. The “life of the unit” reference in the definition of modification could be misconstrued as a
+retroactive evaluation of incurred costs that pre-date the rule. Second, modified MH units are placed in the
+untenable position of having to meet emission limits set by the best performing FB incinerator – an impossible
+feat due to the inherent design differences already recognized by EPA. This will prevent all existing MH units,
+which make up 75 percent of existing SSI units in the U.S., from investing in changes to those units due to the
+risk that they might qualify as modifications of the type that would trigger unachievable new source
+performance standards. This includes combustion efficiency improvements or changes that increase steam
+output for electricity generation, when these environmentally beneficial changes meet the definition of
+modification proposed at 40 CFR § 60.4930.
+
+
+
+
+                                                                                                        Packet Pg. 443
+

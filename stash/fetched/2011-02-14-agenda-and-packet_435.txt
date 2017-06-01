@@ -1,0 +1,59 @@
+                                                                                                                    a
+NACWA Comments on Docket ID No. EPA-HQ-OAR-2009-0559
+November 29, 2010
+Page 22
+
+
+   2. Ypsilanti, Michigan uses a carbon adsorption system.
+
+
+
+
+                                                                                                                        Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+       Both of these facilities reported serious abrasion and corrosion problems shortly after installation.
+Unless and until this technology is proven effective and reliable on both FBIs and MHIs, EPA should not
+consider it as a feasible beyond-the-floor control option.
+
+       D.      EPA Significantly Underestimated the Cost of Mercury Control Equipment
+
+       EPA’s cost estimate for the beyond-the-floor mercury control is unreasonably low. EPA determined that
+the MACT floor mercury limit would require just two of the 163 multiple hearth incinerators to install mercury
+controls. EPA proposes beyond-the-floor mercury controls for the other 161 MHIs. EPA estimates that these
+161 units could install mercury controls for an additional capital cost of $5,000,000 ($31,056 per incinerator)
+and an additional annualized cost of $32 million ($198,758 per incinerator). See 75 Fed. Reg. at 63276 (Table 8).
+These costs are wildly inaccurate. NACWA members estimate actual capital costs for multiple hearth units will
+exceed $4 million per incinerator.
+
+         First, EPA’s cost data assumes that activated carbon can be injected upstream of existing particulate
+control devices, and does not account for the installation of new fabric filters for each ACI installed. As
+explained above, ACI systems will require baghouses to collect the carbon injected by the ACI system and heat
+exchangers and/or boilers to reduce the exhaust gas temperature below 400 degrees Fahrenheit. However, no
+existing MHIs are equipped with baghouses for particulate control. Instead, all existing MHI units employ wet
+scrubbers. Wet scrubbers can become clogged by the injected carbon, and this carbon can also be released back
+into the POTW system through the recycling of the scrubber water to the POTW headworks. Any units
+equipped with ACIs will therefore require the addition of a baghouse, a fan to pull the exhaust through the
+fabric filters and a bag leak detection monitor. EPA does not account for these capital costs in its beyond-the-
+floor cost effectiveness analysis for mercury.
+
+         EPA must also consider the annual operating costs of a baghouse. This includes the significant cost of
+electricity to operate fans large enough to pull the exhaust through the fabric filters. EPA should also consider
+the mercury and other air emissions associated with the generation of this electricity when it determines
+whether this beyond the floor option yields a net environmental benefit. EPA must also consider the cost of
+replacement bags clogged by activated carbon.
+
+         EPA also fails to account for other costs associated with ACI mercury controls. The Metropolitan
+Council Environmental Services (St. Paul, MN) discovered during the design of its incinerators that exhaust gas
+temperatures leaving the incinerator are so high that carbon injected will combust before it has a chance to
+adsorb mercury. The Metropolitan Council Environmental Services, as previously reported, installed
+additional ductwork, along with heat exchangers and boilers to cool the exhaust gas before the activated carbon
+is injected. They also installed a contact chamber to ensure sufficient adsorption, followed by a fabric filter.
+These are complex systems that require significant engineering costs for site-specific design and installation
+oversight. EPA does not account for any of these additional costs in its assumed mercury control cost. NACWA
+members estimate $3.5 - 4 million for the minimum equipment necessary: a carbon contact chamber and a
+baghouse for each incinerator. Total capital costs for the 161 MH incinerators would be in the range of $564 -
+
+
+
+
+                                                                                                      Packet Pg. 435
+

@@ -1,0 +1,48 @@
+                          TRANSCRIPT
+the narrative you've described of people strolling down the street and not
+really using Wi-Fi, when you are walking past businesses that might each
+have their own very narrow range Wi-Fi, that absolutely makes sense. It's
+because there's no Wi-Fi that reaches across all of University that you walk
+from one coffee shop at the end of University up to a pub at the other end.
+You're not necessarily going to be—you can't use a single Wi-Fi spot. If we
+deployed a municipal Wi-Fi throughout the Downtown core or along Cal.
+Ave., would that allow people to use that same Wi-Fi as they move from one
+end to the other or running multiple errands and have some of the benefits
+that might come from it being municipal? Perhaps, greater dependability,
+not having to sign in, not having to go up to the cashier and ask what their
+Wi-Fi password is, and perhaps not worry that you're data is being used for
+private uses, although that raises all kinds of privacy issues for us as well, as
+far as how we use their data. I mean technologically is that viable? If
+somebody's logged in using our Wi-Fi, can they move smoothly across
+several blocks if it's a municipal Wi-Fi in a commercial area?
+
+Mr. Reichental: I mean, it would be based on what I've observed. That
+would be very viable for those two streets, to have a very dense Wi-Fi
+infrastructure and make it work as good as King Plaza and chambers right
+now. We would design it with sufficient density to make that work.
+
+Council Member Kniss: Leaving our City for a few minutes and thinking of
+some of the other cities that have gone into this or are attempting to go into
+this. I went to a conference about two years. I think Jim Fleming is here in
+the audience somewhere. One of the areas that we kept hearing about was
+the complexity of actually doing this when you got into it. While it sounds—I
+think it probably sounds very appealing to us. We already have our utilities.
+We cover all our own utilities. It looks as though this would be a terrific
+area. I have to say it really poured cold water on my enthusiasm for it,
+listening to what many cities have gone through in terms of lawsuits and so
+forth. Could you comment on that aspect of it which is the kind of
+unpleasant flip side of it? The other part is to talk about successful cities
+that you think are operating that would in some way be like Palo Alto.
+
+Ms. Hovis: Council Member, I started my remarks by saying we are really
+strong advocates of municipal options and municipal fiber to the home. At
+the same time, we are also realists working for the public sector. This is not
+for the faint of heart. It is just very challenging to do. If it were easy to
+make a business case in fiber to the home, we would have seen private
+capital coming into this market a lot sooner, given the growth of the internet
+in our economy.      One of the challenges that unfortunately incumbent
+carriers who oppose the emergence of competition have very effectively put
+                                                                         Page 33 of 130
+                                                                   City Council Meeting
+                                                                    Transcript: 9/28/15
+

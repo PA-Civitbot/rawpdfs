@@ -1,0 +1,49 @@
+                          TRANSCRIPT
+look at the most successful sharing systems are in Swiss and German cities.
+They made one very simple change. Parking is bundled into the car share
+per mile. If I drive a shared vehicle in Munich, I can pick up the closest one
+that I find based on my app. I drive it one way, and I can park it in any
+legal parking space without having to worry about parking fees. The next
+guy can pick it up from that parking space, drive it somewhere else, and
+park it in any legal parking space. It doesn't mean giving up the City
+revenue. The operator for the car system is paying for these cars to be
+parked on the City and is paying a lump sum essentially. The user is being
+charged on an all-in per mile basis. We're not talking about sacrificing
+revenue. We're just talking about making it super convenient to share cars
+and not have to worry about parking spaces. That's something we could
+immediately start here. I want to show you how that unfolds in the rest of
+the system. Remember it's $1 all-in out of my pocket to drive, and it's $1 as
+a taxpayer for the infrastructure. How do we get to this nine cents a mile?
+Let's deploy all these technologies at once. I'm fast forwarding here a
+couple of years obviously, because not all of these are in broad penetration
+yet. Autonomy, Google car, reduces all the human-caused accidents, all the
+inattention, the errors, the breaking the traffic laws, 90 percent reduction in
+accidents. My connected car allows me to route around traffic. Anybody
+who uses Waze gets some of this benefit today. The intermodal apps. allow
+me to integrate my car with transit and book a parking space or convert
+from a two-wheeler that I rent to Caltrain. Going electric takes me from
+that one percent efficiency or about 15 percent efficiency for the whole
+system to somewhere around 70-80 percent efficiency, because batteries
+and electric motors are more efficient. Now I save most of my fuel. The
+single biggest lever is the sharing, four percent utilization today. If you look
+at Hertz or Enterprise or any good rental car fleet, they're about 60 percent
+utilization. That's a 15-fold increase, which if you flip that around and say
+now the car costs 1/15th as much to really drive per mile. Where it gets
+really exciting is I start putting these together. If I do it all at once,
+something I call Autonomous, Connected, Electrified and Shared (ACES),
+autonomous connected electrified and shared, that's really the ace. If I have
+connected and autonomous, I can suddenly change the space in between the
+cars. The reason our freeways have so little capacity is because I need eight
+or nine car lengths for humans to drive safely. There's a company up in
+Redwood Shores called Peloton that's already doing this for trucks, driving
+them a couple of feet apart from each other. They're linked electronically;
+they stay in sync between the trucks.           We could do the same with
+autonomous vehicles. Just to give you why is this shocking in terms of
+planning, every road gets an eight-fold increase in capacity. Four-lane 101
+turns into a 32-lane superhighway in terms of today's capacity. It matters
+because when this happens, we'll never build another road; we'll just
+increase capacity on existing roads. Obviously not going to happen this year
+                                                                         Page 29 of 113
+                                                                   City Council Meeting
+                                                                    Transcript: 1/25/16
+

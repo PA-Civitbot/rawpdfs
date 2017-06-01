@@ -1,0 +1,49 @@
+                          TRANSCRIPT
+They've developed some complementary methods that go along with that, to
+think about bicycle and pedestrian travel as well as transit. You can see
+from the pictures really the concepts that they're after, where you're talking
+about from free-flow level, Level of Service A-B, to congested, Level of
+Service E-F, with similar concepts applied for bicyclists and pedestrians as
+well. Do you have a lot of space? Do you have a little bit of space? Is there
+traffic that's conflicting with you or do you have your own space? Questions
+like that. It's a great kind of concept, and one that certainly, I think, sets off
+a bit of a revolution in terms of thinking more systematically about how we
+do analysis for these alternative modes. One of the nice things about it is
+really this sort of comparable picture. We can grade every mode and
+understand for any given street or highway how it supports different modes
+of travel. It certainly considers interactions across modes. It's consistent.
+If you could use this, you would use it consistently across different analysis
+levels. A couple of the challenges with it are that the meanings across the
+levels for different modes are not necessarily clear. The whole congestion
+and space concept that makes sense for automobiles might not make sense
+for pedestrians. On the one hand, if you're walking down a very crowded
+sidewalk, you might think of that as a low level of service. At the same
+time, you might think of that as a busy downtown area that you want to be.
+Those are very different kinds of concepts and issues you want to think
+about when you're picking your metrics for doing this kind of analysis. The
+modeling itself was really developed around typical automobile modeling,
+which is more arterial, major collector focused as opposed to local streets.
+Of course, a lot of bicycling, a lot of walking really happens more on local
+streets. Just overall, there's a little bit of a lack of connection to that user
+perspective that we think is pretty important. Just quickly, give you a
+couple of examples of what these kinds of analyses look like. This is a
+bicycle level of service map for Jacksonville, Florida. It gives you a sense of
+the way different links are rated to understand are they higher or lower level
+of service. It can be great, because it identifies where some of your needs
+are. These are areas. If you wanted these to be areas where people are
+bicycling, they might identify some of the challenges and problems that you
+would have. You can do a similar map for pedestrian as well. Some other
+related methods that are similar to the multimodal level of service.
+Charlotte has a method that's really about evaluating the impact of roadway
+projects on alternative modes. If you're going to have a certain type of
+project, how will that impact the likely safety and comfort of bicyclists or
+pedestrians using that facility, and what are maybe then some mitigating
+strategies you might want to use? San Francisco has this thing they call
+(inaudible), which is about how the physical environment impacts where
+people walk and bike, looks at traffic and street design and land use and
+perceived safety, a lot of different characteristics that go into determining
+how and where people like to bicycle and walk. Just one quick example from
+                                                                           Page 7 of 120
+                                                                    City Council Meeting
+                                                                     Transcript: 9/19/16
+

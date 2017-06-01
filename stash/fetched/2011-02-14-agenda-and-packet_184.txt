@@ -1,0 +1,65 @@
+                                                                                                              10.b
+California Avenue Lane Reduction – Traffic Analysis Report                                                      
+
+
+Unsignalized Intersections
+Level of service at unsignalized intersections also is based on the 2000 Highway Capacity
+Manual (2000 HCM) method. The TRAFFIX software is used to apply the 2000 HCM
+operations method for evaluation of conditions at unsignalized intersections. The delay
+
+
+
+
+                                                                                                                     Attachment: Attachment B: Hexagon - Cal Av TIA Report (No Appendices) (1320 : California Avenue Neg Dec and CIP)
+and corresponding level of service at unsignalized, stop-controlled intersections is
+presented in Table 2. The reported LOS represents the average delay of all intersection
+movements.
+
+Table 2
+Unsignalized Intersection LOS Based on Delay
+
+
+     Level of Service                   Description                   Average Delay Per Vehicle (Sec.)
+
+
+            A                      Little or no traffic delay                   10.0 or less
+
+            B                        Short traffic delays                       10.1 to 15.0
+
+            C                      Average traffic delays                       15.1 to 25.0
+
+            D                        Long traffic delays                        25.1 to 35.0
+
+            E                      Very long traffic delays                     35.1 to 50.0
+
+            F                       Extreme traffic delays                   greater than 50.0
+
+Source: Transportation Research Board, 2000 Highway Capacity Manual (Washington, D.C., 2000) p17-2.
+
+
+
+
+Link Level of Service
+Roadway links were analyzed using volume to capacity (V/C) ratios. The volume was
+measured in the field using recent traffic counts. The volumes used for the analysis were
+based on the day of the week with the highest daily traffic volume, which for all study
+segments was Friday, November 5th 2010. Using the highest day’s traffic data, the counts
+were further disaggregated into AM, Midday, and PM peak hour volumes. The capacity of
+each study segment was derived from the Highway Capacity Manual, 2000 published by
+the Transportation Research Board. According to the Highway Capacity Manual, an urban
+minor arterial (Class 4) has an approximate capacity of 800 vehicles per hour (Table 10-7).
+However, because of the presence of on-street parking, an additional reduction in capacity
+was applied per the publication, Parking, by Weant and Levinson (Table 11-1). Thus, for
+this analysis, each two lane directional segment was assumed to have a capacity of
+approximately 1,360 vehicles per hour and each one lane directional segment was
+assumed to have a capacity of 560 vehicles per hour. For each link, the peak hourly
+volume was divided by the capacity to calculate a V/C ratio. This was then correlated to a
+level of service per Table 3.
+
+
+
+
+                                                                                         10 | Page 
+
+                                                                                                      Packet Pg. 184
+

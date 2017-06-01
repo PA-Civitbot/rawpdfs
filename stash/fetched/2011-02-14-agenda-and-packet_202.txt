@@ -1,0 +1,73 @@
+                                                                                                                                     10.b
+California Avenue Lane Reduction – Traffic Analysis Report
+
+
+The results of the volume to capacity analysis are summarized in Table 8. After conversion
+from four lanes to two lanes, all of the study segments on California Avenue would operate at
+Level of Service A or B during the weekday AM, midday, and PM peak hours, despite the
+reduction in capacity. Thus, according to the City of Palo Alto level of service standards, the
+
+
+
+
+                                                                                                                                            Attachment: Attachment B: Hexagon - Cal Av TIA Report (No Appendices) (1320 : California Avenue Neg Dec and CIP)
+proposed lane reduction would not result in any adverse LOS impacts to California Avenue.
+Table 8
+Roadway Segment LOS with California Avenue Lane Reduction
+                                     Highest                Weekday                Existing                      Project
+                                    Weekday      Count       Peak           # of            V/C        # of             V/C
+Segment                 Direction   Count Day    Date        Hour   Volume Lanes Capacity Ratio LOS   Lanes Capacity   Ratio   LOS
+
+El Camino Real to Ash
+Street                    EB         Friday     11/5/2010    AM      140     2     1,360   0.10   A     1     560      0.25     A
+                                                            Midday   242     2     1,360   0.18   A     1     560      0.43     B
+                                                             PM      190     2     1,360   0.14   A     1     560      0.34     B
+                          WB         Friday     11/5/2010    AM      200     2     1,360   0.15   A     1     560      0.36     B
+                                                            Midday   230     2     1,360   0.17   A     1     560      0.41     B
+                                                             PM      233     2     1,360   0.17   A     1     560      0.42     B
+Ash Street to Birch
+Street                    EB         Friday     11/5/2010    AM       84     2     1,360   0.06   A     1     560      0.15     A
+                                                            Midday   181     2     1,360   0.13   A     1     560      0.32     B
+                                                             PM      141     2     1,360   0.10   A     1     560      0.25     A
+                          WB         Friday     11/5/2010    AM      176     2     1,360   0.13   A     1     560      0.31     B
+                                                            Midday   244     2     1,360   0.18   A     1     560      0.44     B
+                                                             PM      221     2     1,360   0.16   A     1     560      0.39     B
+Birch Street to Park
+Avenue (W)                EB         Friday     11/5/2010    AM       65     2     1,360   0.05   A     1     560      0.12     A
+                                                            Midday   127     2     1,360   0.09   A     1     560      0.23     A
+                                                             PM      117     2     1,360   0.09   A     1     560      0.21     A
+                          WB         Friday     11/5/2010    AM      113     2     1,360   0.08   A     1     560      0.20     A
+                                                            Midday   152     2     1,360   0.11   A     1     560      0.27     B
+                                                             PM      136     2     1,360   0.10   A     1     560      0.24     A
+Park Avenue (W) to
+Park Avenue (E)           EB         Friday     11/5/2010    AM       51     2     1,360   0.04   A     1     560      0.09     A
+                                                            Midday    82     2     1,360   0.06   A     1     560      0.15     A
+                                                             PM       69     2     1,360   0.05   A     1     560      0.12     A
+                          WB         Friday     11/5/2010    AM       97     2     1,360   0.07   A     1     560      0.17     A
+                                                            Midday   170     2     1,360   0.13   A     1     560      0.30     B
+                                                             PM      196     2     1,360   0.14   A     1     560      0.35     B
+
+
+
+
+Traffic Diversion
+With any change to the roadway network there is the potential for traffic diversion. Traffic
+diversion normally occurs when a proposed roadway network change would significantly alter
+the vehicle delays in a corridor. As previously described, all of the intersections and roadway
+segments on California Avenue, east of El Camino Road, would operate at LOS A or B with or
+without the proposed lane reduction. Thus, there would remain plenty of capacity for vehicular
+traffic on California Avenue even with the lane reduction. For this reason, no measurable
+traffic diversion to other streets is anticipated.
+It should be noted that the existing volumes on the adjacent streets parallel to California
+Avenue, Cambridge Avenue and Sherman Avenue, are lower than California Avenue. Since
+these volumes are low, even with the proposed lane reduction, the intersections of Birch
+Street & Cambridge Avenue and Birch Street & Sherman Avenue would operate at LOS A for
+all peak periods.
+
+
+
+
+                                                                                                            28 | Page 
+
+                                                                                                                           Packet Pg. 202
+

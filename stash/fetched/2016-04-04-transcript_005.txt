@@ -1,0 +1,49 @@
+                          TRANSCRIPT
+laptops and smart phones, and use data to completely change the game
+around a really difficult problem to solve. That's the sort of theme this
+evening that I want to talk about, and one of the themes we're seeing in
+local governments and governments around the U.S. and around the world.
+I want to talk about this topic real briefly called open data. I'm pretty
+confident you've heard the term in your travels and probably heard it here at
+the City more than once. Open data ultimately is a responsibility that cities
+are now living up to, to make the data that they store on behalf of their
+communities available to their communities. This data, by the way, is not
+secure data or regulated data. This is the public data that everybody should
+have easily accessible to them. The one thing that cities have in absolute
+abundance is data. In a world of constraints, we have enormous volumes of
+data here in Palo Alto, in the cities around here and at public agencies across
+the world. One of the things about open data is a couple of definitions that
+are important. The data should be in its most basic format, available to
+everybody, and it should be machine consumable. That's a very fancy term
+for meaning that computers can use the data easily. You can import it into
+analysis programs and import it into financial programs and into
+applications. Here at the City of Palo Alto, we've embraced open data now
+for almost four years. We have a lot of different types of data. Just this
+slide illustrates sort of three different types of data sets that we make
+available to our community.          We have a rich set of our geospatial
+information. This is everything about our roads and our streets and our
+signage and our pipes and all sorts of things that make up the infrastructure
+of the City. We've a whole lot of core data I'll talk about in a second. We
+also have an open data budgeting platform which today contains five years
+of budgeted and actual data available to anyone who wants it. It's in a
+format that's highly accessible. It's in the form of visualizations, but also in
+a basic form that people can import in Microsoft Excel. If they want to do
+their own analysis, they're now empowered to do it. Our open data work
+has been recognized around the world in many different forums, including a
+number of awards. Our financial data program, which we call Open Budget,
+has won a couple of awards with the Government Financial Officers
+Association. Our Colleagues in Administrative Services Department (ASD),
+under Lalo Perez's leadership, has done great work. What is this open data?
+If you go to our website from any device anywhere in the world, at
+data.cityofpaloalto.org, which I have up on the screen, you can see we have
+quite a different set of data. We have multiple decades of library data that,
+if you so choose to evaluate and analyze, you can access right now. Anyone
+in the world can do that.           We have information about emergency
+preparedness and energy and crime. All of our Business Registry data that's
+public is available right now. One of the areas of great interest is all of the
+City's employees' salaries are easily accessible and made available each year
+on our open data platform. As an example just to kind of put substance
+                                                                          Page 5 of 107
+                                                                   City Council Meeting
+                                                                     Transcript: 4/4/16
+

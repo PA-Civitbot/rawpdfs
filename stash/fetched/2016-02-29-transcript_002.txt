@@ -1,0 +1,49 @@
+                         TRANSCRIPT
+his hand there. He's relatively new to the City, and he's running our
+Systems, Applications and Data Processing (SAP) systems and our
+Geographic Information System (GIS) system. I also wanted to recognize
+Ganjin [phonetic] who is the Project Manager, to his left—hi there—who is
+running this project so well for the City. I came to the City Council in late
+2013, early 2014, I believe, to first propose that we take a look at our SAP
+systems. When I first joined the City, one of the first questions I got from
+many of you and colleagues was what are we going to do with SAP. My
+answer was nothing yet, let me take a look at it and talk to the right people
+and evaluate it and stabilize it. We did that, and then we realized it was
+time to look out to the future, so we started that work. We brought in a
+company to evaluate our current state, what was the current state of our
+core system and what should we do, should we do nothing, should we
+actually do something about it, should we make investments in the future.
+Here's what the results said. Just before I actually get to the results, it's
+useful if I tell you a little bit about what SAP is. It's obviously a vendor
+name for a set of software that provides some core services at the City. For
+example, our Administrative Services uses it to do payroll every two weeks
+and purchasing.       Our Utilities uses it for billing management, work
+management, for doing the reporting.            Our Human Resources (HR)
+organization uses it to support HR processes. Public Works uses it for refuse
+and recycle billing. Every Staff member pretty much uses it to enter their
+time every two weeks, what they're doing, and that's how they get paid. It's
+used for a wide variety of very core features at the City. Just to give you a
+sense of its scale, we have about 320 systems at the City, individual
+computer systems. Twenty-nine of them touch the services I just talked
+about. There are 29 systems that are integrated with SAP. SAP talks to
+about 14 other systems outside the City. For example, our credit cards, the
+CalPERS, our retirement program and some utility reporting, energy
+reporting that we do that's both regulatory and also useful to our community
+members. We spend $3 million on SAP approximately each year; $2 million
+of that is the labor involved in supporting all the processes, and about $1
+million is for software maintenance. Hopefully that gives you a good sense
+of the scale of what we're talking about today. I will also say that I know
+SAP, since it first rolled out in 2001, was somewhat bumpy. There were
+times when the system didn't work the way we expected. Since I joined
+about 4 1/2 years ago, we've brought it to a very stable place. Largely, SAP
+is sort of a quiet system. You never hear from me about it. I do want to
+say, as we sit here today, the system is stable and does the things it's
+supposed to do. I often say it's ugly, but it works based on the version we
+have. Payroll is made every two weeks. We run our Utilities using SAP.
+Clearly there are limitations to it that I'll now illustrate to you. The world
+has changed since we rolled out SAP in 2001. That's 15 years ago. There's
+a lot of new tech. We also found that the cost of running these big systems
+                                                                          Page 2 of 66
+                                                                 City Council Meeting
+                                                                  Transcript: 2/29/16
+

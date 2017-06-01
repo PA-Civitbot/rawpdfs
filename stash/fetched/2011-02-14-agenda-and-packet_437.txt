@@ -1,0 +1,59 @@
+                                                                                                                     a
+NACWA Comments on Docket ID No. EPA-HQ-OAR-2009-0559
+November 29, 2010
+Page 24
+
+controls could discourage this advanced energy option, resulting in more coal combustion and more mercury
+emissions.
+
+
+
+
+                                                                                                                         Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+        EPA’s rush to develop the Proposed Rule has resulted in an improper baseline emissions estimate for
+SSI mercury, inadequate assessments of the feasibility of mercury control as applied to SSIs, and a significant
+underestimate of the cost of mercury controls for this sector. EPA is compelled to explore alternative, less
+costly ways to decrease mercury emissions before imposing beyond the floor controls. Therefore, EPA’s beyond
+the floor mercury limits are not justified by the record and should be removed from the final rule.
+
+V.      EPA’S MACT FLOOR METHODOLOGY IS F LAWED
+
+         In setting emission standards under § 129, EPA is obligated to start with an analysis of the performance
+of existing sources. From that analysis, EPA is required to determine the “MACT floors,” which for new units is
+“the level of control that is achieved in practice by the best controlled similar unit” and for existing units is “the
+average emissions limitation achieved by the best performing 12 percent of units in the category… .” CAA §
+129(a)(2). EPA can set standards more stringent than the MACT floor only after considering cost, energy and
+other factors. EPA’s assessment of existing source performance was insufficient to set accurate MACT floors.
+
+        A.      EPA Does Not Have Enough Valid Data to Establish Lawful and Proper MACT Floors
+
+        EPA’s rush to regulate SSIs has left the Agency with inadequate data to assess existing performance
+among SSIs. EPA chose to limit its ICR to just nine entities because collecting information from ten or more
+entities would have triggered the PRA obligations and a more rigorous OMB review. See 44 U.S.C. 3502(3)(a)(i)
+(defining the threshold term “collection of information” as a request “imposed on ten or more persons” other
+than federal agencies.) EPA’s plan to circumvent the PRA and OMB review resulted in an inadequate dataset for
+this rulemaking that leaves EPA unable to reliably take the first necessary step in a § 129 rulemaking: to
+determine which of the SSIs are the best performing sources. EPA has built a statistical house of cards on this
+flawed foundation, which undermines the legality and scientific credibility of the emission standards set forth
+in the Proposed Rule.
+
+        As a consequence of EPA’s limited data collection effort, the dataset available for this rulemaking
+contains actual data from less than 12 percent of the population of sources in each subcategory. Even if all of
+the data collected could somehow be attributed to top performers, EPA would be unable to determine based on
+actual data the average performance of the top 12 percent as is required for the existing source MACT floor. See
+ERG Memo, MACT Floor Analysis for the Sewage Sludge Incinerator Source Category at 6 (June 2010) (“MACT Floor
+Memo”). In fact, EPA is using actual data from as little as 4.3 percent of a subcategory (7 of 163 MH units for
+HCl) to determine how the top 12 percent perform.
+
+        The way that EPA targeted its data collection undermines its ability to use statistics to fill data gaps.
+EPA targeted its ICR to the nine POTWs “expected to have the lowest emissions based on the type of unit and
+the installed air pollution controls.” See MACT Floor Memo at p. 6. EPA then uses statistical methods that
+predict the distribution of all data based on a sample set. This statistical method relies on random sampling of
+representative data. See Attachment F of the NEORSD Comment on Proposed Rule. EPA’s targeted approach
+to collecting data from expected top performers undermines its ability to presume the data is a random sample
+
+
+
+
+                                                                                                          Packet Pg. 437
+

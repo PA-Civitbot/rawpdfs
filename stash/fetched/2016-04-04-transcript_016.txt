@@ -1,0 +1,50 @@
+                          TRANSCRIPT
+We haven't established, for example, uniform standards across the whole
+organization; although, we talk about both that and being able to have more
+analytics and measurement ourselves as an organization as to what we're
+doing. We defaulted to saying we'd rather start getting more feedback from
+the community, and then modify and design our responses rather than
+trying to figure out how to design it all in advance and then go out to the
+community. It's an ongoing process. I would say we're still constantly
+learning. We made some adaptations recently that I've been complaining
+about, about adding too much input that, I think, a user would feel it gets
+onerous. You know what I mean? You're asking for too much information.
+We're kind of constantly getting feedback from our users in making
+modifications.
+
+Council Member Holman: What you're saying is it started out with Public
+Works, which makes sense, and now it's been deployed over, say, Utilities,
+Planning. Other departments are utilizing the 311 now as well.
+
+Mr. Reichental: Yes, all community-facing services are now.
+
+Mr. Keene: Just for example—again, this seems like hodgepodge because
+it's been evolving and things are nested within here. There's bicycle, City
+building maintenance, Code Enforcement, computer issue, dangerous
+condition, debris in parking garages, debris in roadways, drought,
+waterways, environmental issue, graffiti removal, health hazard, homeless,
+illegal dumping, leaf blower enforcement, missed street sweeping, noise
+complaint, storm drains, street lights and traffic signals, sidewalk. All of
+those pop up in the drop-down menu.
+
+Council Member Holman: You have a demo?
+
+Mr. Reichental: Massive risk in doing this, but we'll do it.
+
+Council Member Holman: We're forgiving as well as demanding.
+
+Mr. Keene: Go into the City Council portal that we put up—no, just kidding.
+
+Mr. Reichental: To be cognizant of the time, I'll just do two demos real fast.
+The first is the open data website, which you could get to by typing
+data.cityofpaloalto.org. That takes you to this page here which is sets of
+data that are logically grouped around major areas, City services, library.
+I'm actually just going to go, because it's topical, to Palo Alto 311. Hoping it
+all behaves nicely. It's going to take a moment just to spin up the different
+reports. This is data that's called near real time; data created this afternoon
+on Palo Alto 311 should be showing up here. Let me see if there's anything
+interesting to show you.       Down here, this is probably—I'm struggling
+                                                                         Page 16 of 107
+                                                                   City Council Meeting
+                                                                     Transcript: 4/4/16
+

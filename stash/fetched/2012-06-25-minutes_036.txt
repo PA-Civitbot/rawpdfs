@@ -1,0 +1,49 @@
+                               MINUTES
+   2. Initiate zoning ordinance amendments to address height and site
+      development standards for such facilities, and to provide for
+      expeditious review of such projects and subsequent collocations; and
+   3. Explore and develop incentives for use of the facilities, including a
+      ministerial permit review process, favorable lease rates, and
+      streamlined utility and encroachment permit reviews, for consideration
+      with the zoning ordinance amendments; and
+   4. Return to Council in 6 months with specifics of proposal and related
+      ordinances.
+
+Council Member Shepherd felt these were the right types of steps to answer
+the question of coverage within Palo Alto. The design of the DAS system
+was for single users only. The Council might need to expand that to other
+carriers, which meant more DAS units. She asked if Staff had considered
+that in this information.
+
+Mr. Williams believed a logical component of the RFP would be review of
+single carrier DAS and multiple carriers.
+
+Council Member Shepherd inquired whether the Motion should include space
+for the City's emergency radio and/or wireless communications.
+
+Mr. Williams reported Staff would ask that proposals address that factor.
+Staff would consider proposals that best included that kind of set up.
+
+Council Member Shepherd noted the Motion did not include that language.
+
+Mr. Williams stated it would be a component of the RFP.
+
+Council Member Shepherd asked if the City would have to pay for expansion
+of fiber for backhaul.
+
+Mr. Marshall indicated a portion could be charged to system expansion and a
+portion could be charged to carriers for extending fiber as a new customer
+on the fiber system. The City typically charged the customer for the
+extension.
+
+Council Member Shepherd inquired whether a carrier would be considered a
+customer at the substation and would have to extend fiber.
+
+Mr. Marshall noted all substations had fiber. He meant extensions to DAS
+locations.
+
+Council Member Shepherd asked if fiber currently extended to DAS locations.
+
+
+06/25/2012                                                           111-109
+

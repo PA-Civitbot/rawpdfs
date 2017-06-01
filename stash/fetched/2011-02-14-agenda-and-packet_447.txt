@@ -1,0 +1,62 @@
+                                                                                                                                      a
+NACWA Comments on Docket ID No. EPA-HQ-OAR-2009-0559
+November 29, 2010
+Page 34
+
+
+        As noted in Part I.A., supra, POTWs are already subject to comprehensive management practices, strict
+
+
+
+
+                                                                                                                                          Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+health-based sludge content limits, and NESHAPs under CWA § 405 and the Part 503 regulations. Annual
+stack testing is not necessary to ensure compliance with emission limits, and such frequent testing would
+disrupt normal operations that are providing a critical public service.19 The final rule should require stack
+testing no more than once per permit term. Minimizing the cost and disruption of stack tests will help alleviate
+the burden on municipal entities and reduce interference with operations without increasing risks to human
+health and the environment.
+
+         B.       The Relatively Inert Characteristics of Sewage Sludge Do Not Justify Stringent Operating,
+                  Monitoring and Recordkeeping Requirements
+
+        EPA attempts to make the monitoring requirements in the Proposed Rule consistent with those in the
+Hospital/Medical/Infectious Waste Incinerators (“HMIWI”) rule. See Cost and Emission Reduction Memorandum at
+4. However, the waste combusted in HMIWI units is completely different from the waste combusted in SSIs.
+There are no similarities between the two waste streams that justify basing SSIs rules on rules developed for
+infectious waste. EPA’s decision to base monitoring and recordkeeping requirements for SSI units on those
+developed for HMIWI units simply because they are both incinerators is arbitrary and capricious.
+
+        Daily pressure taps, as proposed by EPA, are not necessary or feasible for SSI units. Disconnecting
+pressure taps from related parameter monitoring equipment can trip safety mechanisms and cause the system
+to shut down. Causing daily shutdowns of the system is an unreasonable interference with POTW operations.
+Furthermore, operators have not encountered problems with clogged taps, making daily checks unnecessary.
+
+         C.       SSI Operations Respond to External Factors Affecting Operating Parameter Values That
+                  Cannot Be Kept Within an Arbitrarily Designated Range.
+
+        EPA has also set operating parameters that will be impossible for most SSI operators to meet. EPA
+proposes to set operating limits based on the operating parameter values during stack tests. As indicated above,
+stack tests take a snap shot of a highly variable process. It is unreasonable for operating parameters to remain
+within plus or minus 10 percent of the minimum or maximum value generated during a stack test. SSI feed
+rates and moisture contents necessarily vary widely depending upon the amount of wastewater that is coming
+into the POTW. During storms and other high flow events, the POTW is working hard to keep up with the
+influent and the sewage sludge feed rates and moisture content are necessarily on the higher end of the normal
+range. During low flow periods, SSIs may operate significantly below maximum feed rates with sewage sludge
+moisture at the low end of the normal range. POTWs are responding to external events and cannot control
+these variables sufficiently to stay within a designated range. To accommodate site-specific variation, operating
+and maintenance parameters should be established in site-specific operating plans that focus on the parameters
+that correlate with control device efficiency.
+
+         D.       Use of a Bypass Stack Does Not Indicate a Deviation for All Emission Standards
+
+19
+   EPA requires performance testing less frequently than annually in several MACT rules. See, e.g., NESHAP for Coke Ovens: Pushing,
+Quenching, and Battery Stacks, 40 CFR. § 63.7321 (testing twice per permit term); NESHAP for Lime Manufacturing Plants, 40 CFR. §
+63.7111 (testing every 5 years); NESHAP for Iron and Steel Foundries, 40 CFR. § 63.7731(a) (testing every 5 years).
+
+
+
+
+                                                                                                                        Packet Pg. 447
+

@@ -1,0 +1,49 @@
+                          TRANSCRIPT
+Townsend depot.        They're not using all their trains.       It's purely for
+Operational Budget reasons and a little bit for schedule constraints which I
+want to talk about. The left is what's happened historically. You can see
+here the ridership data for different stations pre and post the introduction of
+the baby bullet. Everybody knows the baby bullet's a great story. We got
+great service, faster service, and suddenly we had this increase in ridership.
+It's true for Palo Alto, Castro Street, the stations that have baby bullet
+service, a massive increase in ridership that's driven an increase in ridership
+in aggregate, but we lost some stations. California Avenue diminished
+dramatically in this change because it gets hourly service now. Now you
+really have to check the schedule and plan. You're actually likely to come to
+Downtown Palo Alto by car just to take the Caltrain. It doesn't have to be
+this way. This is a project one of my graduate students did on the right-
+hand side. If you ran a mixed-schedule—any of you who have been to New
+York have seen local and express mixed on tracks. We can do the same
+thing here. Redwood City is a four-track location that could be a junction
+node. If you ran this kind of model, an express and a local on the same
+tracks, you could increase capacity by 10-15 percent. Another option is you
+change our engines. I show you this ancient chart of the Southern Pacific
+Railroad schedule. This is the current Caltrain line. It's fascinating. If you
+go back 100 years, these are steam engines remember. Our schedule is the
+same or a minute slower. By the way, in 1865 we were the cutting edge of
+transportation. We really were. That was with the latest train engines.
+They had the fastest service. They were fabulous. We just haven't kept up.
+As I said, we innovate in every other area. We need to innovate in this area
+again. On the right is a concept for a train operator that has made an offer
+to Caltrain to basically on a commercially funded basis—this is private capital
+funding these trains—can operate an in-fill service that adds to Caltrain.
+This is not Caltrain trying to raise public money; this is a private operator
+that says, "I’m going to add trains funded by private capital." You can see
+here we could reconnect across the bay, across the bridge. We could run
+service to our tech companies like Facebook and Google, and we could get
+added service to Palo Alto. The secret here is the engine's different. These
+are diesel-electric Electric Multiple Units (EMU), so they could be done before
+full electrification. Electrification gets you the same kind of benefit. Now
+you can have an electric train chasing the bullet. Because it's electric, it
+accelerates and brakes faster. It can actually keep up with the bullet but
+make more stops. Suddenly I increase the number of trains, I increase
+service levels. We can't quite get to seven minutes this way without going
+all electric, but we can get down to about 10 minutes which actually starts to
+be at the point where you say, "Maybe I don't have to check the schedule."
+Of course as anybody who has ridden Caltrain in the morning commute
+knows, those baby bullets are at 120 percent capacity, no seats available.
+We actually need that extra capacity in the peak time. Interestingly, if
+                                                                         Page 25 of 113
+                                                                   City Council Meeting
+                                                                    Transcript: 1/25/16
+

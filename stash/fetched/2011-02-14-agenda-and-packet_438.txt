@@ -1,0 +1,60 @@
+                                                                                                                   a
+NACWA Comments on Docket ID No. EPA-HQ-OAR-2009-0559
+November 29, 2010
+Page 25
+
+representative of the entire source category or subcategory. If the data gathered is not representative at the
+outset, then the data cannot reliably be used in a statistical equation to predict the emissions data across the
+
+
+
+
+                                                                                                                       Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+source category or subcategory. Thus, EPA improperly limited the data it considered and therefore cannot
+accurately determine the range of performance for the category or subcategory to determine the top 12 percent
+of the existing source subcategories.
+
+        NACWA members have determined a number of errors in the data used by EPA in this rulemaking.
+Specific references to these errors will be in the comments of those members from whom the data were collected.
+The errors are an indication of inadequate quality assurance and quality control on the data in the database.
+EPA should not rely on this public comment process for its check on the quality of the data it relies upon in this
+rulemaking. EPA should take the time to collect sufficient data so that outliers are readily apparent and
+properly excluded. EPA should also subject the data to a rigorous quality assessment to establish their validity
+before relying on them to create enforceable limits.
+
+       B.      EPA’s Data are not Sufficiently Representative to Establish Lawful and Proper MACT Floors
+
+        To make up for its lack of actual data, EPA tries to extrapolate from the data it has by claiming that it is
+representative of the source category. This approach fails because the data are not representative of the regional,
+seasonal and day-to-day variability of sewage sludge. EPA inexplicably characterizes sewage sludge as a
+“homogeneous” material (see MACT Floor Memo at 6), in an apparent attempt to support its extrapolations.
+EPA’s only claim of support for this characterization is that sewage sludge concentrations are capped by the
+CWA regulations under Part 503. A closer look at Part 503 data confirms the common sense conclusion that
+domestic sewage is an unpredictable and highly variable source that generates heterogeneous sewage sludge
+that cannot be characterized by EPA’s stack test database composed of snap shot measurements over 3-4 hours
+on a single day during the winter.
+
+        Unlike other types of industrial and commercial incinerators that EPA regulates under CAA § 129,
+POTWs – and their SSIs – are statutorily obligated to manage all of the sewage that enters into the sanitary
+sewer system. Many different entities and individuals have virtually unlimited access to the POTW through
+thousands of toilets, sinks and drains throughout the system that flow into the treatment works. The screening
+system at the headworks of the POTW filters out wood and stones and other large debris, but dissolved material
+and small particles enter the treatment works and ultimately end up in the sewage sludge. This results in highly
+variable and often unpredictable spikes in concentrations. POTWs are designed to clean and protect water
+resources, so treatment focuses on removing metals and other compounds from the wastewater and capturing
+them in the sludge. The result is a highly variable and heterogeneous waste stream.
+
+        POTW inlet concentrations also vary based on the nature and type of dischargers. POTWs treat
+wastewater from residential, commercial and industrial dischargers in varying degrees. POTWs that are
+dominated by residential customers will have a different range of sludge constituents than those with
+significant commercial and industrial dischargers. Some POTWs have significant industrial dischargers that
+contribute constituents in their wastewater that result in sludge concentrations unlike other POTWs.
+Pretreatment opportunities also vary because POTW authority to control discharges into the sewer system is
+limited and the way that authority is exercised varies. Finally, the nature of sewage entering the POTW changes
+over time as the character of a community changes, the age of the population changes, and commercial and
+
+
+
+
+                                                                                                       Packet Pg. 438
+

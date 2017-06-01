@@ -1,0 +1,49 @@
+                          TRANSCRIPT
+prerogatives are not limited in any way when it comes to communications
+infrastructure and opportunity and to support the position that no entity
+other than a city or county or town through its elected representatives
+should make a decision about how it proceeds in broadband. Certainly not a
+company located many states away or even a state legislature; local elected
+officials are closest to their constituents. We've long advocated for that
+position. That's a little bit of background on how we come to this process
+and our background in this field. The work that we undertook here at the
+direction of your Staff was to evaluate what the implications were, what the
+costs were, the potential opportunities, the risks and the challenges of
+municipal efforts in both fiber to the home and wireless and, based on our
+experience and our expertise, to give you the best data possible that we
+could to enable you to come to the best decision. Let me start by saying
+that you have an extremely successful dark fiber network here that is well
+operated and has been a leading network across the country as a model for
+other municipalities. I think that track record is probably self-evident. What
+we sought to do is to see how the existing fiber and that opportunity could
+inform your efforts in fiber to the home and wireless and to look at some of
+the challenges including some of the potential likely challenges from the
+incumbent phone and cable companies which have traditionally rather
+aggressively opposed municipal efforts in this space. Hence the need, for
+example, for the Coalition for Local Internet Choice that I spoke about a few
+minutes ago. Also to give you some cost estimates, both capital and
+operating, around what it would take to build these networks based on our
+experience throughout the United States and then also on the national fiber
+to the home network in New Zealand. Let me start by talking about some of
+the terminology we will use. We talk about a municipal overbuild which is
+what was contemplated here in the context of fiber to the premises. I use
+the term fiber to the home interchangeably with fiber to the premises.
+Essentially, what we're talking about is direct fiber optic connections into all
+homes and all businesses. That's a terminology thing. If I say fiber to the
+home, I mean the entirety of the community including the business market.
+The term overbuild is the one that refers to a second or a third builder
+coming into a market and building a wireline broadband network where one
+already exists. Given that there is a cable network here that reaches almost
+all homes and businesses, the next network to enter would be an overbuild.
+You actually have two existing wireline networks, one built by the phone
+company using a much older technology and one built by the cable
+company. The challenge with municipal overbuilds is actually common to
+commercial overbuilds as well, which is that the extremely high capital costs
+of broadband communications infrastructure are required in order to build a
+competing network, but a second or third or fourth entrant into a market is
+now sharing the potential market with the existing provider. Unlike the first
+provider who had the capital costs but had the entirety of the market to
+                                                                         Page 13 of 130
+                                                                   City Council Meeting
+                                                                    Transcript: 9/28/15
+

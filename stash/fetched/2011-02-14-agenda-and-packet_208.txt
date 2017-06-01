@@ -1,0 +1,61 @@
+                                                                                                 10.b
+California Avenue Lane Reduction – Traffic Analysis Report
+
+
+Two Lane to One Lane Transitions
+There are two locations where the proposed lane reduction would transition two lanes to
+one lane. The 2010 California Manual on Uniform Traffic Control Devices states that the
+
+
+
+
+                                                                                                        Attachment: Attachment B: Hexagon - Cal Av TIA Report (No Appendices) (1320 : California Avenue Neg Dec and CIP)
+transition length for roads with a design speed of less than 45 mph is computed by the
+following formula: L=WS2/60, where L is the transition length, S is the speed limit in MPH,
+and W is the offset distance. Thus, to transition 12 feet with a speed limit of 25 mph would
+require a taper of 125 feet.
+The first transition location is located westbound on California Avenue just west of Birch
+Street. This transition would move two lanes into one lane over approximately 125 feet. To
+eliminate the need for lane merging along California Avenue, the westbound curb lane
+may be converted to a dedicated right turn only lane to northbound Birch Street. This
+configuration would add less than 1 second of average delay to the intersection during the
+worst peak hour, and the intersection still would operate at LOS B. See Figure 11 for a
+diagram of the alternate westbound geometry and transition to one lane.
+The second merge location is on eastbound California Avenue just east of the El Camino
+Real/California Avenue intersection. This segment transitions two lanes to one lane over
+approximately 100 feet. Only one receiving lane is required because at any given time only
+one lane from either the west side of El Camino Real, the southbound left turn approach of
+El Camino Real, or the northbound right turn approach of El Camino Real feed traffic onto
+California Avenue. The existing curb lane approaching the first mid-block crosswalk of the
+project area may be removed to eliminate the need for lane merging. The curb lane can be
+converted to a bus duckout for the existing Stanford Marguerite shuttle stop at the
+intersection. This design would eliminate a stopped bus from blocking through traffic and
+help to avoid operations impacts to the El Camino Real & California Avenue intersection.
+See Figure 10 for an alternate design for the eastbound receiving lanes.
+
+Impacts to Pedestrians, Bikes, & Transit
+The project would maintain all existing crosswalks and sidewalks. In addition, three new
+crosswalks would be provided at the intersections of Park Boulevard and California
+Avenue (east and west). Overall, pedestrian mobility would be maintained or improved.
+Prior to final design, the new crosswalk locations should be reviewed to ensure that
+wheelchair ramps could be installed in accordance with Americans with Disabilities Act
+requirements.
+The project would make California Avenue east of El Camino Real into an enhanced bike
+route, with Sharrows, to provide a continuous bicycle connection to the Caltrain Station
+and to the Park Boulevard bike lanes. Generally, motor vehicle speeds would remain as is
+or could be reduced slightly because fewer travel lanes would eliminate the ability of faster
+drivers to pass slower drivers. Thus, conditions for bikes would be improved under the
+proposed plan.
+
+The project does not propose any changes to existing Caltrain or bus facilities. All existing
+bus stops would be maintained. The proposed lane reduction would result in small
+increases in travel time in the corridor due to the increased parking supply on California
+Avenue and fewer travel lanes. However, the increased delays would be on the order of
+two or three seconds and would not significantly adversely impact bus operations.
+
+
+
+                                                                             34 | Page 
+
+                                                                                         Packet Pg. 208
+

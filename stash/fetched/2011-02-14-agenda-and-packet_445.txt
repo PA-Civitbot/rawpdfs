@@ -1,0 +1,60 @@
+                                                                                                                   a
+NACWA Comments on Docket ID No. EPA-HQ-OAR-2009-0559
+November 29, 2010
+Page 32
+
+        Some SSI units share several similarities with limited use boilers and emergency CI RICE units. Limited
+use SSIs are put into service during shutdown or curtailment of a primary incinerator and they operate until
+
+
+
+
+                                                                                                                       Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+the primary unit returns to full service. As a result, these units operate for only a small portion of the year,
+typically 10 percent of the year or less. Because of this limited operation, annual emissions are expected to be
+low, making the cost of add-on pollution controls for beyond-the-floor mercury control, performance testing
+and other requirements unjustified. Also, since these units sustain operation for a shorter duration, they spend
+a larger percentage of their time in startup and shutdown modes, which have different emission characteristics.
+
+        Furthermore, limited use SSIs cannot feasibly accommodate the Proposed Rule’s testing obligations
+without running for a considerably longer period than they would typically otherwise operate. Limited use
+units also may not operate under steady-state conditions for sufficient periods of time to enable testing.
+Testing would require these units to extend operations beyond routinely scheduled operations to conduct the
+testing required by the Proposed Rule. Testing is also problematic for limited use units because the Proposed
+Rule requires submission of a Notification of Intent at least 30 days before any performance test. See 75 Fed.
+Reg. at 63330 (40 CFR. § 60.5220(a)(8)). Due to this requirement, even if a limited use unit was operated for an
+entire month after an unplanned start, there would be no time to conduct a properly noticed performance test.
+
+        NACWA asks that EPA establish a limited use subcategory set at 10 percent of the annual heat input
+capacity of a unit. These units would have emission limits that are based on their unique emission
+characteristics from spending a larger percentage of their time in startup and shutdown modes. Also, beyond-
+the-floor mercury controls would not be justified because their relatively short periods of operation would
+render the additional controls not cost effective.
+
+               2.      Space Constraints Justify a Size Subcategory
+
+         Additional subcategories based on size are also appropriate. EPA should exercise its discretion to
+establish a subcategory for small entities that operate SSIs to relieve the disproportionate cost burden on these
+small entities. EPA is required to consider mitigation measures for these small entities under the RFA, and
+establishing a separate subcategory that is consistent with the definition of small entities allows EPA to target
+relief to these entities to satisfy that obligation. Also, some POTWs will face significant challenges due to space
+constraints at their facilities. SSIs must be located within the solids handling portion of the POTW and space
+constraints in these areas of POTWs make it technically infeasible to install large pieces of control equipment.
+EPA assumes that control equipment can easily fit into existing sites, but this ignores the fact that many
+POTWs are located in areas where expansion is impossible or impracticable. At NEORSD, only one of three
+treatment plants could accommodate the additional 30 feet of space needed to install the ductwork, contact
+chamber and fabric filter system necessary to accommodate an ACI system; the other two treatment plants
+cannot accommodate them at all. See NEORSD Comments on the Proposed Rule. Even larger systems may be
+necessary to control emissions to control SO2, NOx, and HCl under the full range of operating conditions
+confronted by POTWs. EPA’s control cost assumptions are based on data that do not reflect all operating
+conditions, so NACWA is skeptical of EPA’s conclusion that most units will not need to install control
+equipment to meet other emission standards. A subcategory for these small or space-constrained units is
+warranted to accommodate the unique characteristics of these units.
+
+               3.      Unique Sewage Sludge Characteristics Justify a Class Subcategory
+
+
+
+
+                                                                                                        Packet Pg. 445
+

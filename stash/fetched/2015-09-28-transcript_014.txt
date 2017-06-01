@@ -1,0 +1,49 @@
+                          TRANSCRIPT
+address, that is not the case with the second or third or fourth operator who
+comes in and is competing to serve a defined and fixed market. That leads
+to some challenges around the economics of fiber to the home. Indeed,
+until Google Fiber started quite aggressively building fiber to the home, fiber
+to the business about five years ago, that is a market that was entirely
+stalled and we were not seeing commercial investment in that space at all.
+Google has to a great degree shaken that up, and we are seeing more
+overbuilds now, but the economics are still quite challenging. For that
+reason, we always want to point out that the core reason that a city or a
+county or a town would get involved in fiber to the home is not based on the
+financial returns. The reason that the public sector engages fiber to the
+premises as a potential strategy is based on the network externalities, all
+the benefits that flow from this infrastructure around economic activity,
+education, healthcare, environment protection and the significant other
+benefits of the networks. Indeed, the internet and increasingly fiber to the
+premises is the core infrastructure over which our economy flows in the 21st
+century and certainly over which our democracy flows. Those are the
+reasons why the public sector engages this. It's not the reasons for the
+private sector, obviously, but there are differing values and goals of the two
+different potential builders. As you'll see, that informed some of our analysis
+around partnerships, but also financial challenge. The other core point I
+would make around the traditional overbuild is that in the modern era, the
+current era of new fiber to the premises construction by private sector
+companies, the dominant model is to cherry pick. By cherry picking I mean
+that a company can pick and choose the most economically advantageous
+neighborhoods where the potential revenues are highest and the build costs
+are lowest. They can choose to build in those areas and not in others. This
+obviously will greatly improve the economics of this kind of network and this
+kind of enterprise. It is, however, a much more challenging thing for a
+public sector investor to do, that is to say, to use public funds and then
+cherry pick what neighborhoods are built. What we found as we analyzed
+the potential for this very important infrastructure here in Palo Alto was that
+a full range of costs are substantially higher in this market and probably
+many of your neighboring markets than in some other parts of the country,
+particularly in those parts of the country where there have been substantial
+municipal fiber to the home builds, for example, in the seven-state
+Tennessee Valley region, in rural Washington state where many public
+utilities districts have built fiber to the home networks, and so on. I don't
+think it'll come as any surprise to you that your costs here are considerably
+higher, particularly around labor, both City labor and contract labor, and
+certain kinds of requirements and regulations that have been promoted by
+both the State and the City. What we found when we put the cost estimates
+developed by our engineers into a financial model seeking to understand
+what the business of municipal fiber to the home would entail here in Palo
+                                                                        Page 14 of 130
+                                                                  City Council Meeting
+                                                                   Transcript: 9/28/15
+

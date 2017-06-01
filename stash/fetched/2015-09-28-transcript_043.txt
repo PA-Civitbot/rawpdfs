@@ -1,0 +1,47 @@
+                          TRANSCRIPT
+Mr. Asp: You mean the Phase A and Phase B on the public one?
+
+Council Member Filseth: Yeah.
+
+Mr. Asp: The wording in the report was a little bit—it took me a little bit to
+understand that myself. The key one is what's called Phase A, using the GN
+technology. It would be leveraging some of the existing fiber for backhaul.
+It would provide a basic 100 megabit per second service, and it's operating
+in the 2.4 gigahertz band. The Phase B, it should be called Option B, not
+phase because they're not related. That one requires you to have a lot more
+access points and really requires more of the fiber to the premises. It's kind
+of more like a fiber to the curb in order to deploy that. That's using the
+newer technology, the 1 gigabit technology on that. It's on a 5 gigahertz
+frequency.
+
+Council Member Filseth:     Option 3 we shouldn't even consider until and
+unless we do an FTTP?
+
+Mr. Asp: Yeah, that one. I think in the report it's called Option Number 2,
+Phase B or something like that.
+
+Council Member DuBois: I would like to make a motion eventually, but I'll
+just make comments right now. Back to my questions. What is our goal?
+For me, I think we should have a goal of Citywide access. Again, it comes
+down ownership. It comes down to flexibility. It comes down to control. I
+think one of the things we should decide tonight is how important we think it
+is for the City to own the fiber. The second thing, what should we do
+between now and, let's say, January, end of the year? We've been waiting
+for Google. There's a balance there between prudence and action. I think
+we should use this time now to prepare for January. I mean, let's pick the
+date. Let's move forward on some things in the meantime and let's give
+Google until January. I don't think we can just wait forever. One thing we
+haven't really talked about is an idea of a "dig once" ordinance which a lot of
+cities are doing.
+
+Council Member Kniss: Tom, what's your motion?
+
+Council Member DuBois: I'd like to get through the comments. A "dig once"
+ordinance that would basically say that anybody digging the City-laid
+conduit. In the UAC letter, there was a suggestion that they vet some of the
+assumptions, and I don't understand all the capital costs. I've talked to a lot
+of people, and I don't think they have either. I thought that was a good
+                                                                        Page 43 of 130
+                                                                  City Council Meeting
+                                                                   Transcript: 9/28/15
+

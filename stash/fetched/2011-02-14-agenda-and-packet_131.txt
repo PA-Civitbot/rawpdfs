@@ -1,0 +1,48 @@
+                                                          Monthly Employee Contribution Rates for 2011
+
+
+
+                 Bay Area Regional Plans (Basic)
+                                                                         2011 Monthly       2010 Monthly                           % EE          $ EE Monthly        $ Per Pay
+                              Plan                                                                              % Increase
+                                                                           Premium            Premium                          Responsibility    Responsibility       Period
+                     Blue Shield                  Employee Only           $675.51                   $577.33          17.01%            5.00%            $28.87           $13.32
+                     Blue Shield                  Employee +1              $1,351.02                $1,154.66        17.01%             5.00%               $57.73      $26.65
+                     Blue Shield                  Employee + 2             $1,756.33                $1,501.06        17.01%             5.00%               $75.05      $34.64
+                     Blue Shield NetValue         Employee Only            $581.24                    $500.35        16.17%             5.00%               $25.02      $11.55
+                     Blue Shield NetValue         Employee +1              $1,162.48                $1,000.70        16.17%             5.00%               $50.04      $23.09
+                     Blue Shield NetValue         Employee + 2             $1,511.22                $1,300.91        16.17%             5.00%               $65.05      $30.02
+                     Kaiser                       Employee Only            $568.99                    $532.56         6.84%             3.42%               $18.22        $8.41
+                     Kaiser                       Employee +1              $1,137.98                $1,065.12         6.84%             3.42%               $36.43      $16.81
+                     Kaiser                       Employee + 2             $1,479.37                $1,384.66         6.84%             3.42%               $47.35      $21.86
+                     PERS Choice                  Employee Only            $563.40                    $508.74        10.74%             5.00%               $25.44      $11.74
+                     PERS Choice                  Employee +1              $1,126.80                $1,017.48        10.74%             5.00%               $50.87      $23.48
+                     PERS Choice                  Employee + 2             $1,464.84                $1,322.72        10.74%             5.00%               $66.14      $30.52
+                     PERS Select                  Employee Only            $492.68                    $474.93         3.74%             1.87%                $8.88        $4.10
+                     PERS Select                  Employee +1              $985.36                    $949.86         3.74%             1.87%               $17.75        $8.19
+                     PERS Select                  Employee + 2             $1,280.97                $1,234.82         3.74%             1.87%               $23.08      $10.65
+                     PERSCare                     Employee Only            $893.95                    $868.17         2.97%             1.48%              $231.33     $106.77
+                     PERSCare                     Employee +1              $1,787.90                $1,736.34         2.97%             1.48%              $462.66     $213.54
+                     PERSCare                     Employee + 2             $2,324.27                $2,257.24         2.97%             1.48%              $601.46     $277.59
+                     PORAC                        Employee Only            $527.00                    $484.00         8.88%             4.44%               $21.50        $9.92
+                     PORAC                        Employee +1              $987.00                    $906.00         8.94%             4.47%               $40.50      $18.69
+                     PORAC                        Employee + 2             $1,254.00                $1,151.00         8.95%             4.47%               $51.50      $23.77
+
+                 % Increase = (2011 Monthly Premium - 2010 Monthly Premium)/2010 Monthly Premium
+                 % EE Responsibility = 1/2 % Increase not to exceed 5%
+
+                 $ EE Responsibility = 2010 Monthly Premium x % EE Responsibility
+                 PERSCare Contribution = (PERSCare premium - Blue Shield premium) + [(2011 Monthly Premium - 2010 Monthly Premium)/2010 Monthly Premium]
+Packet Pg. 131
+
+
+
+
+                 Revised 08/30/10
+
+
+
+
+                                                                                                                                                                                  a
+                                     Attachment: Monthly Employee Contribution Rates 2011 (1412 : Employer's Contribution under PEMHCA)
+

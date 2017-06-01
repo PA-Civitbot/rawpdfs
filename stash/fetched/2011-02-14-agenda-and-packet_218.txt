@@ -1,0 +1,69 @@
+                                                                                                                          10.c
+
+
+
+
+The roadway capacity of California Avenue under the current 4-lane condition is approximately
+1,360 vehicles per hour per direction or 680 vehicles per lane. The TIA measured the existing
+Roadway Segment LOS of California Avenue under current (4-lane) and project (2-lane)
+
+
+
+
+                                                                                                                                 Attachment: Attachment C: January 12, 2011 P&TC Staff Report (w/o attachments) (1320 : California Avenue Neg Dec and CIP)
+conditions but assumed a conservative 560 vehicles per lane capacity under project conditions to
+account for vehicles backing into and out of parking stalls. The reduction in capacity helps to
+account for "side traffic friction" and is an industry practice in the measurement of Roadway
+Segment LOS.
+
+The Roadway Segment LOS findings are provided in Table 4 and show that the 4-lane to 2-lane
+reduction on California Avenue between El Camino Real and the Park Blvd Plaza would result
+in a Less Than Significant impact to the street; each of the roadway segments would operate at
+LOS B or better. This is expected because even under project conditions (2-lanes), the
+directional capacity of the roadway is still twice as great as the vehicle demand of the street.
+
+
+                                                         Table 4
+                               California Avenue TIA - Roadway Block Segment LOS Findings
+
+
+                                                                                 Roadway Segment     Roadway Segment
+            California Avenue                    c:          Ex. Volumes
+                                             -   0
+                                                                                   LOS (4-lanes)       LOS (2-lanes)
+                                              OJ .-
+                                              > t:
+         Roadway Block Segment                ~ ~
+                                              I- .-
+                                                 o     AM       MID        PM"   AM   MID   I   PM   AM    MID    PM
+
+
+EI Camino Real to Ash St                         EB    140      242        190   A     A        A    A       B     B
+
+
+                                                 WB    200       230       233   A      A       A    B       B     B
+
+
+Ash St to Birch St                               EB     84       181       141   A      A       A    A       B     A
+
+
+                                                 WB    176       244       221   A      A       A    B       B     B
+
+
+Birch St to Park Blvd (West)                     EB     65       127       117   A      A       A    A       A     A
+
+
+                                                 WB    113       152       136   A      A       A    A       B     A
+
+
+Park Blvd (West) to Park Blvd (East)             EB     51       82        69    A      A       A    A       A     A
+
+
+                                                 WB     97       170       196   A      A       A     B      B     A
+
+
+
+
+City of Palo Alto                                                                                         Page 5 of 10
+                                                                                                                  Packet Pg. 218
+

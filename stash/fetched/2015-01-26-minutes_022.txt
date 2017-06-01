@@ -1,0 +1,49 @@
+                              MINUTES
+That was where the growth and income projection was, inside the cap rate.
+That meant the cap rate was given by three components, because the risk
+adjusted rate of capital was calculated by taking the risk free rate of capital,
+adding a risk premium, and then subtracting the rate of growth of the rental
+income. An industry standard measure of the risk free rate was the ten-year
+Treasury Bill, which was currently just under 2 percent. The typical estimate
+of a risk premium for commercial real estate was a few percent. A report
+stated 3.5 percent for apartment properties in the third quarter of 2014. He
+inquired whether that was approximately correct.
+
+Mr. Kawahara indicated that varied by land use and location. It was difficult
+to answer that question with precision.
+
+Council Member Filseth explained that adding the 2 percent to the 3.5
+percent resulted in a risk adjusted cost of capital between 5 and 6 percent.
+A current study for the Downtown Cap reported the average rental growth in
+office space was about 11 percent. In terms of the cap rate, there was no
+way to subtract 11 percent from 5.5 percent to obtain 5.59 percent.
+Assuming a 5 percent growth rate in rental income, there was no way to
+subtract 5 percent from 5.5 percent and obtain 5.59 percent. These models
+were shortcuts for a real discounted cash flow analysis. The simplified
+model did not work for this project. Industry comparables did not work in a
+high-growth, moderate-risk situation such as that in Palo Alto. He was
+curious about the result of a full analysis; therefore, he attempted one. He
+backed out a growth rate from the cap rate, so it became a true discount
+rate, a risk adjusted cost of capital. For the first pass he left it at 5.59
+percent and 5.82 percent. Instead of using $953,944 as a fixed income
+stream, he used a formula for a net present value of an increasing annuity
+and assumed in the first case that rental rates would grow 5 percent per
+year. The value of the project, assuming 5 percent growth and mid-5
+percent risk adjusted cost of capital, was not $2.8 million but $15.59 million.
+The value increment was not $1.284 million, but $6 million. He tried it with
+7 percent instead of 5 percent. In that case, the valuation of the project
+changed from $2.18 million to $28.1 million. The value increment changed
+to $10.6 million. He attempted other discount rates. With the PPP corporate
+bond rate of 3.6 percent currently, the value of the project went from $15
+and $28 million to $29 and $47 million. The value increment, depending on
+whether the growth rate of rental income was 5 or 7 percent, changed to
+$11 and $17 million. The model was not appropriate for the circumstances
+in Palo Alto. This was important, because those numbers were the basis for
+deciding whether the City was legally required to grant the off-menu
+concessions. The current model calculated the wrong answer, so the Council
+could not use it to make that judgment. The Council needed a discounted
+cash flow analysis that correctly accounted for rental growth.
+                                                                          Page 22 of 39
+                                                                   City Council Meeting
+                                                                   Minutes: 1/26/2015
+

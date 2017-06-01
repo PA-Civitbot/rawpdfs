@@ -1,0 +1,50 @@
+                          TRANSCRIPT
+Ms. Sullivan: Basically there's two sensor options that are potentially a good
+fit for us. One is the ultrasonic sensor that Sue-Ellen mentioned, and the
+other is a camera-type sensor. They work differently; they both work well.
+The ultrasonic one basically bounces a sound wave off an object and is able
+to sort of triangulate an image of the object, so it knows that it's a car and
+not a person on a skateboard. The camera works similarly. Of course, we
+know camera is a difficult word here. It can create essentially a binary
+image, so it knows a car is either there or not there. It doesn't have to track
+any information about that car; although, it could if we wanted to. Either of
+those sensor options works well. Paired with a sensor is this LED light,
+which we can program to be red, green, blue for ADA, pink, whatever.
+Ultimately, that's the technology that's out there. The good news is that this
+technology has been on the market now for several years and that the
+vendors are getting better and better. The products are more reliable; the
+costs are going down. We think that it's the right time to kind of pursue this
+sort of system.
+
+Council Member Kniss: I think it's more than the right time. It looks like it
+will run in that about $2 million range. I'd be very surprised if our citizens
+weren't supportive of that. Jim, what you're saying is we'll be not penny
+wise and pound foolish, but you really will go toward finding that amount of
+money that we could use. Do you want to give any deadline? Would you be
+willing to call out a date by which we might drive into a garage and get
+something that was actually indicative of what was available?
+
+Mr. Keene: Not in 2016.
+
+Council Member Kniss: In our lifetime?
+
+Mr. Keene: I think clearly this fall we should have the results of the Parking
+Management Study. It'll be up to you all to be willing to set the rates. Of
+course, we have some capital costs for that, I mean, depending what kind of
+parking control system, whether it's meters or what types and those sorts of
+things we are going to have to install. We'll have to work through that. I
+think we'll be able to model what the revenue stream should be able to be
+like. We could have some ranges. If you guys can do your part about
+making the decisions to start really charging for parking and we price it
+right, then I do think sometime in 2017 we could have a plan to know how
+to finance this investment.
+
+Ms. Sullivan: Can I just add one more thing to Jim's comment? As part of
+the Downtown Parking Management Study, we can also look at sort of
+alternative funding schemes.     Some cities actually outsource sort of
+management of paid parking in that they have a vendor that basically does
+
+                                                                         Page 56 of 78
+                                                                  City Council Meeting
+                                                                   Transcript: 4/11/16
+

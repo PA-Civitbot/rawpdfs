@@ -1,0 +1,63 @@
+                                                                                                                                       a
+NACWA Comments on Docket ID No. EPA-HQ-OAR-2009-0559
+November 29, 2010
+Page 31
+
+        EPA’s approach would discourage incremental improvements at MH units because they would trigger
+FB-based emission limits that cannot be met. EPA has acknowledged the design differences that make meeting
+
+
+
+
+                                                                                                                                           Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+these limits impossible, and has provided no pathway by which these modified or reconstructed MH incinerator
+units may achieve compliance. EPA must retain the separate MH and FB incinerator subcategories for both
+new and existing sources to avoid illegally subjecting newly-constructed or modified MH SSIs to unachievable
+and unjustified beyond-the-floor emission standards. Establishing separate emission limits for new MH and
+FB incinerators will also preserve incentives to be innovative and improve the use of the 163 MH incinerators
+currently in use in the U.S. See 75 Fed. Reg. at 63268.
+
+         B.       EPA Should Consider Additional Subcategories Based on Use, Size, and Class
+
+        Section 129(a)(2) provides that EPA “may distinguish among classes, types (including mass-burn,
+refuse-derived fuel, modular and other types of units) and sizes of sources within a category” when establishing
+MACT standards. These provisions vest EPA with broad authority to group like units for purposes of
+establishing emissions limitations. Given the significant differences in operating time, size, and input between
+incinerators in both the MH and FB categories, it is appropriate for EPA to create further subcategories. After
+choosing to gather data from only nine entities and consider only add-on pollution control technologies, EPA
+must not use the lack of data as an excuse for not establishing additional subcategories that may make this
+standard more achievable for SSIs of all sizes and types.
+
+                  1.       Limited Use SSIs
+
+       EPA should include an additional subcategory for limited use SSIs that function as back-up or
+emergency units and operate at only 10 percent of their annual capacity. These units may be essential to
+ensuring that POTWs can continue processing sewage sludge in a safe manner when a primary unit is
+unavailable.
+
+        In past rulemakings, EPA has created separate subcategories for limited use and emergency units,
+recognizing that their unique operating conditions could make it difficult if not impossible to meet the
+requirements applicable to regularly operating units. In the 2004 Industrial, Commercial, and Institutional
+Boiler and Process Heater MACT rulemaking, EPA recognized that back-up boilers, which operate “10 percent
+of the year or less,” “are different compared to typical industrial, commercial, and institutional boilers” and
+that “such limited use units should have their own subcategory.” 69 Fed. Reg. at 55232. Similarly, in setting
+NESHAP for Reciprocating Internal Combustion Engines, (“CI RICE”), 75 Fed. Reg. 9648 (Mar. 3, 2010), EPA
+recognized that stationary existing CI RICE should be divided into non-emergency and emergency categories
+“in order to capture the unique differences between these types of engines.” Id. at 9650. In that rulemaking,
+EPA found that as “emissions occur only during emergency situations or for a very short time to perform
+maintenance checks and operator training,” EPA found that “[e]missions from these units are expected to be
+low on an annual basis.” 18
+
+
+
+18
+  Subcategorization of Stationary Reciprocating Internal Combustion Engines ≤500 HP at 5 (May 15, 2006) (EPA-HQ-OAR-2005-0030-
+0012). While these statements focus on an “emergency use” subcategory, it is important to note that the limited duration of the use, not
+the purpose for using the CI RICE is the key issue. For example, the same rule also creates a subcategory for “black start” engines
+(engines used to start a turbine generator), which operate during both “emergency and high demand days.” 75 Fed. Reg. at 9662.
+
+
+
+
+                                                                                                                           Packet Pg. 444
+

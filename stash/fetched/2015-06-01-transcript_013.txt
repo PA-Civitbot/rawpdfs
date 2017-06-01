@@ -1,0 +1,50 @@
+                         TRANSCRIPT
+Vice Mayor Schmid: That's very helpful. It indicates the value of doing this
+is we learn things. It becomes important to try and put together what's
+going on with the public survey and what's going on in the way we monitor
+and look at things. That can be a very valuable tool as we move forward. I
+urge you to try and use the performance measures to look at the concerns
+that people have expressed and see if we can find an indicator that captures
+what it is out there that the public is responding to. I look forward to
+working with Tableau and learning, see what we can do in utilizing it over
+the course of the year.
+
+Council Member Wolbach: Thank you very much for the hard work. I
+apologize I don't have the Citizen Survey in front of me right now. What I
+want to do is check whether there are a couple of things in there. Do we
+have distinct breakdowns for renters versus homeowners?
+
+Ms. Richardson: There's a demographic question that asks that.
+
+Council Member Wolbach: As we're looking at our responses and the
+satisfaction and concerns, is that easy to identify, the distinct responses
+from renters versus homeowners?
+
+Ms. Richardson: It would be one of the choices you could select, if they're a
+renter or a homeowner, in the demographics when you're working in
+Tableau.
+
+Council Member Wolbach: I'm looking forward to going through that. As
+Vice Mayor Schmid mentioned, I will be doing the same. Is there also a
+distinct breakdown for type of housing, whether it's an apartment, condo,
+single-family house?
+
+Ms. Richardson: Yes. There's a question for one family house detached
+from any other houses; building with two or more homes which would
+include duplexes, townhomes, apartments or condos; mobile home and
+other. I'm not quite sure what people would live in for other.
+
+Council Member Burt: Thank you for the report. It's always informative and
+provocative. I had a few questions on things that stood out to me. First,
+I'm on the Performance Report. On page 10, there's one table of potholes
+repaired. Like a few other questions, I'm not sure that the way this is
+framed necessarily tells that what looks like a good trend might actually be a
+bad trend line and vice versa. As we look at the table below it, street lane
+miles resurfaced, and to the right, pavement condition index, we're paving
+more streets which possibly would mean that over time we'd have fewer
+potholes and more well-paved streets.
+
+                                                                       Page 13 of 103
+                                                                 City Council Meeting
+                                                                   Transcript: 6/1/15
+

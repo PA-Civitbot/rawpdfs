@@ -1,0 +1,49 @@
+                               MINUTES
+Request for Quotation (RFQ) or Request for Proposal (RFP) process to hire a
+vendor to analyze the specific types of facilities for these locations and
+provide market information; 2) outline potential Zoning and other Ordinance
+amendments and incentives; and, 3) return to the Council within six months
+with information from the consultant and Staff to consider the specifics.
+These antennas were generally 100-125 feet tall and would require
+considerable visual analysis. Crown Castle Communications had contracted
+previously with the Utility Department, and had performed some analysis of
+the potential service areas and possible required heights. Mr. Tanczos was
+an expert and could answer questions concerning the state of the industry
+and alternative technologies.
+
+David Tanczos, Crown Castle Communications discussed options to
+accommodate growth in wireless, voice, data, and video services with
+various infrastructure solutions. The two main variables in wireless coverage
+were antenna center line and power output at the antenna. Small cells had
+a low center line, low power, and more sites. Small cells were a good
+solution, and were growing in popularity. His company commissioned a
+detailed drive of every road in Palo Alto, accumulated the data for all
+carriers, and used that data to assemble the report. The data suggested
+190 locations for small cells within the City of Palo Alto where at least two
+carriers had a need for coverage. That did not address capacity need. More
+capacity was needed than those 190 locations could provide. The DAS
+system consisted of interconnected nodes on utility poles or other short
+structures, interconnected by fiber to a hub. If a community did not want to
+consider a small cell solution, the other end of the spectrum was towers only
+and the minimum number of towers. With three substations, Palo Alto
+would be blanketed with coverage. The drawback was the height of towers;
+East Meadow would be 225 feet tall, Hanover 280 feet tall, and Hopkins 225
+feet tall, all well above the current zoning restriction. This solution would
+not handle all the capacity needs of Palo Alto, but technically it would
+provide good blanket coverage to the entire City. It had high center lines,
+high power, and fewer sites. The last option worth considering and the
+apparent direction of overall network architecture was the hybrid or
+heterogeneous networks (HetNets), which was a combination of macro cells
+and small cells working together in a single network architecture. Where
+macro cells were possible and feasible, they were the most cost effective
+method to provide coverage and capacity to the community. Macro cells
+could be located on towers or roof tops. At the fringes of coverage areas,
+small cells could be used to augment capacity. Small cells could be placed
+where macro cells were not feasible or in hotspots for capacity needs. The
+hybrid solution was a combination of medium-height towers at higher power
+and low-height, low power DAS nodes or other small cells. The exact
+heights of the towers would have to be field tested. This was multi-carrier
+
+
+06/25/2012                                                             111-96
+

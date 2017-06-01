@@ -1,0 +1,60 @@
+                                                                                                                     a
+NACWA Comments on Docket ID No. EPA-HQ-OAR-2009-0559
+November 29, 2010
+Page 27
+
+intra-source variability. As EPA recognized in its MACT floor analysis, emission tests provide only a snapshot
+of emissions at a particular point in time. It is therefore appropriate for EPA to consider non-emission test
+
+
+
+
+                                                                                                                         Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+factors, such as metals content in sewage sludge, in evaluating variability and setting MACT floors. EPA has
+requested additional sewage sludge metals content information, but has restricted its request to metals content
+information collected during stack tests. See 75 Fed. Reg. at 63269. It is unclear why EPA would deem only
+metals content during stack tests relevant to variability. POTWs subject to Part 503 are required to track metals
+data in their sewage sludge year-round, during all periods of operation. See, e.g., Weekly Lead (Pb) and Mercury
+(Hg) Concentrations from POTWs (EPA-HQ-OAR-2009-0059-0036) (providing lead and mercury variability
+from 2005 to 2009 at POTWs). True variability can be established by using all metals content data and applying
+the site-specific control efficiencies determined under Part 503 testing or additional air emissions testing.
+
+       C.      Part 503 Limits Do Not Render Sewage Sludge Homogeneous
+
+         EPA claims that sewage sludge is homogeneous because the Part 503 regulations cap sludge
+concentrations. This ignores certain realities associated with the health-based standards established under Part
+503. First, the Part 503 regulations do not address all of the § 129 pollutants (PM, opacity, SO2, HCl, NOx and
+dioxin/furans). Part 503 does not regulate the variability of sulfur, chlorine and nitrogen concentrations in
+sewage sludge, which have a direct effect on the amount of SO2, HCl, and NOx generated when the sludge is
+incinerated. Second, Part 503 establishes risk-based limits for lead and cadmium that are different for every
+POTW based on feed rates, stack heights, and exhaust flow rates. Within these limits, POTW performance
+varies significantly depending upon the sources of these compounds in the sewage system, including industrial
+sources, soil content flushed during rainfall events, or residual material within the sewer system that is cleaned
+out periodically. While the Part 503 regulations have focused attention on reducing lead, cadmium and
+mercury compounds in sewage sludge over the years, EPA is wrong to claim that they have eliminated the
+variability of these compounds in sewage sludge.
+
+        In fact, actual performance for all POTWs is far below the health-based limits established under Part
+503. As such, the range of actual concentrations can vary by a factor of 100 or more without approaching the
+Part 503 limit. For example, compilations of weekly mercury data from POTWs demonstrate that
+concentrations of mercury can range from less than 0.1 mg/kg to as high as 17.25 mg/kg. See Weekly Hg and Pb
+Variability at POTWs, Docket ID No. EPA-HQ-OAR-2009-0059-0036. As a result, mercury concentrations can
+vary by two orders of magnitude without ever exceeding the NESHAPs limit. In the face of significant data
+supporting the heterogeneous nature of sewage sludge, EPA’s reliance on Part 503 standards as evidence of
+homogeneity is seriously misplaced.
+
+       D.      EPA’s Misunderstanding of the Variability of Sewage Sludge Leads to Unachievable New
+               Source Limits
+
+        EPA incorrectly presumes that stack test results account for the full variability of an SSI’s performance.
+As indicated above, that is based on the erroneous conclusion that sewage sludge is a homogeneous waste with
+insignificant variability of relevant constituents. This is particularly troubling when applied to the new source
+standards that are based on a snapshot stack test of the single best performing unit. EPA concedes that it does
+not know whether the stack test data is even representative of typical operation for the source that was tested.
+The preamble to the Proposed Rule states:
+
+
+
+
+                                                                                                       Packet Pg. 440
+

@@ -1,0 +1,48 @@
+                 Table 3: Summary of multiple cost estimates for multiple hearth incinerators to achieve beyond-the-floor mercury control.
+                                                                                           Baseline Emissions and Incremental Emission Reductions
+                                                                Cost ($)                                         (tons/year)
+                                                                                              EPA Estimate                  Palo Alto Estimate a
+                      Multiple Hearth Incinerators
+                               Nationwide                                                           Incremental
+                                                                                           Hg           Cost-                    Incremental Cost-
+                                                          TCI               TAC                                     Hg (tons)
+                                                                                         (tons)    effectiveness                effectiveness ($/ton)
+                                                                                                       ($/ton)
+                          Baseline Emissions               -                  -          3.0536          -             0.9                -
+                       MACT Floor Total Cost and
+                                                      $131,764,712      $40,327,113      0.0315          -           0.0093 b             -
+                         Emission Reductions
+                                   Fabric Filter      $478,373,914     $115,254,825        0             -           0.7838         $147,046,217
+                  Additional       Afterburner
+                  Costs and                           $145,514,140      $43,193,966        0             -              -                 -
+                                   Retrofit
+                  Emission         Packed Bed
+                  Reductions                          $258,596,495      $54,863,534        0             -              -                 -
+                                   Scrubber
+                  by Control       Activated Carbon
+                                                       $6,230,844       $32,335,212      2.6235     $12,325,219      0.7838          $41,254,417
+                                   Injection
+
+                                                                    Total cost per ton
+                                                                                                    $12,325,219                     $188,300,634
+
+
+
+                 a.
+                    Palo Alto’s estimate uses the WERF estimate of 0.69 tons for baseline emissions and includes the EPA cost estimates for fabric filter
+                    and activated carbon injection.
+                 b.
+                    Assumes MACT floor reduction from the baseline to be some percentage as the EPA estimate (1.03%)
+Packet Pg. 405
+
+
+
+
+                                                                                  Page 12 of 20
+
+
+
+
+                                                                                                                                                            a
+                          Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+

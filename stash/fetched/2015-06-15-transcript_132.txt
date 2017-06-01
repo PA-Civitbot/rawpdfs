@@ -1,0 +1,50 @@
+                          TRANSCRIPT
+Mr. Kawahara: When we say that it was done by area, we took the gross
+square footage of the actual BMR units, those five units, then we added to
+that the square footage of the parking spaces that we just talked about for
+those units. Then we added in the common areas for the residential space,
+the lobby and so forth. When we talk about area, that's what was included
+in that calculation.
+
+Council Member Filseth: It seems to me the cost of the rental units
+themselves is 4,128 square feet times $290. That's $1.2 million. Yet, you
+come up with a total of $2.15, $2.16 million for the total cost of those units,
+which is $1 million higher.
+
+Mr. Kawahara: Maybe while we're talking about other topics, I can double
+check some of those numbers for you. I'm pretty certain those numbers are
+correct.
+
+Council Member Filseth: When I penciled it out, if you took the area of the
+garage and you assumed that the garage and some of the other areas added
+up to several million dollars, $5-$6 million, which is the construction cost
+difference. If you weighted by the ratio of parking spaces needed instead of
+square footage of the total area, the difference was somewhere between
+$0.5 million and $700,000 or $800,000. That's what it seemed to me when
+I penciled it out. That would make a difference on how many concessions
+were necessary. One other question I wanted to ask was on the economic
+model. You've got some lovely charts. You talked about what the average
+increase in office rental rates was likely to be over the next few decades.
+You came up with 3 percent on average, I think you assumed. it's on page
+1104 of the packet. Where does that get factored into the analysis?
+
+Mr. Kawahara: The assumptions about growth in rental rates is needed for
+purposes of a discounted cash flow analysis. It's run out for 99 years. You
+assume that rents grow by 3 percent a year, and that's factored into the
+discounted cash flow analysis.
+
+Council Member Filseth: If you take 2000 to 2014, which you did, then over
+those 14 years you get 3 percent a year, compounded annual growth. If
+you take 2002 to 2014, instead of 2000 to 2014, then you get 6 percent a
+year, which is 2X. It's pretty sensitive to exactly where you take your time
+period. Depending on where you wanted to pick, you could pick almost any
+number you wanted in that range.
+
+Mr. Kawahara: You're right it is sensitive to the range of the time period
+that you choose. We were purposeful in choosing that time period, because
+it reflected two up periods as well as two down periods. There's only so far
+
+                                                                       Page 132 of 145
+                                                                  City Council Meeting
+                                                                   Transcript: 6/15/15
+

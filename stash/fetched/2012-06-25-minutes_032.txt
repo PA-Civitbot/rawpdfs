@@ -1,0 +1,49 @@
+                               MINUTES
+
+Mr. Tanczos said one option was shared generators on sites to ensure the
+sites remained operable for cell site and backhaul equipment. His company
+had a 24/7 operation center to monitor all sites for service outages.
+
+Council Member Schmid inquired if fiber optics had an advantage in an
+emergency situation.
+
+Mr. Tanczos indicated fiber optics was a better option for everyone for a
+number of reasons.
+
+Mayor Yeh noted the DAS solution was not ideal from many perspectives. In
+the hybrid model shown in the presentation reflected an overlapping area for
+the City Hall and Hopkins sites. He inquired about expanding the East
+Meadow and Hanover coverage areas to reduce the number of DAS sites
+needed.
+
+Mr. Tanczos said that could be undertaken. The design presented was only
+one option. The biggest challenge was the lack of space for a tower at the
+Maybell Avenue site. Other options including private roof tops were not
+feasible; therefore, small cell solutions were located there.
+
+Mayor Yeh asked if the Maybell Avenue site was a DAS location.
+
+Mr. Tanczos stated the Maybell Avenue substation did not have adequate
+ground space for a tower, and that was the location of the large cluster of
+DAS nodes.
+
+Mayor Yeh was agreeable to increasing tower height to reduce the number of
+DAS applications. He asked about current and anticipated coverage for Palo
+Alto Hills, since it was not included in the map.
+
+Mr. Tanczos did not have that information with him, but he could generate
+it.
+
+Mr. Williams reported the topography was not conducive to coverage, and
+finding a tower site would be difficult.
+
+Mayor Yeh inquired whether carriers would submit a coverage map to the
+company constructing towers at substations.
+
+Mr. Tanczos reported teams from the carrier and construction company
+would work to construct coverage maps and ensure assumptions matched.
+
+
+
+06/25/2012                                                           111-105
+

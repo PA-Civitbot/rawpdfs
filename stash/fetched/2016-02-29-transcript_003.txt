@@ -1,0 +1,49 @@
+                           TRANSCRIPT
+has increased over time, through labor, through adding more complexity to
+our processes. In 2001, there really wasn't cloud offerings. There weren't
+providers who could provide us software that we could just subscribe to.
+There are new models of using software that didn't exist. Today our
+expectations are just so much bigger. We want very good reporting. We
+want real-time, accurate reporting. We want a lot more self-service. I think
+finally today people want to use the tech from their mobile devices. The
+technology we have, because of its age and from the point at which we
+bought it, many things I just described simply are not available to us on our
+version.    If that wasn't enough to convince you that we have to do
+something, the last time we upgraded SAP was in 2009 which is now seven
+years ago. We are on an old version. SAP itself has a completely new set of
+technologies to do the same things that their software did in 2009. Because
+we're on an old version and it's not easy to upgrade, we do as a
+consequence pay for some premium support. We brought in a company; it
+was in late 2014. In early 2015, I reported on the results to the Finance
+Committee. These are the very summarized results of the evaluation that
+the vendor did. Some of it is clear from the arguments I already made
+around the use of contemporary technology versus what we have available
+to us today. SAP is a successful application at the City today, but we don't
+use a lot of it. It's actually quite underutilized. Part of the reason for that, it
+is somewhat complex and it's costly to enable some of the features that we
+don't currently use. In the list here you'll see we don't take advantage of
+some of the more contemporary capabilities such as workflow which allow a
+piece of information submitted to the system to flow easily to another
+individual to take some action, to flow to another individual to take action.
+Reporting continues to be difficulty. I think you've heard that based on
+some of your own requests of Staff. It's hard to use, and we have been
+challenged with training people and keeping people up to speed on the
+product. Because of Staff turnover, we lose a lot of intellectual knowledge
+on the product. Finally, it is an expensive product to run today just daily
+and then to add features that we would like. Every time we want to add
+something that you ask us to add, we have to bring in external talent, and
+it's costly. Again, it’s a version of the software that doesn't allow Staff to
+easily make the kinds of changes we would like to make. Those are a series
+of the motivations that drive sort of the next set of recommendations. When
+you boil it all down, there are really three options for us at the City. It's
+worth saying that we could technically stay on SAP for a little while longer;
+we could maintain the status quo. It'll get increasingly expensive and will
+continue not to be able to meet City Staff and Council needs around mobility
+and reporting and self-service and all the other things we want to do.
+Option Two, because we're SAP, we could simply upgrade. I use the word
+"simply" as an understatement. It would be hard; it would basically be a
+new implementation. A third option would be to look out to the marketplace
+                                                                              Page 3 of 66
+                                                                     City Council Meeting
+                                                                      Transcript: 2/29/16
+

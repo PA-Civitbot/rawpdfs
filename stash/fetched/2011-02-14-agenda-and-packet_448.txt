@@ -1,0 +1,60 @@
+                                                                                                                  a
+NACWA Comments on Docket ID No. EPA-HQ-OAR-2009-0559
+November 29, 2010
+Page 35
+
+
+        During malfunctions or what our industry refers to as emergency conditions (e.g., loss
+
+
+
+
+                                                                                                                      Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+of draft within a multiple hearth incinerator, loss of the induced draft fan, loss of scrubber
+water, loss of power, etc.), sludge feed to a multiple hearth incinerator is promptly stopped and all of the sludge
+within the incinerator (approximately 30 - 45 minutes worth of sludge feed) is burned out. It takes
+approximately 30 minutes for the burn-out to be completed. If a relief stack is not utilized during emergency
+conditions, the health and safety of operating personnel can be compromised and the incinerator and
+associated equipment can be damaged beyond repair.
+
+       Fluidized bed incinerators are not equipped with emergency relief stacks. During
+emergency conditions, the sludge feed to the incinerator is promptly stopped and the fluidizing air
+blower is shut down. Combustion within the fluidized bed incinerator will cease within a
+short amount of time, due to the low volume of non-combusted sludge within the unit.
+
+        In 40 CFR § 60.4900(d), EPA arbitrarily deems use of a bypass stack when sewage sludge is being charged
+an “emissions standards deviation for all pollutants listed in Table 1.” Bypass stacks are an essential part of the
+safety equipment and operators should be allowed to open the bypass stack immediately as part of a
+continuous series of events that includes stopping the sludge feed without triggering a deviation. Moreover,
+EPA does not have the authority to presume deviations of emission standards, particularly when the bypassed
+emission controls may not be necessary to meet the emission standard. Contemporaneous Part 503 data can
+show that the sludge content of cadmium, lead or mercury were so low that it could be met without operating a
+control device. Use of a bypass stack must not be deemed a deviation of emission limitations for these
+compounds in the face of this credible contrary evidence. Assuming that the use of a bypass stack results in
+emission violations for all pollutants is arbitrary and subsection (d) of 40 CFR § 60.4900 should be removed
+from the final rule.
+
+
+VIII. THE PROPOSED RULE FAILS TO PRESCRIBE ACHIEVABLE STANDARDS FOR STARTUP,
+      SHUTDOWN AND MALFUNCTION PERIODS
+
+         NACWA is very concerned about EPA’s proposal to apply the same proposed emission standards for
+steady-state operating periods to startup, shutdown and malfunction (“SSM”) events. EPA incorrectly claims
+that its authority to prescribe unique standards for SSM periods is constrained by Sierra Club v. EPA, 551 F.3d
+1019 (D.C. Cir. 2008). Although the preamble states that EPA “believes” SSIs will be able to achieve the
+proposed standards during startup and shutdown (75 Fed. Reg. at 63282), this claim is not supported by the
+record and NACWA believes this position fails to recognize that some startup and shutdown conditions may
+temporarily increase emissions, even among the “best performing” SSIs. EPA makes no claim that SSIs will be
+able to achieve the proposed standards during malfunctions, yet it does not propose unique standards for
+malfunction periods because they “should not be viewed as a distinct operating mode and, therefore, any
+emissions that occur at such times do not need to be factored into development of CAA section 129 standards,
+which, once promulgated, apply at all times.” Id.
+
+       We believe that EPA’s proposed SSM approach is flawed from the outset because the Agency starts with
+the premise that the D.C. Circuit’s decision in Sierra Club supports EPA’s proposed SSM approach – applying
+
+
+
+
+                                                                                                       Packet Pg. 448
+

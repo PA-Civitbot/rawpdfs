@@ -1,0 +1,69 @@
+                                                                                                                     10.b
+California Avenue Lane Reduction – Traffic Analysis Report                                                             
+
+
+Intersection Queuing
+A queuing analysis was conducted for high-demand movements at intersections. Vehicle
+queues were estimated using a Poisson probability distribution, which estimates the
+probability of “n” vehicles for a vehicle movement using the following formula:
+
+
+
+
+                                                                                                                            Attachment: Attachment B: Hexagon - Cal Av TIA Report (No Appendices) (1320 : California Avenue Neg Dec and CIP)
+Probability (X=n) =        λn e – (λ)
+                               n!
+
+Where:
+         Probability (X=n) = probability of “n” vehicles in queue per lane
+         n = number of vehicles in the queue per lane
+         λ = Average number of vehicles in queue per lane (vehicles per hour per
+             lane/signal cycles per hour)
+
+
+Table 3
+Roadway Segment LOS based on Volume-to-Capacity Ratio
+
+ Level of                                                                                 Volume-to-Capacity
+                                            Description
+ Service                                                                                      (V/C) Ratio
+
+              Average operating speeds at the free-flow speed generally prevail.
+    A         Vehicles are almost completely unimpeded in their ability to                  less than 0.269
+              maneuver within the traffic stream.
+
+              Speeds at the free-flow speed are generally maintained. The ability
+              to maneuver within the traffic stream is only slightly restricted, and
+    B                                                                                        0.270 - 0.439
+              the general level of physical and psychological comfort provided to
+              drivers is still high.
+
+              Speeds at or near the free-flow speed of the roadway prevail.
+              Freedom to maneuver within the traffic stream is noticeably
+    C                                                                                        0.440 - 0.639
+              restricted, and lane changes require more vigilance on the part of
+              the driver.
+
+              Speeds begin to decline slightly with increased flows at this level.
+              Freedom to maneuver within the traffic stream is more noticeably
+    D                                                                                        0.640 - 0.849
+              limited, and the driver experiences reduced physical and
+              psychological comfort levels.
+
+              At this level, the roadway operates at or near capacity. Operations
+              in this level are volatile, because there are virtually no usable gaps
+    E                                                                                        0.850 - 0.999
+              in the traffic stream, leaving little room to maneuver within the traffic
+              stream.
+
+              Vehicular flow breakdowns occurs. Large queues form behind
+    F                                                                                      1.000 and greater
+              breakdown points.
+
+
+
+
+                                                                                             11 | Page 
+
+                                                                                                             Packet Pg. 185
+

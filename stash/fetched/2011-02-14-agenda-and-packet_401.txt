@@ -1,0 +1,61 @@
+                                                                                                        a
+
+
+
+
+percent O2, or (b) multiplying raw (uncorrected) concentration data by uncorrected flue
+gas flow rate data. By using corrected concentration and uncorrected flue gas flow rate
+data, ERG overestimated CCCSD emissions by 77 percent. A detailed spreadsheet
+illustrating this error is included in CCCSD’s comment letter.
+
+
+
+
+                                                                                                            Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+ERG’s error in using uncorrected flue gas flow rate data with corrected mercury
+concentrations is not limited to the facilities that responded to the ICR, because the
+sludge feed rates and flue gas flow rates from these facilities were used to develop “flow
+rate factors” in dscfm/dry tons per hour of sludge that were then used in the subsequent
+calculation of baseline estimates for the facilities that did not receive the ICR. Therefore,
+it appears that the mercury baseline emissions for all SSIs were calculated using
+uncorrected flue gas flow rate data and concentration data corrected to 7 percent O2.
+
+In estimating baseline mercury emissions from Palo Alto’s SSIs, the flow rate factors that
+were developed resulted in a flue gas flow rate almost 50 percent greater than the actual
+measured flowrate. This inflated flowrate was then multiplied by EPA’s assumed
+concentration of 0.103 mg/dscm at 7% O2, introducing the error of using uncorrected flue
+gas flow rate with corrected concentration. Additionally, Palo Alto’s measured mercury
+concentration is about half of EPA’s assumed concentration. These factors combine to
+result in a baseline mercury emissions estimate for Palo Alto that is about six times
+higher than the actual emissions, as shown in Table 1 below.
+
+Table 1: Comparison of EPA’s annual baseline estimate for mercury to Palo Alto’s
+measured emissions
+
+               Flow                      Concentrati    Concentration                   Baseline
+Emission                  Operating                                         Baseline
+               rate                         on           (mg/dscm at                     (tons/
+Estimates                  Hours                                           (lbs/year)
+             (dscfm)                     (mg/dscm)         7% O2)                         year)
+                           4,200 per
+  EPA
+              19,458     incinerator;        NA              0.103            63.2       0.0316
+Estimate
+                          total 8,400
+ Palo Alto
+   Stack       13,380       8,400           0.024              0.051          10.08       0.00504
+  Testing
+* EPA assumed that we operate incinerators half of the year; therefore the EPA estimate for each
+incinerator was summed for an annual number.
+
+Assuming similar errors on baseline emissions across the board, USEPA and ERG have
+significantly overstated the baseline mercury emissions from SSIs. EPA must reevaluate
+baseline emissions, the MACT floor assessment, and the beyond the MACT floor
+assessment.
+
+
+
+
+                                        Page 8 of 20
+                                                                                              Packet Pg. 401
+

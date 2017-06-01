@@ -1,0 +1,49 @@
+                               MINUTES
+The carrier would provide feedback regarding its preferences to the
+construction company, who would then provide coverage maps to the City.
+
+Mayor Yeh believed carriers should provide coverage maps, because it added
+value.
+
+Mr. Tanczos stated he had coverage data from every carrier and from every
+road in the City of Palo Alto.
+
+Mayor Yeh asked if that information could be made public.
+
+Mr. Tanczos needed to check software licensing requirements.
+
+Mayor Yeh asked if the intensity of data demand could be determined from
+each macro tower once it was constructed.
+
+Mr. Tanczos indicated carriers would have to provide the intensity of data
+demand. He did not have access to that level of usage and capacity.
+
+Mayor Yeh stated the ability to understand data demand around different
+substations and towers would inform fiber discussions and the provision of
+service. The Council's intention was to create and drive business towards
+macro cells. He asked about incentives created by other jurisdictions. He
+was not opposed to disincentives for DAS applications.        He wondered
+whether costs of Staff time and costs for public hearings had been included
+in the DAS application process. The costs should be quantified relative to
+what the Council was trying to create.
+
+Mr. Williams felt that an analysis would be helpful. There were substantial
+costs for Council, Staff, and Board and Commission time; however, the
+Applicants paid for the cost of Staff's processing time.
+
+Mr. Tanczos reported the carriers would pursue the path of least resistance
+once shared towers were available. He would not advocate disincentives for
+small cells, because they were an important part of the design. Without
+small cells complementing the macro cells, the City would lose the
+robustness of the network and carriers would pursue more macro cells
+throughout the design.
+
+Mayor Yeh suggested the Council could consider that in updating Zoning
+Ordinances. He asked if the RFQ would request submissions for both
+constructions of macro cells and fiber backhaul or construction of macro cells
+only.
+
+
+
+06/25/2012                                                             111-106
+

@@ -1,0 +1,49 @@
+                 Table 4: Summary of cost estimates to for multiple hearth incinerators to achieve beyond-the-floor reductions of mercury after
+                 implementation of a national dental amalgam program. Based on Palo Alto’s dental amalgam results EPA can assume a 60 percent
+                 reduction in the amount of mercury entering the wastewater treatment plants.
+                                                                                     Baseline Emissions and Incremental Emission
+                                                                                                 Reductions (tons/year)
+                                                           Cost ($)               Updated EPA Estimate
+                                                                                    (using 60 percent           Palo Alto Estimate
+                  Multiple Hearth Incinerators                                    reduction in baseline)
+                                                                                             Incremental                 Incremental
+                                                                                                 Cost-                       Cost-
+                                                     TCI              TAC          Hg                          Hg
+                                                                                            effectiveness               effectiveness
+                                                                                                ($/ton)                     ($/ton)
+
+                       Baseline Emissions             -                -         1.2215 a         -          0.36 b           -
+                   MACT Floor Total Cost and
+                                                 $131,764,712   $40,327,113      0.0126 c         -         0.0037 c          -
+                      Emission Reductions
+                                Fabric Filter    $478,373,914   $115,254,825        0             -         0.3135      $367,638,995
+                 Additional     Afterburner
+                                                 $145,514,140   $43,193,966         0             -            -              -
+                 Costs and      Retrofit
+                 Emission       Packed Bed
+                                                 $258,596,495   $54,863,534         0             -            -              -
+                 Reductions     Scrubber
+                 by Control     Activated
+                                Carbon            $6,230,844    $32,335,212      1.0638     $30,395,950     0.3135      $103,142,622
+                                Injection
+                                                           Total cost per ton               $30,395,950                 $470,781,617
+
+                 a.
+                    Baseline emission is EPA estimate baseline of 3.0536 tons reduced by 60 percent.
+                 b.
+                    Baseline emission is WERF baseline of 0.9 tons reduced by 60 percent
+                 c.
+                    Assumes MACT floor reduction to be the same percentage as the EPA estimate in Table 3 (1.03%)
+Packet Pg. 407
+
+
+
+
+                                                                                Page 14 of 20
+
+
+
+
+                                                                                                                                                  a
+                         Attachment: PA Comments EPA HQ-OAR-2009-0559_Final (1297 : EPA Proposed Rule on Sewage Sludge Incinerators)
+

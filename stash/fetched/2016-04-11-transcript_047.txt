@@ -1,0 +1,49 @@
+                          TRANSCRIPT
+saw into the slabs to install. It's not as nimble at recognizing the difference
+between vehicles and other objects like motorcycles, bikes, etc. A second
+option for vehicle detection is an ultrasonic system. That's kind of the mid-
+level option. It requires cabling and conduit to be installed overhead. It
+senses objects by measuring the sound waves. It's a little better at
+distinguishing what's a car versus what's an animal but still not 100 percent
+accurate. The third option is a camera system. That is the most expensive,
+but it is the most accurate. The cameras can identify cars versus other
+objects, but they do only identify what's a car. It doesn't identify license
+plates unless specifically designed to do so. It doesn't identify color of car,
+that sort of information. Looking at the stakeholder feedback, looking at the
+existing conditions in Palo Alto, the consultant recommendation is to install
+the single-space parking guidance with LED indicator lights in the Downtown
+garages. It's the most accurate and flexible system. It gives us the most
+nimble operation of the parking garages once installed. They recommend
+ceiling-mounted camera sensors and LED lights at each stall. On the roof
+levels where there's nowhere for a ceiling-mounted object to go, they
+recommend wireless, surface-mounted sensors. There would be monument
+signs at each garage entry that would indicate the number of spaces
+available on each floor and real-time parking occupancy data would be
+available from the system for use on the City website for third-party apps,
+etc. Looking at the very rough planning-level cost estimates, the primary
+recommendation from the consultant is that single-space parking guidance
+system with the indicator lights. The probable cost for installation of that
+system, recognizing that it would be retrofit into the existing garages and
+including an estimate for communications infrastructure and network
+connections, is roughly $2 million. The alternate one identified by the
+consultant is a single-space system with sensors only. That would just—it
+would have a single-space count, but it would not have the indicator lights
+that would identify what spaces or what type or which spaces are available.
+That cost is about $1.26 million. The third alternate is the basic facility
+count that would tell us if the garage is open or if it's full or would give us a
+total count of vehicles roughly in the garage. That's just under $350,000.
+Bringing us back to the Staff recommendation.              First of the parking
+wayfinding portion, to direct Staff to solicit bids for the construction of the
+Downtown parking wayfinding design in the blue color scheme. Second, to
+direct Staff to prepare plans and estimates for construction and installation
+of an automated parking guidance system with a preference for the single-
+space monitoring in the Downtown parking garages and solicit bids when the
+funding becomes available. With that, we conclude our presentation.
+
+Mayor Burt: Mr. Keene.
+
+
+                                                                          Page 47 of 78
+                                                                   City Council Meeting
+                                                                    Transcript: 4/11/16
+
