@@ -5,6 +5,8 @@ from os.path import exists, join
 from os import makedirs
 import re
 from slugify import slugify_url
+from urllib.parse import urljoin
+
 
 STASH_DIR = join('stash', 'fetched')
 HOMEPAGE_URL = 'http://www.cityofpaloalto.org/gov/agendas/council/default.asp'
@@ -15,8 +17,8 @@ MAX_YEAR = 2016
 
 def get_year_urls(year):
     things = []
-    url = BASE_URL + str(year) + '.asp'
-    resp = requests.get(url)
+    page_url = BASE_URL + str(year) + '.asp'
+    resp = requests.get(page_url)
     soup = BeautifulSoup(resp.text, 'lxml')
     rows = soup.select('table tbody > tr')
     for row in rows:
@@ -29,7 +31,8 @@ def get_year_urls(year):
                     link = cell.find('a')
                     if link and 'Video' not in link.text:
                         fname = date + '-' + slugify_url(link.text) + '.pdf'
-                        things.append((link['href'], fname))
+                        url = urljoin(page_url, link['href'])
+                        things.append((url, fname))
     return things
 
 
