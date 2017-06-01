@@ -51,8 +51,8 @@ if __name__ == '__main__':
     for year in years:
         print(year)
         things = get_year_urls(year)
-        for url, filename in things:
-            fullname = join(STASH_DIR, filename)
-            download_and_save(url, filename)
+        for url, fname in things:
+            fullname = join(STASH_DIR, fname)
+            download_and_save(url, fullname)
 
 
