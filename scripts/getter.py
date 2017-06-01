@@ -6,7 +6,7 @@ from os import makedirs
 import re
 from slugify import slugify_url
 
-STASH_DIR = 'stash'
+STASH_DIR = join('stash', 'fetched')
 HOMEPAGE_URL = 'http://www.cityofpaloalto.org/gov/agendas/council/default.asp'
 BASE_URL = 'http://www.cityofpaloalto.org/gov/agendas/council/'
 
