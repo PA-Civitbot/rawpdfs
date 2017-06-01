@@ -1,0 +1,44 @@
+       The contract includes a right to purchase the output from additions to the facility at a
+       price set at the time, subject to Council approval.
+
+   •   Product: The agreement includes monthly “firming” of the energy to facilitate more
+       predictable energy deliveries. The energy is delivered in monthly firm flat blocks, which
+       means that PPM will guarantee each day for the month ahead the energy deliveries for
+       each hour, split into on-peak and off-peak hours. This month-ahead firming provides the
+       ability for CPAU and NCPA to allocate other supply resources cost-effectively.
+
+   •   Price: $62.95/MWh, for a total contract amount of $75 million ($5 million per year)
+       based on estimated generation and firming energy requirements. The charges to Palo Alto
+       will include an adjustment each month tied to the amount of firming energy required and
+       a market price index to accomplish the firming obligations. The adjustment may be a
+       charge (wind generated less than expected) or a credit (wind generated more than
+       expected).
+
+   •   Credit Guarantees: PacifiCorp Holdings, Inc. (PHI), is providing a corporate credit
+       guarantee. The Shiloh I Wind Project is a subsidiary of PPM Energy, Inc. a subsidiary of
+       PHI. PHI is currently rated A- (stable outlook) by Standard and Poor’s, and is a wholly
+       owned subsidiary of Scottish Power. The contract includes provisions to provide
+       collateral if needed in order to maintain adequate credit status during the course of the
+       contract term.
+
+   •   Construction: The project differs from the PPM High Winds agreement in that PPM will
+       build, own, and operate the proposed Shiloh project. As the project has not yet been
+       constructed, the agreement includes construction contingencies. These contingencies
+       could result in a smaller project, a delayed project, or in some cases, no project at all. If
+       the project is cancelled by Shiloh, Palo Alto retains a right to purchase the output should
+       the project be resurrected and built within one year.
+
+   •   Off-Ramps: Either party may terminate the contract if the other party does not meet its
+       obligations under the contract, which include performance, payment, and adequate credit
+       status. Should the contract be terminated due to default, any damages that may be
+       incurred, such as wind energy replacement cost, are due only to the non-defaulting party.
+       Palo Alto reserves to right to relinquish its share of the project output if the final installed
+       capacity of the facility is less than 50 MW.
+
+RESOURCE IMPACT
+The estimated $5 million annual cost is included in the current Utilities Department budget, and
+will be included in future budget year proposals. Annual costs may fluctuate due to unpredictable
+nature of wind availability, but are expected to be within 5% of the estimated cost.
+
+CMR:386:05                                                                               Page 3 of 5
+

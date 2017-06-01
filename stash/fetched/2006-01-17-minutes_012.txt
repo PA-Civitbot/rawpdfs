@@ -1,0 +1,48 @@
+The RFP shall request information from the responders on the following
+parameters:
+   • Proposed financial and other contributions required from the City. City
+     contributions may include assigning, with operational and other
+     limitations, use and control of the City’s dark fiber ring and the City’s
+     existing trial network;
+   • Assessment of financial risk to the City;
+   • Proposed schedule to achieve the City’s primary goals;
+   • Proposed technologies to achieve the City’s primary goals;
+   • Proposed ultimate ownership of the system’s physical infrastructure;
+   • Will the proposed system be an “open” system, i.e. with all qualified
+     service providers having equal access to the system? If not, what
+     types or timeframes of limited access are proposed?
+   • Proposed roles of the City versus roles of the responder.
+
+Furthermore, to have staff include in the RFP a latency parameter and the
+preference for an open system.
+
+Jeff Hoel, 731 Colorado Avenue, was in favor of a FTTH system. The
+wireless system lacked speed, security, reliability and was not a substitute
+for FTTH.
+
+Wayne Martin, 3687 Bryant, was not in favor of the proposal. He said the
+City had carriers other than Comcast and why add another vendor with no
+background history and not protected by Public Utilities Commission (PUC).
+Major vendors had discontinued the FTTH system because the service was
+not being accepted rapidly across the world as anticipated.
+
+William Kornfeld, 3440 Tippawingo Drive, was in favor of the FTTH system.
+He said the two internet providers available to him did not provide superior
+telephony, video and services only possible with high bandwidth low latency
+internet. He asked the Council to approve the FTTH system.
+
+Norman Carroll, 425 High St. #120, presented questions regarding cost,
+added equipment, underground wiring, maintenance, inconveniences and
+whether the public was ready to face all that was required in installing the
+FTTH system. He felt higher standards should be placed on emergency
+services and preparedness, street and sidewalk maintenance, utilities and
+public services for the City.
+
+Robert Smith, 2291 Green, asked whether there was a business plan, who
+was interested, and what companies were willing to partner with the City. He
+suggested asking incumbent providers what would be useful in working with
+them and to start with cell phone providers.
+
+
+1/17/06                                                               100-46
+
