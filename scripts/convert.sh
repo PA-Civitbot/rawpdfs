@@ -1,9 +1,14 @@
 
-for fname in "stash/*.pdf";
-   do
-   echo $fname
-#         for i in {1..999};
-#         do
-#         pdftotext -f "$i" -l $l "$i" -layout $f "${f%.PDF}_$1.txt";
-#    done;
+ls stash/fetched/20*.pdf | while read -r fname; do
+   maxpages=$(pdfinfo $fname | ack 'Pages:\s+(\d+)' --output '$1')
+#   echo $fname has $maxpages
+   for i in $(seq 1 $maxpages); do
+    printf -v pagenum "%03d" $i
+    pagename="${fname%.pdf}_$pagenum.txt"
+    echo pdftotext -f "$i" -l  "$i" -layout $fname $pagename
+    # GO
+    pdftotext -f "$i" -l  "$i" -layout $fname $pagename
+
+
+    done;
 done

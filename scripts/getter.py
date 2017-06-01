@@ -13,7 +13,7 @@ HOMEPAGE_URL = 'http://www.cityofpaloalto.org/gov/agendas/council/default.asp'
 BASE_URL = 'http://www.cityofpaloalto.org/gov/agendas/council/'
 
 MIN_YEAR = 2002
-MAX_YEAR = 2016
+MAX_YEAR = 2017
 
 def get_year_urls(year):
     things = []
